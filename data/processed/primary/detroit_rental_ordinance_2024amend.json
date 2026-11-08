@@ -1,0 +1,59 @@
+{
+  "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+  "document_title": "Detroit Rental Property Ordinance Amendment",
+  "popular_name": "Detroit Rental Property Ordinance Amendment",
+  "citation": "Ordinance M24-131; Detroit City Code, Chapter 8",
+  "source_type": "primary_law",
+  "authority_level": "binding",
+  "jurisdiction": {
+    "country": "United States",
+    "state": "Michigan",
+    "county": null,
+    "municipality": "Detroit"
+  },
+  "legal_domain": "residential_tenant_protection",
+  "source_url": null,
+  "source_publisher": "City of Detroit",
+  "source_format": "PDF",
+  "publication_date": "2024-10-29",
+  "enactment_date": "2024-10-29",
+  "effective_date": "2025-01-01",
+  "retrieved_at": null,
+  "source_version": {
+    "ordinance_number": "M24-131",
+    "amends": "Detroit City Code, Chapter 8",
+    "document_status": "enacted_amendment",
+    "is_consolidated_code": false,
+    "notes": "This document represents the enacted ordinance amendment. It should not be treated as a complete or necessarily current consolidated version of Detroit City Code Chapter 8."
+  },
+  "ingestion_scope": {
+    "priority_sections": [
+      "8-15-81",
+      "8-15-82",
+      "8-15-84",
+      "8-15-85",
+      "8-15-86",
+      "8-15-87",
+      "8-15-88",
+      "8-15-89",
+      "8-15-90",
+      "8-15-91",
+      "8-15-98"
+    ],
+    "additional_lead_provisions_to_consider": [
+      "8-15-92",
+      "8-15-94",
+      "8-15-95"
+    ],
+    "definitions_sections": [
+      "8-15-3",
+      "8-15-4",
+      "8-15-5",
+      "8-15-6",
+      "8-15-7",
+      "8-15-8",
+      "8-15-9"
+    ]
+  },
+  "sections": []
+}
