@@ -5,7 +5,8 @@ CHANGELOG:
 NOV 8th, 2026:
 - Hit my first parsing hurdle which is processing super long documents especially PDFs. Initially wanted to take pictures of pages one by one and feed it to AI to extract the text but realised that was super inefficient.
 - Instead started using poppler-utils pdftotext command line tool, getting a few pages at a time.
-- Learned that OCR can sometimes mess up, especially at the edges of pages or with italicized words. I am going in and fixing wrong spellings and being really explicit with the AI which is chunking the output of the pdf parse to not silently guess the fixes for errors but to instead bring it up to me. 
+- Learned that OCR can sometimes mess up, especially at the edges of pages or with italicized words. I am going in and fixing wrong spellings and being really explicit with the AI which is chunking the output of the pdf parse to not silently guess the fixes for errors but to instead bring it up to me.
+- One PDF in particular since it is an amendment has the issue of strikethroughs which my command line tool does not catch. I have to go in and manually see what the condensed passage is with strikethroughs considered.
 
 NOV 7th, 2026:
 - Got started on initial stage of processing - preserving text verbatim, but getting it into a much more
