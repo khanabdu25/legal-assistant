@@ -71,7 +71,7 @@
 
 11          a.     For floors: lOug/ft^; or
 
-12          b.     For interior windowsills: 100 ug/ft: or
+12          b.     For interior windowsills: 100 μg/ft: or
 
 
 13          Any damaged or otherwise deteriorated lead-based paint on an impact surface that
@@ -110,7 +110,7 @@
 
  5          a.      For floors: lOug/ft^: or
 
- 6          b.      For interior windowsills: 100 ug/ft : or
+ 6          b.      For interior windowsills: 100 μg/ft : or
 
 
  7   (6)    Bare soil on residential rental property that contains lead equal to or exceeding the
@@ -126,7 +126,7 @@
 12                  million.
 
 
-13         A porch that is found to contain more than dO ug/ft^. per square foot of leaded dust.
+13         A porch that is found to contain more than dO μg/ft^. per square foot of leaded dust.
 
 14   Lead clearance means:
 
