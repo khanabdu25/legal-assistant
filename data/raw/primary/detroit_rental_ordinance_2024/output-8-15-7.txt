@@ -80,7 +80,7 @@
 
 15   0      An interior or exterior surface painted with lead-based paint that a young child can
 
-16          mouth or chew and includes an "accessible surface" as defmed in Section '1851b(2)
+16          mouth or chew and includes an "accessible surface" as defined in Section '1851b(2)
 
 17          of the Residential Lead Based Paint Hazard Reduction Act, being ^2 USC 1851 ct
 
@@ -170,7 +170,7 @@
 
  9   offal, paper, glass, cans, bottles, trash, debris, or other foreign substances.
 
-10           Loft means a dwelling unit in a building originally constmcted for other than residential
+10           Loft means a dwelling unit in a building originally constructed for other than residential
 
 11   use containing one or more rooms or enclosed floor spaces arranged for living, eating, sleeping,
 
@@ -242,7 +242,7 @@
 
 21   shipping/freighters.
 
-22           Operator means any person who is in charge, or has tlie care or control of a building,
+22           Operator means any person who is in charge, or has the care or control of a building,
 
 23   premises or structure, which is let, offered or rented for occupancy.
 
@@ -285,7 +285,7 @@
 
 17   interim controls only, or a certified lead inspector or certified risk assessor that:
 
-18           (1)     Identifies       anv deteriorated paint violation, dust-lead violation, or bare soil
+18           (1)     Identifies       any deteriorated paint violation, dust-lead violation, or bare soil
 
 19                   violation or lead-based paint hazards in the rental property; and
 
