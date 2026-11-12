@@ -33,7 +33,7 @@
 
 17   interim controls only, or a certified lead inspector or certified risk assessor that:
 
-18           (1)     Identifies       anv deteriorated paint violation, dust-lead violation, or bare soil
+18           (1)     Identifies       any deteriorated paint violation, dust-lead violation, or bare soil
 
 19                   violation or lead-based paint hazards in the rental property; and
 
@@ -64,7 +64,7 @@
 
  7          Rat harborage means any condition under which rats may find shelter or protection.
 
- 8          Ratproof or ratproojing means a form of constmction which will prevent the ingress or
+ 8          Ratproof or ratproojing means a form of construction which will prevent the ingress or
 
  9   egress of rats to or from a given space or buildings, or will prevent rats from gaining access to
 
