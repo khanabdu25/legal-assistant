@@ -44,7 +44,7 @@
 
 22          Seawall report means a report prepared by a licensed professional civil engineer with
 
-23   relevant experience and expertise, to provide data on the shuctural integrity of the seawall above
+23   relevant experience and expertise, to provide data on the structural integrity of the seawall above
 
 
 
@@ -144,7 +144,7 @@
 
 21   unsecured, is secured by other than normal means, as defined in this section, is illegally occupied,
 
-22   or poses an imminent danger to the health and safety of surroimding residents and properties or to
+22   or poses an imminent danger to the health and safety of surrounding residents and properties or to
 
 23   the general public by being unsafe as determined by an authorized local official, including, but not
 
@@ -181,7 +181,7 @@
 14           (2)     Visible surface dust debris and residue: or
 
 
-15           (3)     Bare soil within the dripline of a rental propertv.
+15           (3)     Bare soil within the dripline of a rental property.
 
 16   Visual assessment also means the provision of a report explaining the results of such an
 
