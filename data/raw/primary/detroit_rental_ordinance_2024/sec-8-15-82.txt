@@ -37,7 +37,7 @@
 18   the registry and to cover the costs of administering the provisions of this division.
 
 
-19   Sec. 8-15-82. Inspection of registered rental property; Certificate of Compliance required;
+19   Sec. 8-15-82. Inspection of rental property; Certificate of Compliance required;
 
 20   registry of Certificates of Compliance for rental properties; violations; occupancy; length of
 
@@ -59,13 +59,13 @@
 
  3                    In order to secure a Certificate of Compliance for rental property, the Building
 
- 4   Official shall cause an inspection to be made of all rental property required to be registered to have
+ 4   Official shall cause an inspection to be made of all rental property required to be registered
 
- 5   a Certificate of Registration of Rental Property pursuant to Section 8-15-81 of this Code according
+ 5   pursuant to Section 8-15-81 of this Code according
 
- 6   to the schedule for registration renewal in Subsection (c) of the this section. Each inspection shall
+ 6   to the schedule for registration renewal in this section. Each inspection shall
 
- 7   strictly conform to both Section Subsection 8-15-34(b) of this Code and the requirements of this
+ 7   strictly conform to both Subsection 8-15-34(b) of this Code and the requirements of this
 
  8   section.
 
@@ -76,7 +76,7 @@
 
 11   or its agent(s) and the rental property, its units, accessory structures and the premises, including
 
-12   exterior areas, comply with the standards and requirements of this article^-and ^
+12   exterior areas, comply with the standards and requirements of this article.
 
 13              (d)   For purposes of rental property inspections conducted pursuant to this section, all
 
@@ -198,51 +198,26 @@
 
 17   make the registry available on the City's website. The Department may combine this registry with
 
-18   the registry required by Section Subsection 8-15-81 (d) of the City this Code.
+18   the registry required by Subsection 8-15-81 (d) of this Code.
 
-19          (h)     Notwithstanding Section Subsection_8-15-35(d) of this Code, and subject to
+19          (h)     Notwithstanding Subsection_8-15-35(d) of this Code,
 
-20   Subsections (e) and (f) of this section, it shall be unlawful for an owner or its agent to allow any
+20   it shall be unlawful for an owner or its agent to allow any
 
 21   unoccupied rental property to be occupied, or to collect rent from a tenant for occupancy of a rental
 
 22   property, during or for any time in which there is not a valid Certificate of Compliance for the
 
-23   rental property. Tenants of an occupied rental property that lacks a Certificate of Compliance shall-
+23   rental property. Tenants of an occupied rental property that lacks a Certificate of Compliance
 
 
 
                                                       49
  1   may pay the rent that would otheiwise have been due the owner or its agent into an escrow account
 
- 2   established in accordance with Section 8-15-86 of this Code ,which is established by the Buildings,
+ 2   established in accordance with Section 8-15-86 of this Code.
 
-
- 3   Safot^^ Engineering, and Environmental Department with a third party financial institution. If the
-
- 4   owner of the rental property obtains a Certificate of Compliance within the first 90 days in which
-
- 5   payments are made into the escrow account, the rent in the escrow account shall be paid to the
-
- 6   owner, less the actual administrative fee charged by the third part>^ financial institution. If the
-
- 7   owner fails to obtain a Certificate of Compliance within those first 90 days, the rent in the escrow
-
- 8   account shall be paid, at the end of those 90 days, to the tenant, less the actual administrative fee
-
- 9   charged by the third part>^ financial institution. Thereafter, the tenant shall continue paying rent
-
-10   into the escrow account until the owner obtains a Certificate of Compliance. At the end of every
-
-11   60 days in which the owner fails to obtain a Certificate of Compliance, the rent in the escrow
-
-12   account shall be paid to the tenant, less the actual administrative fee charged by the third party
-
-13   financial institution. If the owner of the rental property obtains a Certificate of Compliance, all
-
-14   rent accmed in the escrow account shall be paid to the owner, less the actual administrativo foe
-
-15   charged by the thii'd part>^ financial institution. Nothing in this article shall be constmed to peimit
+15   Nothing in this article shall be constmed to peimit
 
 16   eviction of an existing tenant from a rental property or to deprive existing tenants of their rights to
 
@@ -252,7 +227,7 @@
 
 19   owner's inability to collect rent from such tenants pursuant to this subsection.
 
-20          (i)     A tenant who retains possession of a rental property under Subsection (4-h) of this
+20          (i)     A tenant who retains possession of a rental property under Subsection (h) of this
 
 21   section, notwithstanding an owner's inability to collect rent, may nevertheless be evicted if an
 
@@ -268,7 +243,7 @@
 
  2   occupant of a rental property for occupancy of a rental property that does not have a valid
 
- 3   Certificate of Compliance except as set forth in this subsection. Notwithstanding Subsection (d h)
+ 3   Certificate of Compliance except as set forth in this subsection. Notwithstanding Subsection (h)
 
  4   of this section, where an inspection of a rental property or a notice of suspension or denial of a
 
@@ -280,80 +255,17 @@
 
  8   thereafter be unlawful.
 
-
- 9          (g)     It shall be unlawful for the owner of a rental propert>^ on which the original
-
-10   construction was completed prior to January 1, 1978 and required to be registered pursuant to
-
-11   Section 8 15 81 of this Code to allow the rental property^ to be occupied without a lead clearance
-
-12   report being obtained and provided to the Buildings, Safet>^ Engineering, and Environmental
-
-13   Department in accordance with Subdivision B of this division.
-
-14          (1^     Nothing in this section shall be interpreted as limiting or controlling the amount of
+14          (k)     Nothing in this section shall be interpreted as limiting or controlling the amount of
 
 15   rent an owner may charge to a tenant pursuant to a lawfiil agreement with the tenant.
-
-16          (i)     Subsection (d) of this section shall talce effect by ZIP Code according to a schedule
-
-17   promulgated by the Director of the Buildings, Safet>^ Engineering, and Environmental Department
-
-18   and posted on the Cit^^'s website. Such schedule shall be promulgated no later than 60 days
-
-19   following the effective date of this subsection, which was November 2'1, 2017, and may thereafter
-
-20   be amended periodically at the discretion of the Director of the Buildings, Safety^ Engineering, and
-
-21   Environmental Department.
-
-22          (9      In each of the five years following the effective date of this subsection, which was
-
-23   November 2*1, 2017, the Buildings, Safety^ Engineering, and Environmental Department shaH-
 
 
 
 
                                                      51
- 1   provide the City Council with a report outlining the state of rental housing in the City. The report
+ 
 
- 2   shall include, by ZIP Code, the number and percentage of registered rental properties that are
-
- 3   currently occupied, the percentage of residents who are renters, the average monthly income and
-
- 4   average household size of renters, and the number and percentage of registered rental properties
-
- 5   that lack a Certificate of Compliance. In addition, the report shall include, by ZIP Code, the median
-
- 6   income of rental propert^^ owners who are individuals, the average percentage of individual rental
-
- 7   property owner's income that is attributable to the owner's rental property portfolio, the average
-
- 8   number of rental properties in each owner's rental property' portfolio, and the a^^erage yearly profit
-
- 9   on rental properties that are one family dwellings, two family dwellings, and multi family
-
-10   dwellings. Further, the report shall include the average costs during the preceding year that rental
-
-11   property owners expended to bring their properties into compliance with this article. Where
-
-12   practicable, the report shall brealc down such repair costs according to the type of repair made, and
-
-13   according to the t^pe of rental property^: one family, two family, and multi family. Any report
-
-14   issued pursuant to this subsection shall include United States Census data regarding the
-
-15   demographics of each ZIP Code subject to the report, \\nien preparing reports pursuant to this
-
-16   subsection, the Buildings, Safet)^ Engineering, and Environmental Department may use any data
-
-17   source, including, but not limited to, surv^eys ofproperty owners and tenants. The first report under
-
-18   this subsection shall be made no later than one year following the effective date of this subsection,
-
-19   which was November 21, 2017.
-
-20          (0      Nothing in this section shall be interpretedas limiting the ability of the Buildings,
+20          (l)      Nothing in this section shall be interpretedas limiting the ability of the Buildings,
 
 21   Safety Engineering, and Environmental Department to exercise its discretion           or to establish
 
