@@ -22,7 +22,7 @@
 
 11                    driver's license number or state identification number of the rental property owner
 
-12                    apphcant, and, if a corporation or other legal entity, the name, address, email
+12                    applicant, and, if a corporation or other legal entity, the name, address, email
 
 13                    address, and telephone number of the property manager and the resident agent;
 
@@ -60,7 +60,7 @@
 
  5          (d)     The Buildings, Safety Engineering, and Environmental Department shall maintain
 
- 6   a registry of owners and rental property govemed by this section. The Department may combine
+ 6   a registry of owners and rental property governed by this section. The Department may combine
 
  7   this registry with the registry required by Section 8-15-82(e_g_) of this Code.
 
