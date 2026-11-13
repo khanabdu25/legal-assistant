@@ -8,7 +8,7 @@
 
  5          (d)     The Buildings, Safety Engineering, and Environmental Department shall maintain
 
- 6   a registry of owners and rental property govemed by this section. The Department may combine
+ 6   a registry of owners and rental property governed by this section. The Department may combine
 
  7   this registry with the registry required by Section 8-15-82(e_g_) of this Code.
 
@@ -111,7 +111,7 @@
 
  3         b.     When a visual assessment identifies no deteriorated paint violation or bare
 
- 4                soil violation, the inspection shall satisfy tlie requirements of Subsection (c)
+ 4                soil violation, the inspection shall satisfy the requirements of Subsection (c)
 
  5                of this section.
 
