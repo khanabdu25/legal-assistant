@@ -2,8 +2,11 @@
 
 CHANGELOG:
 
+NOV 16th, 2026:
+- Was careful not to put words that are misspelled but could be a valid word in another context in the misspelled json as that would silently correct things that are valid in another context.
+
 NOV 11th, 2026:
-- Found that some misspelled words were being repeated over and over again so made a json collecting all of them and wrote a Python script to find and replace the misspellings in the raw extracted txt file based on the json
+- Found that some misspelled words were being repeated over and over again so made a json collecting all of them and wrote a Python script to find and replace the misspellings in the raw extracted txt file based on the json.
 
 NOV 8th, 2026:
 - Hit my first parsing hurdle which is processing super long documents especially PDFs. Initially wanted to take pictures of pages one by one and feed it to AI to extract the text but realised that was super inefficient.
