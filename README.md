@@ -2,6 +2,9 @@
 
 CHANGELOG:
 
+NOV 19th, 2026:
+- Upon finishing the processing of the initial 3 primary sources in the corpus, I started on the processing of the judicial sources next. Still making sure to preserve important metadata and chunk stategically in the json to prepare for the database chunking
+
 NOV 16th, 2026:
 - Was careful not to put words that are misspelled but could be a valid word in another context in the misspelled json as that would silently correct things that are valid in another context.
 
