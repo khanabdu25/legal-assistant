@@ -2,6 +2,9 @@
 
 CHANGELOG:
 
+NOV 21st, 2026:
+- It just occured to me that although I am in the processing stage and chunking into all these neat little subsections for a very structured ingestion, I am not really relating them together such that those relationships can be followed for the more specific questions that need exact references from the source material.
+
 NOV 20th, 2026:
 - Started on ingesting "A Practical Guide for Tenants & Landlords." It's a way newer PDF with a very clear font, which is what has resulted in zero problems in the ingestion thus far which I am thankful for. 
 - The logical partition points for this document are the sections outlined in the TOC, with each section further being broken down into question and answer pairs.
