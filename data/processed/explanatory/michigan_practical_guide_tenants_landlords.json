@@ -292,42 +292,42 @@
       ]
     },
     {
-  "section_id": "mobile_home_parks",
-  "section_title": "Mobile Home Parks",
-  "section_type": "explanatory_section",
-  "overview": "Tenancies in a mobile home park can be unique because not only are there situations where the tenant is renting both the mobile home and the lot it sits on, but there are also circumstances under which the tenant owns the mobile home while renting only the lot.",
-  "questions": [
-    {
-      "question_number": 48,
-      "question": "Do the same laws apply to tenants in mobile home parks?",
-      "full_text": "Whether the laws that govern traditional landlord-tenant relationships apply to tenants in mobile home parks can depend on whether the tenant owns or rents the mobile home. For example, some of the requirements under the covenants of habitability and fitness in regard to the inside of the mobile home may not apply if the tenant is the one who owns the mobile home. See the section on Repair and Maintenance for more information. The Truth in Renting Act discussed earlier in this booklet applies to mobile home tenancies. See the section on Lease Agreements for more information."
-    },
-    {
-      "question_number": 49,
-      "question": "Are there certain things that mobile home park owners are prohibited from doing?",
-      "full_text": "Yes, under the Mobile Home Commission Act, MCL 125.2301 - MCL 125.2350, owners and operators of mobile home parks and seasonal mobile home parks are prohibited from engaging in, or permitting an employee or agent to engage in, unfair or deceptive methods, acts, or practices. Under MCL 125.2328(1), this includes: (1) Directly or indirectly charging or collecting an entrance fee; (2) Requiring a person to purchase a mobile home from another person as a condition of entrance to, or lease or rental of, a park space; (3) Directly or indirectly charging or collecting a refundable or nonrefundable exit fee; (4) Requiring or coercing a person to purchase, rent, or lease goods or services from another person as a condition of: a. Entering into a park or lease; b. Selling a mobile home through the park owner or operator, or their agent or designee, upon leaving a park; c. Renting space in a park; (5) Directly or indirectly charging or collecting money or something else of value for electric, fuel, or water service without the use of that service by the person first being accurately and consistently measured. An exception to this prohibition is made when the service is included in the rental charge as an incident of tenancy; (6) Conspiring, combining, agreeing, aiding, or abetting in the employment of a method, act, or practice that violates the Mobile Home Commission Act; (7) Renting or leasing a mobile home or site in a park without offering a written lease; (8) With some exceptions, prohibiting a person from selling their mobile home on site for a price determined by that person, if the buyer qualifies for tenancy and the mobile home meets the conditions of written park rules or regulations. This prohibition does not apply to seasonal mobile home parks; or (9) With some exceptions, prohibiting a person from installing or maintaining an exterior television antenna on a mobile home within the park unless the park provides residents, without charge, a central television antenna for UHF-VHF reception."
-    },
-    {
-      "question_number": 50,
-      "question": "Can a tenant be evicted from a mobile home park?",
-      "full_text": "Yes, a tenant may be evicted from a mobile home park, but the landlord must have “just cause” for the eviction. MCL 600.5775(2) defines “just cause” to mean one or more of the following: (1) The tenant’s use of the mobile home site for an unlawful purpose; (2) The tenant’s failure to comply with the lease under which the tenant possesses the property, or with a rule or regulation of the mobile home park that is reasonably related to any of the following: a. The health, safety, or welfare of the mobile home park, its employees, or tenants; b. The quiet enjoyment of the other tenants of the mobile home park; c. Maintaining the physical condition or appearance of the mobile home park or the mobile homes located in the park in order to protect the value of the park or to maintain its aesthetic quality or appearance; (3) The tenant’s violation of rules made by the Michigan Department of Health and Human Services under the Mobile Home Commission Act; (4) The tenant’s intentional physical injury of personnel or other tenants of the mobile home park, or the intentional physical damage of the property of the park or other tenants; (5) The tenant’s failure to comply with relevant local ordinances, state laws, or rules or regulations relating to mobile homes; (6) The tenant’s failure to pay rent or other required charges on 3 or more occasions during any 12-month period; (7) Conduct by the tenant that creates a substantial annoyance to other tenants or to the mobile home park, after notice has been given and the tenant has had an opportunity to fix the annoyance; (8) The tenant’s failure to maintain the mobile home or the site in a reasonable condition; (9) Condemnation of the mobile home park; (10) Changes in the use or nature of the mobile home park; or (11) Public health and safety violations caused by the tenant."
-    },
-    {
-      "question_number": 51,
-      "question": "Can a tenant request to meet with the landlord to try and avoid an eviction action?",
-      "full_text": "Yes, under MCL 600.5777, within 10 days of the tenant receiving a Demand for Possession, the tenant has the right to request an in-person conference with the owner or operator of the mobile home park or their representative. The request must be made by certified or registered mail. The conference must be scheduled within 20 days of the tenant’s request."
-    },
-    {
-      "question_number": 52,
-      "question": "Is the tenant required to continue to make rental payments during an eviction action?",
-      "full_text": "Yes, during an action to evict a tenant from a mobile home park, the tenant is required to continue to make rental payments as they come due. MCL 600.5779."
-    },
-    {
-      "question_number": 53,
-      "question": "What happens after a court enters a judgment in favor of the mobile home park?",
-      "full_text": "MCL 600.5781 largely governs what happens after a tenancy in a mobile home park has been terminated through a judgment from the court. The tenant has 90 days from the date of the judgment to sell or move the mobile home, though this time frame can be extended under certain circumstances. During this time, the tenant is required to continue to make all rental payments as they come due, in addition to any other required charges. Both the landlord and the tenant have responsibilities for ensuring the maintenance of the mobile home and its site. However, after 10 days have passed from the date of judgment, the landlord is allowed to disconnect all park-supplied utility services."
+      "section_id": "mobile_home_parks",
+      "section_title": "Mobile Home Parks",
+      "section_type": "explanatory_section",
+      "overview": "Tenancies in a mobile home park can be unique because not only are there situations where the tenant is renting both the mobile home and the lot it sits on, but there are also circumstances under which the tenant owns the mobile home while renting only the lot.",
+      "questions": [
+        {
+          "question_number": 48,
+          "question": "Do the same laws apply to tenants in mobile home parks?",
+          "full_text": "Whether the laws that govern traditional landlord-tenant relationships apply to tenants in mobile home parks can depend on whether the tenant owns or rents the mobile home. For example, some of the requirements under the covenants of habitability and fitness in regard to the inside of the mobile home may not apply if the tenant is the one who owns the mobile home. See the section on Repair and Maintenance for more information. The Truth in Renting Act discussed earlier in this booklet applies to mobile home tenancies. See the section on Lease Agreements for more information."
+        },
+        {
+          "question_number": 49,
+          "question": "Are there certain things that mobile home park owners are prohibited from doing?",
+          "full_text": "Yes, under the Mobile Home Commission Act, MCL 125.2301 - MCL 125.2350, owners and operators of mobile home parks and seasonal mobile home parks are prohibited from engaging in, or permitting an employee or agent to engage in, unfair or deceptive methods, acts, or practices. Under MCL 125.2328(1), this includes: (1) Directly or indirectly charging or collecting an entrance fee; (2) Requiring a person to purchase a mobile home from another person as a condition of entrance to, or lease or rental of, a park space; (3) Directly or indirectly charging or collecting a refundable or nonrefundable exit fee; (4) Requiring or coercing a person to purchase, rent, or lease goods or services from another person as a condition of: a. Entering into a park or lease; b. Selling a mobile home through the park owner or operator, or their agent or designee, upon leaving a park; c. Renting space in a park; (5) Directly or indirectly charging or collecting money or something else of value for electric, fuel, or water service without the use of that service by the person first being accurately and consistently measured. An exception to this prohibition is made when the service is included in the rental charge as an incident of tenancy; (6) Conspiring, combining, agreeing, aiding, or abetting in the employment of a method, act, or practice that violates the Mobile Home Commission Act; (7) Renting or leasing a mobile home or site in a park without offering a written lease; (8) With some exceptions, prohibiting a person from selling their mobile home on site for a price determined by that person, if the buyer qualifies for tenancy and the mobile home meets the conditions of written park rules or regulations. This prohibition does not apply to seasonal mobile home parks; or (9) With some exceptions, prohibiting a person from installing or maintaining an exterior television antenna on a mobile home within the park unless the park provides residents, without charge, a central television antenna for UHF-VHF reception."
+        },
+        {
+          "question_number": 50,
+          "question": "Can a tenant be evicted from a mobile home park?",
+          "full_text": "Yes, a tenant may be evicted from a mobile home park, but the landlord must have “just cause” for the eviction. MCL 600.5775(2) defines “just cause” to mean one or more of the following: (1) The tenant’s use of the mobile home site for an unlawful purpose; (2) The tenant’s failure to comply with the lease under which the tenant possesses the property, or with a rule or regulation of the mobile home park that is reasonably related to any of the following: a. The health, safety, or welfare of the mobile home park, its employees, or tenants; b. The quiet enjoyment of the other tenants of the mobile home park; c. Maintaining the physical condition or appearance of the mobile home park or the mobile homes located in the park in order to protect the value of the park or to maintain its aesthetic quality or appearance; (3) The tenant’s violation of rules made by the Michigan Department of Health and Human Services under the Mobile Home Commission Act; (4) The tenant’s intentional physical injury of personnel or other tenants of the mobile home park, or the intentional physical damage of the property of the park or other tenants; (5) The tenant’s failure to comply with relevant local ordinances, state laws, or rules or regulations relating to mobile homes; (6) The tenant’s failure to pay rent or other required charges on 3 or more occasions during any 12-month period; (7) Conduct by the tenant that creates a substantial annoyance to other tenants or to the mobile home park, after notice has been given and the tenant has had an opportunity to fix the annoyance; (8) The tenant’s failure to maintain the mobile home or the site in a reasonable condition; (9) Condemnation of the mobile home park; (10) Changes in the use or nature of the mobile home park; or (11) Public health and safety violations caused by the tenant."
+        },
+        {
+          "question_number": 51,
+          "question": "Can a tenant request to meet with the landlord to try and avoid an eviction action?",
+          "full_text": "Yes, under MCL 600.5777, within 10 days of the tenant receiving a Demand for Possession, the tenant has the right to request an in-person conference with the owner or operator of the mobile home park or their representative. The request must be made by certified or registered mail. The conference must be scheduled within 20 days of the tenant’s request."
+        },
+        {
+          "question_number": 52,
+          "question": "Is the tenant required to continue to make rental payments during an eviction action?",
+          "full_text": "Yes, during an action to evict a tenant from a mobile home park, the tenant is required to continue to make rental payments as they come due. MCL 600.5779."
+        },
+        {
+          "question_number": 53,
+          "question": "What happens after a court enters a judgment in favor of the mobile home park?",
+          "full_text": "MCL 600.5781 largely governs what happens after a tenancy in a mobile home park has been terminated through a judgment from the court. The tenant has 90 days from the date of the judgment to sell or move the mobile home, though this time frame can be extended under certain circumstances. During this time, the tenant is required to continue to make all rental payments as they come due, in addition to any other required charges. Both the landlord and the tenant have responsibilities for ensuring the maintenance of the mobile home and its site. However, after 10 days have passed from the date of judgment, the landlord is allowed to disconnect all park-supplied utility services."
+        }
+      ]
     }
-  ]
-}
   ]
 }
