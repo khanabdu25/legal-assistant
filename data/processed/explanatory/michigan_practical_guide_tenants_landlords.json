@@ -1,0 +1,40 @@
+{
+  "document_id": "michigan_practical_guide_tenants_landlords",
+  "document_title": "A Practical Guide for Tenants and Landlords",
+  "source_type": "explanatory_material",
+  "authority_level": "non_binding",
+  "source_publisher": "Michigan Legislative Service Bureau",
+  "prepared_by": "Michigan Legislature",
+  "source_format": "PDF",
+  "revision": "3/2026",
+  "sections": [
+    {
+      "section_id": "understanding_leases_and_tenancies",
+      "section_title": "Understanding Leases and Tenancies",
+      "section_type": "explanatory_section",
+      "overview": "Whether you are a landlord or a tenant, when you sign a lease agreement, you are signing a contract. This means that you are legally obligated to perform certain duties and that you are assuming certain responsibilities. Along with these duties and responsibilities, you are also granted certain rights and protections when you sign a lease agreement. This is why it is incredibly important for you to read and understand the terms of your lease.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question": "Who is the landlord?",
+          "full_text": "The landlord is the party who agrees to transfer possession and use of the rental property. This is typically the owner of the property, but it may also include an agent or an employee of the owner, or a management company."
+        },
+        {
+          "question_number": 2,
+          "question": "Who is the tenant?",
+          "full_text": "The tenant is the party who is taking possession of the rental property from the landlord under the terms of a lease."
+        },
+        {
+          "question_number": 3,
+          "question": "What is a tenancy?",
+          "full_text": "The term “tenancy” refers to the property right that a tenant receives from the landlord – generally under a lease. When the owner of the property conveys to another person a lesser interest in the property for a period less than that of the owner’s for something of value (generally rent), the owner is granting to the other person the use and enjoyment, as well as the exclusive legal possession and control, of the property during that period. This is what creates a tenancy."
+        },
+        {
+          "question_number": 4,
+          "question": "What are the different types of tenancies?",
+          "full_text": "There are generally 3 different types of tenancies. Fixed-term tenancies, also known as tenancies for years, are when a lease agreement specifies when the tenancy will begin and when it will end. Unless otherwise provided for in the lease, if the parties acquiesce – i.e., the tenant stays in possession of the property and the landlord continues to accept rent – the lease is considered renewed for the same fixed term upon the same conditions. Periodic tenancies, also referred to as tenancies at will, are when the duration of the tenancy is indefinite. It is created by actual or implied consent. The lease is considered renewed at the end of each rental period (such as month-to-month or week-to-week, depending on how often rent must be paid). The most common type of periodic tenancy is a month-to-month lease. Tenancies at sufferance, also referred to as holdover tenancies, occur when a tenant continues to remain in possession of the rental property after their legal right to possession has ended (oftentimes based on the landlord’s failure to act)."
+        }
+      ]
+    }
+  ]
+}
