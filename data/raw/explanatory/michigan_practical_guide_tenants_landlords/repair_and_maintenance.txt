@@ -1,0 +1,105 @@
+                                                         QUESTION 24: What are a landlord’s
+            REPAIR AND                                   responsibilities in regard to maintaining
+                                                         the rental property?
+           MAINTENANCE
+                                                           Michigan law generally requires landlords to keep
+                                                           the rental property in reasonable repair during the
+ During the course of a lease agreement, it is likely      term of the lease. It also requires the landlord to
+ that some repair or maintenance issues will arise.        make sure that the rental property and all common
+ These issues can range from something as simple as a      areas are fit for the intended uses. These are referred
+ cupboard door coming loose to something more serious      to as the covenants of habitability and fitness.
+ like a hot water heater going out. Both landlords and     “Covenant” is another word for promise. Specifically,
+ tenants have responsibilities and obligations when it     MCL 554.139(1) states that in every lease for
+ comes to the upkeep of the property.                      residential property, the landlord covenants that:
+                                                              (1) The rental property is fit for the use
+                                                                    intended by the parties;
+                                                              (2) The landlord will keep the rental property
+                                                                   in reasonable repair during the term of
+                                                                   the lease; and
+                                                              (3) The landlord will comply with applicable
+                                                                   health and safety laws.
+                                                           “Reasonable repair” is not defined in statute. This
+                                                           means that what is considered to be reasonable
+                                                           repair in a particular situation would be a question of
+                                                           fact that, if brought before the court in a legal action,
+                                                           would be decided by a judge or jury.
+
+                                                         QUESTION 25: Are there circumstances in
+                                                         which the covenants of habitability and
+                                                         fitness do not apply?
+                                                           Yes, MCL 554.139 provides some circumstances
+                                                           under which the covenants of habitability and fitness
+                                                           do not apply. For one, a landlord and tenant can
+                                                           agree to modify the obligations of the covenants if the
+                                                           current lease term is for at least one year. Additionally,
+                                                           the covenants do not apply if the tenant is the cause
+                                                           of the disrepair or violation of health and safety laws.
+
+                                                         QUESTION 26: What happens if a landlord
+                                                         does not fulfill their duty under the covenants
+                                                         of habitability and fitness?
+                                                           A breach of the duty to maintain a rental property
+                                                           is considered to be a breach of the terms of the
+                                                           lease agreement. A tenant may, depending on the
+                                                           circumstances of the failure, have a few options in
+                                                           response to a landlord’s breach of the covenants of
+                                                           habitability and fitness. These options include, but are
+                                                           not limited to:
+
+
+10
+     (1) A remedy provided for by contract law,
+          such as a breach of contract lawsuit;                      TERMINATING
+     (2) Making the repairs themselves and
+          deducting the cost of the repairs from the
+                                                                      A TENANCY
+          rent; or
+     (3) Withholding rent.                                Due to the fact that lease agreements are contracts, they
+  What avenue a tenant may be eligible to take will be    can sometimes be difficult to break before the end date.
+  dependent upon their specific circumstances.            State statute and court rule, along with some federal
+                                                          law, outline the circumstances under which a tenancy
+                                                          may be terminated, along with the procedures that must
+QUESTION 27: Are there local laws or
+                                                          be followed in order for the termination to be lawful.
+ordinances regarding the repair and
+maintenance of rental properties?
+                                                          QUESTION 29: Can a landlord remove a
+  Yes, in addition to state law requirements, counties    tenant from the rental property?
+  and municipalities are able to enact ordinances that
+  require landlords to maintain rental property above       A landlord may not forcibly remove a tenant or
+  minimum habitability standards and additional             occupant from the property themselves, except under
+  requirements. Many municipalities have a housing          specific, limited circumstances. This is referred to as a
+  code protecting the health, safety, and welfare of        self-help eviction, and it is prohibited by law. This can
+  their citizens. Some require that the rental property     include things like changing the locks, turning off the
+  be inspected on a regular basis. Some may require         utilities, or some other act or omission that interferes
+  licensing before a tenant can move in. Check with the     with the tenant’s right to possess, use, and enjoy the
+  local city or county government code enforcement          rental property. These types of actions could result in
+  office for additional standards imposed on landlords      the landlord having to pay monetary damages.
+  in maintaining their rental property.                     If a landlord wishes to remove a tenant from their
+                                                            property, they must follow the eviction process. In
+QUESTION 28: Are landlords required to give                 Michigan, this legal process is formally known as
+tenants notice about lead-based paint in rental             Summary Proceedings.
+properties?
+  Yes, landlords are required to give tenants notice      QUESTION 30: For what reasons can a
+  about lead-based paint that may be found in the         landlord evict a tenant?
+  rental property. Though lead-based paint was              MCL 600.5714 outlines 13 primary reasons that a
+  banned in the United States in 1978, it can still be      landlord may seek to evict a tenant. These reasons
+  found in millions of homes throughout the country.        include:
+  Under federal regulation, landlords are required to
+  notify prospective tenants of known lead-based paint         (1) Failure or refusal to pay rent.
+  and lead-based paint hazards before the tenant signs         (2) Illegal drug activity on the property where
+  a lease. This notice requirement applies to most pre-             a formal police report has been filed and
+  1978 private, public, and federally owned housing,                a provision in the lease allows for such a
+  as well as housing receiving federal assistance.                  termination.
+                                                               (3) Violation of a lease provision and the
+  In addition, federal and state regulation require                 lease allows for termination.
+  notice to be given when renovations are set to take          (4) Holding over after natural expiration of
+  place that will disturb painted surfaces that contain             lease term.
+  lead. 40 C.F.R. § 745.84 and Mich. Admin. Code               (5) Holding over after a notice to quit is
+  r. 325.99409.                                                    served on an at-will tenancy.
+                                                               (6) Serious and continuing health hazard
+                                                                    caused by the tenant.
+                                                               (7) Extensive and continuing physical injury
+                                                                    to property.
+                                                                                                                    11
+
