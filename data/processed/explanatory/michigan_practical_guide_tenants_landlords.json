@@ -83,6 +83,69 @@
           "full_text": "In general, yes, a landlord may charge a tenant a fee for paying the rent late. However, the amount charged for a late fee must be reasonable and proportionate to the actual damages suffered as a result of the late payment."
         }
       ]
+    },
+    {
+  "section_id": "security_deposits_and_inventory_checklists",
+  "section_title": "Security Deposits and Inventory Checklists",
+  "section_type": "explanatory_section",
+  "overview": "In Michigan, security deposits in relation to lease agreements are regulated by what is commonly referred to as the Landlord-Tenant Relationship Act, MCL 554.601 – MCL 554.616. Under this act, both landlords and tenants have duties and responsibilities when it comes to security deposits. Understanding these duties and responsibilities, and taking appropriate action, is very important.",
+  "questions": [
+    {
+      "question_number": 13,
+      "question": "What is a security deposit?",
+      "full_text": "A security deposit is any prepayment of rent, other than for the first month’s rent, and any refundable fee or deposit. MCL 554.601(d). The security deposit remains the tenant’s property, but it is held by the landlord for the duration of the lease, or for a period of the lease, to ensure that the tenant pays any applicable charges. MCL 554.601(d), MCL 554.605, MCL 554.607. It is held as a security to ensure the tenant performs their required duties, as the name implies. The security deposit remains the tenant’s property until the landlord establishes a right to it."
+    },
+    {
+      "question_number": 14,
+      "question": "Is there a limit on how much a landlord can charge for a security deposit?",
+      "full_text": "Yes, MCL 554.602 states that a security deposit cannot exceed 1.5 times the monthly rent. This means that if a landlord charges $500 a month in rent, the security deposit may not exceed $750 ($500 x 1.5 = $750)."
+    },
+    {
+      "question_number": 15,
+      "question": "Once a landlord collects a security deposit, what do they do with it?",
+      "full_text": "Under MCL 554.604(1), once a landlord collects a security deposit, they must generally deposit the money in a regulated financial institution, such as a bank or credit union. However, the landlord may use the security deposit for any purpose they wish if they deposit a cash or surety bond with the Secretary of State. The cash or surety bond is to ensure that the money is available to repay the tenant’s security deposit."
+    },
+    {
+      "question_number": 16,
+      "question": "Are there certain things that a landlord has to do in order to require that a tenant pay a security deposit?",
+      "full_text": "In order for a landlord to require that a tenant pay a security deposit, MCL 554.603 requires the landlord to provide notice. Specifically, not later than 14 days after the tenant moves into the property, the landlord is required to provide the tenant with a written notice that contains the following information:\n\n(1) The name of the landlord and the address at which the tenant can send notices or other communications to the landlord;\n(2) The name and address of the financial institution where the landlord will deposit the money for the security deposit as required by law or, in the alternative, the information for the cash or surety bond; and\n(3) The tenant’s obligation to provide the landlord with a forwarding address within 4 days after moving out.\n\nThe notice must specifically contain the following statement:\n\n“You must notify your landlord in writing within 4 days after you move of a forwarding address where you can be reached and where you will receive mail; otherwise your landlord shall be relieved of sending you an itemized list of damages and the penalties adherent to that failure.”\n\nThis notice must be in 12-point boldface font that is at least 4 points larger than the body of the notice or lease agreement."
+    },
+    {
+      "question_number": 17,
+      "question": "What happens to the security deposit at the end of the lease?",
+      "full_text": "Once the lease has terminated, the tenant has the right to have the entire security deposit returned to them, unless the landlord can substantiate a claim to it. These include the tenant having unpaid rent or utility bills, or the tenant causing damage to the property beyond reasonable wear and tear. MCL 554.607."
+    },
+    {
+      "question_number": 18,
+      "question": "What is an inventory checklist, and how is it relevant to the security deposit?",
+      "full_text": "An inventory checklist is a document that details and provides some proof of the condition of the property when a tenant moves in. In Michigan, inventory checklists are largely governed by MCL 554.608.\n\nInventory checklists are required to be used both at the beginning and at the end of a tenancy. At move-in, the landlord is required to provide the tenant with 2 identical blank copies of the inventory checklist, which should reference all items in the rental property that belong to the landlord. The checklist shall also contain the following notice:\n\n“You should complete this checklist, noting the condition of the rental property, and return it to the landlord within 7 days after obtaining possession of the rental unit. You are also entitled to request and receive a copy of the last termination inventory checklist which shows what claims were chargeable to the last prior tenants.”\n\nThis notice must be in 12-point boldface font and located at the top of the first page.\n\nThe landlord and tenant may agree to have the inventory checklist returned in a period of time shorter than 7 days. The tenant may request a copy of the termination inventory checklist for the previous tenant, which the landlord must provide.\n\nAt the end of the tenancy, the landlord is required to complete a termination inventory checklist that lists all of the damages that the landlord claims were caused by the tenant."
+    },
+    {
+      "question_number": 19,
+      "question": "What are the tenant’s responsibilities at the end of the lease in regard to the security deposit?",
+      "full_text": "MCL 554.611 requires that at the end of the lease, the tenant provide their forwarding address, in writing, to the landlord within 4 days of moving out. If the tenant does not provide a forwarding address, the landlord is relieved of their duty to provide notice of damages. See Question 20 for a discussion of these notice requirements. However, a tenant may still bring a claim for the return of the security deposit."
+    },
+    {
+      "question_number": 20,
+      "question": "What are the landlord’s responsibilities at the end of the lease in regard to the security deposit?",
+      "full_text": "MCL 554.609 generally outlines a landlord’s responsibilities in regard to the security deposit at the end of the lease. If the landlord receives the tenant’s forwarding address within 4 days of move-out, the landlord then has 30 days from the move-out date to either:\n\n(1) Return the entire security deposit to the tenant by check or money order; or\n(2) Send the tenant an itemized list of damages that have been lawfully assessed against the security deposit.\n\nThe itemized list of damages must be sent by mail and accompanied by a check or money order for the remaining balance of the security deposit, if any. In addition, the itemized list of damages must contain the following notice:\n\n“You must respond to this notice by mail within 7 days after receipt of same, otherwise you will forfeit the amount claimed for damages.”\n\nThis notice must be in 12-point boldface type and at least 4 points larger than the body of the notice.\n\nIf the landlord does not send an itemized list of damages within 30 days, the law considers the landlord to have agreed that there are no damages due, and that the landlord shall remit the full amount of the security deposit to the tenant immediately. MCL 554.610."
+    },
+    {
+      "question_number": 21,
+      "question": "What can the tenant do after receiving an itemized list of damages?",
+      "full_text": "If the tenant disputes any of the damages included on the itemized list from the landlord, the tenant must respond within 7 days of their receipt of the list. The response must be in writing and include details on the damages that they agree or disagree with. MCL 554.612."
+    },
+    {
+      "question_number": 22,
+      "question": "What can the landlord do if the tenant disputes the itemized list of damages?",
+      "full_text": "In the event that the tenant gives proper notice of their dispute to the itemized list of damages, the landlord generally has 2 options. The landlord could negotiate and come to an agreement with the tenant to settle the disagreement. Alternatively, the landlord could commence a court action to seek a money judgment for the damages that the landlord alleges to have been caused by the tenant. Such a court action must be commenced within 45 days of the termination of occupancy. MCL 554.613."
+    },
+    {
+      "question_number": 23,
+      "question": "What happens to the security deposit if the landlord sells the property?",
+      "full_text": "Under MCL 554.614, in the event that the landlord sells the rental property, or otherwise terminates their interest in the property, the landlord remains liable for the tenant’s security deposit until one of the following occurs:\n\n(1) The landlord returns the security deposit to the tenant;\n(2) The landlord transfers the security deposit to the new owner and mails a written notice to the tenant informing them of the new owner’s name and address; or\n(3) The new owner deposits the money with a regulated financial institution or deposits a cash or surety bond with the Secretary of State."
     }
+  ]
+}
   ]
 }
