@@ -1,0 +1,231 @@
+       UNDERSTANDING                                               acquiesce – i.e., the tenant stays in possession of the
+                                                                   property and the landlord continues to accept rent –
+    LEASES AND TENANCIES                                           the lease is considered renewed for the same fixed
+                                                                   term upon the same conditions.
+    Whether you are a landlord or a tenant, when you sign a        Periodic tenancies, also referred to as tenancies at
+    lease agreement, you are signing a contract. This means        will, are when the duration of the tenancy is indefinite.
+    that you are legally obligated to perform certain duties       It is created by actual or implied consent. The lease
+    and that you are assuming certain responsibilities.            is considered renewed at the end of each rental
+    Along with these duties and responsibilities, you are also     period (such as month-to-month or week-to-week,
+    granted certain rights and protections when you sign a         depending on how often rent must be paid). The
+    lease agreement. This is why it is incredibly important        most common type of periodic tenancy is a month-
+    for you to read and understand the terms of your lease.        to-month lease.
+                                                                   Tenancies at sufferance, also referred to as
+    QUESTION 1: Who is the landlord?                               holdover tenancies, occur when a tenant continues to
+                                                                   remain in possession of the rental property after their
+      The landlord is the party who agrees to transfer
+                                                                   legal right to possession has ended (oftentimes based
+      possession and use of the rental property. This is
+                                                                   on the landlord’s failure to act).
+      typically the owner of the property, but it may also
+      include an agent or an employee of the owner, or a
+      management company.
+                                                                      LEASE AGREEMENTS
+    QUESTION 2: Who is the tenant?
+      The tenant is the party who is taking possession of        Lease agreements are the contracts between landlords
+      the rental property from the landlord under the terms      and tenants that transfer possession and use of
+      of a lease.                                                the rental property to the tenant. Michigan statute
+                                                                 provides some guidance as to the content of lease
+    QUESTION 3: What is a tenancy?                               agreements, including clauses and provisions that are
+                                                                 required to be included in lease agreements, as well as
+      The term “tenancy” refers to the property right that
+                                                                 clauses and provisions that are prohibited from being
+      a tenant receives from the landlord – generally under
+                                                                 included in lease agreements. These provisions are
+      a lease. When the owner of the property conveys to
+                                                                 primarily located in Michigan’s Truth in Renting Act,
+      another person a lesser interest in the property for
+                                                                 MCL 554.631 – MCL 554.641.
+      a period less than that of the owner’s for something
+      of value (generally rent), the owner is granting to
+      the other person the use and enjoyment, as well as
+      the exclusive legal possession and control, of the
+      property during that period. This is what creates a
+      tenancy.
+
+    QUESTION 4: What are the different types of
+    tenancies?
+      There are generally 3 different types of tenancies.
+      Fixed-term tenancies, also known as tenancies for
+      years, are when a lease agreement specifies when
+      the tenancy will begin and when it will end. Unless
+      otherwise provided for in the lease, if the parties
+
+
+
+4
+QUESTION 5: Are lease agreements required                    Additionally, there are certain provisions that are
+to be in writing?                                            implied to be in all residential lease agreements.
+                                                             These are referred to as the covenants of habitability
+ While it is common for lease agreements to be put
+                                                             and fitness, which are related to the condition of the
+ into writing, that is not always the case. In some
+                                                             property. These implied provisions are discussed in
+ cases, the lease is an oral agreement as to the move-
+                                                             greater detail in the Repair and Maintenance
+ in and move-out dates, the address of the property,
+                                                             section of this booklet.
+ the amount of the rent, and the date on which rent
+ must be paid.
+                                                           QUESTION 7: What other types of clauses
+ However, there are some situations where lease
+                                                           and provisions may be included in a lease
+ agreements are required to be in writing. Under
+                                                           agreement?
+ Michigan law, lease agreements for a period
+ of more than one year are required to be in                 In general, as long as a clause or provision does not
+ writing and signed. MCL 566.106, MCL 566.108,               violate federal, state, or local laws, regulations, rules,
+ MCL 566.132(1)(a). This is a legal doctrine known as        or ordinances, the parties to a rental agreement can
+ the statute of frauds, which requires certain types of      agree to almost anything and include it in the rental
+ contracts to be in writing and signed in order for them     agreement.
+ to be enforceable.                                          Some additional clauses and provisions that a
+                                                             landlord and a tenant may want to include in the
+QUESTION 6: Are certain things required to                   lease agreement include, but are not limited to:
+be included in a lease agreement?                               (1) The name and signature of the landlord.
+ Yes, MCL 554.634 requires that certain information             (2) The name and signature of the tenant.
+ be included in a rental agreement. Specifically, the           (3) The rent amount to be paid, how frequently
+ name and address at which required notices may be                   the rent is to be paid, and when and where
+ given to the landlord must be included in the lease.                the rent may be paid.
+ Additionally, a notice in substantially the following          (4) The address of the rental property.
+ form must be included:                                         (5) The start and end dates of the tenancy, if
+                                                                     it is a fixed-term tenancy.
+    “NOTICE: Michigan law establishes rights and
+                                                                (6) The party who is responsible for utilities.
+    obligations for parties to rental agreements.
+                                                                (7) The repair and maintenance responsibilities.
+    This agreement is required to comply with the
+    Truth in Renting Act. If you have a question
+    about the interpretation or legality of a              QUESTION 8: What types of things are
+    provision of this agreement, you may want              prohibited from being included in a lease
+    to seek assistance from a lawyer or other              agreement?
+    qualified person.”                                       In addition to requiring that certain information be
+                                                             included in a lease agreement, Michigan’s Truth
+      This notice must be located in a prominent             in Renting Act also prohibits certain clauses and
+      place in type that is not smaller than                 provisions. Under MCL 554.633(1), rental agreements
+      12-point font, or in legible print with letters        may not contain a clause or provision that:
+      that are not smaller than 1/8 inch.                       a. Waives or alters a remedy available to
+                                                                    a party when the rental property is in a
+                                                                    condition that violates the covenants of
+ If a landlord requires a tenant to pay a security                  habitability and fitness.
+ deposit, there may be additional provisions required           b. Waives a right established under the laws
+ to be included in the rental agreement. Security                   that regulate security deposits.
+ deposits will be discussed in more detail in the               c. U
+                                                                   nlawfully excludes or discriminates
+ Security Deposits and Inventory Checklists                        against a person in violation of the laws
+ section of this booklet.                                          relating to civil rights.
+
+                                                                                                                          5
+        d. Provides for a confession of judgment by              a legal context, “void” means that the provision has
+             a party.                                             no legal effect. It is important to understand that under
+        e. Relieves the landlord from liability for the          these circumstances, the entire lease agreement is not
+             landlord’s failure to perform a duty or for          void, just the specific prohibited provision.
+             negligent performance of a duty imposed
+                                                                  A landlord may fix a violation of the Truth in Renting
+             by law. However, the landlord’s duty could
+                                                                  Act (meaning a failure to include a required provision,
+             be waived to the extent a tenant was able
+                                                                  or the inclusion of a prohibited provision) by giving
+             to recover under an insurance policy for
+                                                                  the impacted tenants a written notice as required
+             loss, damage, or injury caused by fire or
+                                                                  by statute. MCL 554.635. As provided for under
+             another casualty.
+                                                                  MCL 554.636, if a landlord fails to fix the violation,
+        f. Waives or alters a party’s right to demand
+                                                                  then the tenant may bring a legal action to obtain any
+              a jury trial or any other right of notice or
+                                                                  of the following forms of relief:
+              procedure required by law.
+        g. Provides that a party is liable for legal                a. To void the rental agreement and terminate
+             costs or attorney fees incurred by the other                the tenancy;
+             party in excess of costs or fees specifically           b. To require the landlord to fix the violations
+             permitted by statute.                                       via the notice requirements required by
+        h. Provides for the landlord to take a security                 statute, as well as prohibit the landlord
+             interest in any of the tenant’s personal                    from including the unlawful provision in,
+             property to assure payment of rent or other                 or failing to include the required provision
+             charges, except as specifically permitted                   in, subsequent rental agreements entered
+             by statute.                                                 into; or
+        i. Provides that rental payments may be                     c. To recover $250 per action for prohibited
+            accelerated if the tenant violates a lease                   provisions, $500 per action for missing
+            provision, unless permitted by statute.                      provisions, or actual damages, whichever
+        j. Waives or alters a party’s right with respect                is greater.
+            to possession or eviction proceedings.
+        k. Releases a party from the duty to mitigate (or
+                                                                QUESTION 10: Do the requirements and
+            minimize) damages. See Question 44 for
+                                                                prohibitions of the Truth in Renting Act apply
+            more information on the duty to mitigate.
+                                                                to all lease agreements?
+        l. Provides that the landlord may alter a lease
+            provision after the lease begins without the          No, the provisions of Michigan’s Truth in Renting Act
+            tenant’s written consent, except under certain        do not apply to all types of lease agreements. Under
+            circumstances. See Question 11 for more               MCL 554.632(a), the Truth in Renting Act does not
+            information on the types of circumstances             apply if the rental agreement ONLY contains one or
+            that may allow a landlord to change a lease           more of the following:
+            agreement.                                               (1) The identities of the parties;
+        m. Violates the Michigan Consumer Protection                (2) A description of the premises;
+            Act, which lists multiple unfair trade practices.        (3) The rental period;
+        n. Requires the tenant to give the landlord                 (4) The total rental amount due;
+            power of attorney.                                       (5) The amount of rental payments; and
+                                                                     (6) The times at which rental payments are due.
+    QUESTION 9: What happens if a lease
+    contains a prohibited provision, or does not                QUESTION 11: Once a lease begins, can the
+    contain a required provision?                               landlord raise the rent, or otherwise change a
+      If a rental agreement contains a provision that is        lease provision?
+      otherwise prohibited from being included in a rental        In general, landlords may not alter the provisions of
+      agreement under the Truth in Renting Act, then the          a rental agreement after the lease has begun without
+      corresponding provision is void. MCL 554.633(3). In         the consent of the tenant. However, there are some
+
+6
+  exceptions to this. According to MCL 554.633(1)(l),       when it comes to security deposits. Understanding these
+  with 30 day’s written notice, the landlord may            duties and responsibilities, and taking appropriate
+  make the following types of adjustments to a lease        action, is very important.
+  agreement, as long as there is a clause or provision in
+  the lease that allows for such adjustments:               QUESTION 13: What is a security deposit?
+    (1) Changes that are required by federal, state,         A security deposit is any prepayment of rent, other
+         or local law, rule, or regulation;                   than for the first month’s rent, and any refundable
+    (2) Changes in rules relating to the property            fee or deposit. MCL 554.601(d). The security
+         meant to protect the health, safety, or              deposit remains the tenant’s property, but it is held
+         peaceful enjoyment of tenants and guests; or         by the landlord for the duration of the lease, or
+    (3) Changes in the amount of rental payments to          for a period of the lease, to ensure that the tenant
+         cover additional costs in operating the rental       pays any applicable charges. MCL 554.601(d),
+         premises incurred by the landlord because            MCL 554.605, MCL 554.607. It is held as a security
+         of increases in property taxes, utilities, or        to ensure the tenant performs their required duties,
+         premiums paid for insurance.                         as the name implies. The security deposit remains the
+                                                              tenant’s property until the landlord establishes a right
+                                                              to it.
+QUESTION 12: Can a landlord charge a
+tenant a fee for paying the rent late?
+                                                            QUESTION 14: Is there a limit on how much
+  In general, yes, a landlord may charge a tenant a fee     a landlord can charge for a security deposit?
+  for paying the rent late. However, the amount charged
+  for a late fee must be reasonable and proportionate         Yes, MCL 554.602 states that a security deposit
+  to the actual damages suffered as a result of the late      cannot exceed 1.5 times the monthly rent. This means
+  payment.                                                    that if a landlord charges $500 a month in rent, the
+                                                              security deposit may not exceed $750 ($500 x 1.5
+                                                              = $750).
+
+                                                            QUESTION 15: Once a landlord collects a
+                                                            security deposit, what do they do with it?
+                                                              Under MCL 554.604(1), once a landlord collects
+                                                              a security deposit, they must generally deposit the
+                                                              money in a regulated financial institution, such as
+                                                              a bank or credit union. However, the landlord may
+                                                              use the security deposit for any purpose they wish
+                                                              if they deposit a cash or surety bond with the Secretary
+                                                              of State. The cash or surety bond is to ensure that
+                                                              the money is available to repay the tenant’s security
+                                                              deposit.
+     SECURITY DEPOSITS
+      AND INVENTORY                                         QUESTION 16: Are there certain things that
+                                                            a landlord has to do in order to require that a
+        CHECKLISTS                                          tenant pay a security deposit?
+                                                              In order for a landlord to require that a tenant pay a
+In Michigan, security deposits in relation to lease           security deposit, MCL 554.603 requires the landlord
+agreements are regulated by what is commonly                  to provide notice. Specifically, not later than 14 days
+referred to as the Landlord-Tenant Relationship Act,          after the tenant moves into the property, the landlord
+MCL 554.601 – MCL 554.616. Under this act, both               is required to provide the tenant with a written notice
+landlords and tenants have duties and responsibilities        that contains the following information:
+
+                                                                                                                         7
+
