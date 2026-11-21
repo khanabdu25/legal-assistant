@@ -1,0 +1,310 @@
+     (1) A remedy provided for by contract law,
+          such as a breach of contract lawsuit;                      TERMINATING
+     (2) Making the repairs themselves and
+          deducting the cost of the repairs from the
+                                                                      A TENANCY
+          rent; or
+     (3) Withholding rent.                                Due to the fact that lease agreements are contracts, they
+  What avenue a tenant may be eligible to take will be    can sometimes be difficult to break before the end date.
+  dependent upon their specific circumstances.            State statute and court rule, along with some federal
+                                                          law, outline the circumstances under which a tenancy
+                                                          may be terminated, along with the procedures that must
+QUESTION 27: Are there local laws or
+                                                          be followed in order for the termination to be lawful.
+ordinances regarding the repair and
+maintenance of rental properties?
+                                                          QUESTION 29: Can a landlord remove a
+  Yes, in addition to state law requirements, counties    tenant from the rental property?
+  and municipalities are able to enact ordinances that
+  require landlords to maintain rental property above       A landlord may not forcibly remove a tenant or
+  minimum habitability standards and additional             occupant from the property themselves, except under
+  requirements. Many municipalities have a housing          specific, limited circumstances. This is referred to as a
+  code protecting the health, safety, and welfare of        self-help eviction, and it is prohibited by law. This can
+  their citizens. Some require that the rental property     include things like changing the locks, turning off the
+  be inspected on a regular basis. Some may require         utilities, or some other act or omission that interferes
+  licensing before a tenant can move in. Check with the     with the tenant’s right to possess, use, and enjoy the
+  local city or county government code enforcement          rental property. These types of actions could result in
+  office for additional standards imposed on landlords      the landlord having to pay monetary damages.
+  in maintaining their rental property.                     If a landlord wishes to remove a tenant from their
+                                                            property, they must follow the eviction process. In
+QUESTION 28: Are landlords required to give                 Michigan, this legal process is formally known as
+tenants notice about lead-based paint in rental             Summary Proceedings.
+properties?
+  Yes, landlords are required to give tenants notice      QUESTION 30: For what reasons can a
+  about lead-based paint that may be found in the         landlord evict a tenant?
+  rental property. Though lead-based paint was              MCL 600.5714 outlines 13 primary reasons that a
+  banned in the United States in 1978, it can still be      landlord may seek to evict a tenant. These reasons
+  found in millions of homes throughout the country.        include:
+  Under federal regulation, landlords are required to
+  notify prospective tenants of known lead-based paint         (1) Failure or refusal to pay rent.
+  and lead-based paint hazards before the tenant signs         (2) Illegal drug activity on the property where
+  a lease. This notice requirement applies to most pre-             a formal police report has been filed and
+  1978 private, public, and federally owned housing,                a provision in the lease allows for such a
+  as well as housing receiving federal assistance.                  termination.
+                                                               (3) Violation of a lease provision and the
+  In addition, federal and state regulation require                 lease allows for termination.
+  notice to be given when renovations are set to take          (4) Holding over after natural expiration of
+  place that will disturb painted surfaces that contain             lease term.
+  lead. 40 C.F.R. § 745.84 and Mich. Admin. Code               (5) Holding over after a notice to quit is
+  r. 325.99409.                                                    served on an at-will tenancy.
+                                                               (6) Serious and continuing health hazard
+                                                                    caused by the tenant.
+                                                               (7) Extensive and continuing physical injury
+                                                                    to property.
+                                                                                                                    11
+        (8) Physical violence or threat of violence to     MCL 600.5714 allows the landlord to begin Summary
+             another person on the landlord’s property      Proceedings when a tenant remains in possession of
+             by a tenant, member of the tenant’s            the property after a Demand for Possession is given
+             household, or person under the tenant’s        under MCL 600.5714 or after a Notice to Quit is
+             control, and local law enforcement has         given under MCL 554.134.
+             been notified.
+                                                            The amount of time that must pass between when a
+        (9) Forceful entry OR forceful possession
+                                                            landlord provides a tenant with notice and when the
+             after peaceful entry OR trespass.
+                                                            landlord may begin the eviction action depends on
+       (10) Holding over after the expiration of the
+                                                            the grounds for the eviction, but it generally ranges
+             foreclosure redemption period.
+                                                            from 24 hours to 30 days.
+       (11) Holding over after the property is sold
+             via a personal representative appointed        It is important to remember that the eviction notice is
+             by a probate court or under the authority      not the same as an Order of Eviction. A tenant is not
+             of a will.                                     required to move when the eviction notice expires—
+       (12) “Just cause” for terminating a tenancy in      he or she may have a valid defense to the landlord’s
+             government-subsidized housing. See the         reason for eviction. Expiration of the notice period
+             section on Subsidized and Public               only enables the landlord to file a lawsuit.
+             Housing for more information.
+       (13) “Just cause” for terminating a tenancy        QUESTION 32: What information is required
+             in a mobile home park. See the section        to be included in the notice?
+             on Mobile Home Parks for more
+             information.                                   Other than MCL 554.134(2) and MCL 554.134(4),
+                                                            which require that a written Notice to Quit be given
+                                                            to a tenant for nonpayment of rent and illegal drug
+ QUESTION 31: Does a landlord have to
+                                                            activity, statute does not have specific requirements
+ provide a tenant with notice before the
+                                                            regarding the form or content of a Notice to Quit.
+ landlord begins an eviction action in court?
+ If so, how much notice is the landlord                     In contrast, MCL 600.5716 requires that a Demand
+ required to give the tenant?                               for Possession:
+     Yes, a landlord must provide a tenant with notice         (1) Be in writing;
+     before the landlord may begin an eviction action          (2) Be addressed to the tenant;
+     in court. These types of notices are most commonly        (3) Contain the address or a brief description
+     called a Demand for Possession or a Notice to Quit.            of the rental property;
+
+
+
+
+12
+    (4) Clearly state the reasons for the demand;           general pleading requirements, a Complaint for an
+    (5) Clearly state the time allowed for remedial        eviction matter must:
+         action; and
+                                                               (1) Have any applicable lease agreement
+    (6) Be signed and dated by the person
+                                                                    attached;
+         entitled to possession of the property (i.e.,
+                                                               (2) Have any applicable Notice to Quit or
+         the landlord), or their attorney or agent.
+                                                                    Demand for Possession attached;
+ In cases of nonpayment of rent, the demand must also          (3) Describe the property the tenant is holding,
+ state the amount that is due at the time the demand is             if it is less than the entire premises;
+ being made.                                                   (4) Show the landlord’s right to possession
+                                                                    and indicate why the tenant’s possession
+QUESTION 33: How should the notice be                               is improper or unauthorized;
+given to the tenant?                                           (5) Include a jury demand, if the landlord
+                                                                    wants a jury trial;
+ Similar to the lack of requirements for content and           (6) Include allegations that the landlord has
+ form, statute does not specify the method by which a               kept the residential rental property fit
+ Notice to Quit must be served upon the tenant.                     for the use intended and in reasonable
+ For a Demand for Possession, MCL 600.5718 requires                 repair during the term of the lease, unless
+ that service be accomplished by:                                   the lease term is a year or more and the
+                                                                    parties have modified these obligations
+    (1) Personal delivery to the tenant;                            by contract.
+    (2) Personal delivery on the rental property
+         to a member of the tenant’s family or              Additional information is required to be included in
+         household, or to an employee of the                the Complaint if the tenancy involves housing that
+         tenant, who is of suitable age and                 is operated by a governmental unit, or if there are
+         discretion, with a request that the notice         allegations of unpaid rent or other money due, a
+         be delivered to the tenant;                        serious and continuing health hazard, extensive
+    (3) First-class mail addressed to the tenant; or        and continuing physical injury to the property, or
+    (4) Electronic service, if consented to by the         trespassing.
+         tenant.
+                                                           QUESTION 35: How are the Summons and
+QUESTION 34: Once the proper notice has                    Complaint required to be served upon the
+been given to the tenant, how can a landlord               tenant?
+begin an eviction action?                                   The Summons and Complaint must be properly
+ An eviction action begins like any other lawsuit –         delivered to the tenant, notifying them that legal
+ the plaintiff files the appropriate paperwork with the     action has begun. According to MCR 4.201(D), in
+ appropriate court. In an eviction action, the plaintiff    order for the Summons and Complaint to be properly
+ is the landlord. The paperwork needed to begin an          served upon the tenant, they must be both mailed to
+ eviction action includes a Summons and a Complaint.        the tenant AND served in one of the following ways:
+
+ The Summons, while filled out by the landlord, is             (1) Personally;
+ issued by the court and informs the defendant that            (2) By certified, first-class mail with a return
+ they are being sued and that they are required to                  receipt requested and restricted delivery;
+ appear before the court. MCL 600.5735(1). In an               (3) At the rental property, to a member of
+ eviction action, the defendant is the tenant.                      the tenant’s household, who is of suitable
+                                                                    age, with a request that it be delivered to
+ The Complaint is the document that, among other                    the tenant; or
+ things, states the landlord’s cause of action and their       (4) After diligent attempts at personal service,
+ demand for relief. MCR 4.201(B) largely governs                    by securely attaching the papers to the
+ the requirements for what must be included in a                    main entrance of the rental property unit.
+ Complaint. In addition to needing to comply with
+
+                                                                                                                   13
+     Proof of how and when the Summons and Complaint                      specific, agreed-upon conditions. If
+     were served upon the tenant must be filed with the                   the conditions are satisfied, the case
+     court. If a landlord does not properly serve a tenant,               remains closed without a judgment being
+     then the case could be dismissed.                                    entered. However, if the conditions in
+                                                                          the agreement are not satisfied, the case
+ QUESTION 36: What should a tenant do                                     can be reopened by the court.
+ after receiving a Summons and Complaint?                          After providing the parties with the required
+     Like in any other type of lawsuit, once a tenant receives     information and rights, the court is then required
+     a Summons and Complaint, it is very important that            to determine if there are any triable issues. If there
+     the tenant appear in court on the date and time               are no triable issues, then the court must enter a
+     specified in the Summons. At the hearing, the tenant          judgment. If there are triable issues, the court may
+     must answer the allegations in the Complaint, which           adjourn the hearing and schedule a trial date.
+     can be done either orally or by filing a written response     Generally, the trial date is set within 7 to 14 days. In
+     addressing each of the landlord’s allegations. The            limited circumstances, the court may resolve the case
+     tenant’s answer generally objects to the landlord’s           without adjourning for trial.
+     reason(s) for the eviction and explains why the court
+     should not evict the tenant from the rental property.       QUESTION 38: What happens if the tenant
+     At the time of providing their answer, the tenant may       fails to appear before the court after receiving
+     also state any counterclaim they may have, as well as       the Summons and Complaint?
+     requesting a jury trial if the tenant would like the case
+                                                                   If the tenant does not appear before the court as
+     to be heard before a jury.
+                                                                   required in the Summons, a default judgment could
+                                                                   be entered against the tenant. This would mean that
+ QUESTION 37: What happens at the first                            possession of the rental property would be given back
+ hearing?                                                          to the landlord and the tenant would be required to
+     In addition to the tenant answering the allegations           leave. Additionally, the court could enter a money
+     made in the Complaint as discussed in Question 36,            judgment against the tenant. A money judgment is
+     the court is also required to advise the parties of           an order from the court that states that a party (such
+     certain information and rights as provided under              as a landlord) is entitled to receive money from the
+     MCR 4.201(K)(2)(a). This includes:                            other party (such as a tenant). This would allow the
+                                                                   landlord to begin collection proceedings, which may
+        (1) The right to have an attorney;                         include garnishment of wages, bank accounts, and
+        (2) The right for the case to be heard in the             tax refunds. It may also include execution against
+              proper venue;                                        the tenant’s personal property, like their automobile.
+        (3) The right to demand a jury trial;                      Further, a money judgment may appear on the
+        (4) For nonpayment of rent cases, the                     tenant’s credit report, hindering their ability to get a
+            availability of assistance programs to                 loan or a credit card.
+            help the tenant pay some or all of their
+            past due rent;
+        (5) For nonpayment of rent cases, the ability
+            of a tenant to receive rental assistance
+            without a final judgment;
+        (6) The availability of alternative dispute
+             resolution (such as mediation) as a
+             possible avenue to resolving the case; and
+        (7) The possibility of a conditional dismissal
+             of the case if agreed to by all parties. A
+             conditional dismissal is an agreement to
+             dismiss a case with the understanding
+             that one or both parties will fulfill
+
+14
+QUESTION 39: What can the parties expect                        In limited circumstances, the court can enter an Order
+to see happen at trial?                                         of Eviction immediately upon a judgment being
+                                                                entered.
+  If the parties to a lawsuit for eviction cannot otherwise
+  reach an agreement, they will have to go to court to          If the tenant has paid any part of an amount due
+  have things decided for them. At trial, both parties          under a judgment, the court may not enter an Order
+  will be given an opportunity to tell their side to the        of Eviction without first holding a hearing, unless the
+  judge or jury, which includes offering testimony              judgment specifically provides that a partial payment
+  and providing documentary evidence. Generally,                will not prevent an Order of Eviction from being issued.
+  in an eviction action, the landlord will present their
+  testimony and evidence first, and then the tenant will      QUESTION 41: Once a lawsuit is started, can
+  have the same opportunity.                                  the parties still try to negotiate or mediate an
+  In an eviction proceeding, the landlord has the             agreement before trial?
+  burden of proving that they have a right to possession        Up until trial, the parties may reach an agreement
+  of the rental property. The tenant has the burden of          and settle the case themselves, or they may decide
+  proving any defense that they may raise. The burden           to resolve their dispute through mediation. Mediation
+  of proof in an eviction action is by a preponderance          is an alternative dispute resolution technique that
+  of the evidence, which means that the judge or jury           involves a neutral third party, who is known as a
+  is convinced that there is a greater than 50% chance          mediator, meeting with both parties to try and assist
+  that the claim is true.                                       them with coming to a mutually acceptable settlement
+  After both parties have had an opportunity to offer           agreement.
+  their proofs to the judge or jury, a decision will be
+  made either for the landlord (to regain possession) or      QUESTION 42: What possible defenses to a
+  for the tenant (to remain in possession).                   lawsuit for eviction might a tenant have?
+                                                                Depending on the specific circumstances of a case,
+                                                                a tenant may have a defense to an eviction action.
+                                                                Some common defenses include:
+                                                                   (1) Retaliatory eviction under
+                                                                        MCL 600.5720;
+                                                                   (2) For nonpayment of rent cases, full
+                                                                        payment of the past due rent; or
+                                                                   (3) A landlord’s breach of the covenants of
+                                                                        habitability and fitness under
+                                                                        MCL 554.139.
+                                                                Having a defense and being able to prove it are two
+QUESTION 40: What happens if the court                          different things. If the tenant is successful in offering
+enters a judgment in favor of the landlord?                     their proofs, the tenant is generally allowed to remain
+  When the court enters a judgment in favor of the              in possession of the rental property.
+  landlord in an eviction proceeding, the judgment will
+  typically include a time frame by which the tenant
+  is required to vacate the rental property or pay the
+  past due rent if that was the basis of the eviction. If
+  the tenant remains in possession of the property at
+  the end of that time frame, or does not pay the past
+  due rent, the landlord can request that the court enter
+  an Order of Eviction under MCR 4.201(M). The
+  Order of Eviction directs a bailiff, court officer, or
+  law enforcement officer to remove the tenant from the
+  property. MCL 600.5744(1).
+                                                                                                                       15
+ QUESTION 43: Are there circumstances                             However, because it is a “reasonable” effort, the
+ under which a tenant may terminate a lease                       landlord may not be able to recover their full damages
+ agreement?                                                       despite their reasonable effort, and the tenant may be
+                                                                  held liable for any remaining damages.
+     Yes, statute outlines a few circumstances under which
+     a tenant may terminate a lease agreement. Below are
+     a few examples of these types of circumstances:
+     Senior Citizens or Those Incapable of                              SUBSIDIZED AND
+     Independent Living: Under MCL 554.601a, lease                      PUBLIC HOUSING
+     agreements entered into, renewed, or renegotiated
+     after June 15, 1995, must provide special termination
+     rights for senior citizens and persons incapable of        The federal and state government operate programs that
+     independent living. These leases must allow the tenant     provide subsidized housing assistance to eligible low-
+     who has already occupied a rental unit for more than       income families, the elderly, people who are homeless,
+     13 months to terminate the lease with 60 day’s written     and people with disabilities. Some of the most common
+     notice if either of the following occurs:                  types of subsidized housing programs include Public
+        (1) Tenant becomes eligible to move into               Housing, Section 8, and the Low-Income Housing Tax
+             a rental unit in senior-citizen housing            Credit. Many subsidized housing programs are funded
+            subsidized by a federal, state, or local            and regulated at the federal level by the United States
+            government program; or                              Department of Housing and Urban Development, so
+        (2) Tenant becomes incapable of living                 relevant provisions of the law can be found in both state
+             independently, as certified by a physician         and federal statute and regulation.
+             in a notarized statement.                          The legal requirements for qualifying for, living in, and
+     Domestic Abuse, Sexual Assault, or Stalking                being evicted from subsidized housing can differ from
+     Victims: MCL 554.601b provides for early                   program to program. Therefore, anyone having legal
+     termination if the tenant or their children are victims    concerns surrounding a subsidized housing tenancy
+     of domestic violence, sexual assault, or stalking. The     should consult with legal counsel or program staff.
+     requirements of this section are quite detailed, and
+     the assistance of a knowledgeable attorney, sexual
+     assault or domestic violence counselor, or other
+     similar professional is recommended.
+     Members of the Military: Under federal law, if
+     you enter active military service after signing a lease,
+     you have a right to break the lease. 50 U.S.C. § 3955.
+
+ QUESTION 44: What if the tenant needs to
+ break a lease anyway?                                          QUESTION 45: What is subsidized housing?
+     Sometimes, tenants may need to break a lease                 Under many subsidized housing programs, a tenant’s
+     despite not being in a circumstance outlined in              rent is based on a percentage of the tenant’s income.
+     Question 43. As discussed in Question 8,                     This results in a tenant portion and a government
+     Michigan law generally prohibits lease agreements            portion of the total rent.
+     from releasing a landlord from their duty to mitigate
+     damages. Because of this, when a tenant voluntarily          However, there are some other types of programs
+     abandons the rental property and breaches the lease,         that do not directly pay a portion of a tenant’s rent.
+     a landlord has a duty to take reasonable efforts to          For example, the Low-Income Housing Tax Credit
+     mitigate the damages caused by the tenant’s breach.          Program provides tax credits for the acquisition,
+     This generally involves some effort to re-lease the          rehabilitation, or new construction of rental housing
+     rental property.                                             that will be targeted to low-income households.
+
+
+16
+
