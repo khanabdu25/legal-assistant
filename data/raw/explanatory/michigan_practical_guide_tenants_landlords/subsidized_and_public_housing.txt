@@ -1,0 +1,92 @@
+ QUESTION 43: Are there circumstances                             However, because it is a “reasonable” effort, the
+ under which a tenant may terminate a lease                       landlord may not be able to recover their full damages
+ agreement?                                                       despite their reasonable effort, and the tenant may be
+                                                                  held liable for any remaining damages.
+     Yes, statute outlines a few circumstances under which
+     a tenant may terminate a lease agreement. Below are
+     a few examples of these types of circumstances:
+     Senior Citizens or Those Incapable of                              SUBSIDIZED AND
+     Independent Living: Under MCL 554.601a, lease                      PUBLIC HOUSING
+     agreements entered into, renewed, or renegotiated
+     after June 15, 1995, must provide special termination
+     rights for senior citizens and persons incapable of        The federal and state government operate programs that
+     independent living. These leases must allow the tenant     provide subsidized housing assistance to eligible low-
+     who has already occupied a rental unit for more than       income families, the elderly, people who are homeless,
+     13 months to terminate the lease with 60 day’s written     and people with disabilities. Some of the most common
+     notice if either of the following occurs:                  types of subsidized housing programs include Public
+        (1) Tenant becomes eligible to move into               Housing, Section 8, and the Low-Income Housing Tax
+             a rental unit in senior-citizen housing            Credit. Many subsidized housing programs are funded
+            subsidized by a federal, state, or local            and regulated at the federal level by the United States
+            government program; or                              Department of Housing and Urban Development, so
+        (2) Tenant becomes incapable of living                 relevant provisions of the law can be found in both state
+             independently, as certified by a physician         and federal statute and regulation.
+             in a notarized statement.                          The legal requirements for qualifying for, living in, and
+     Domestic Abuse, Sexual Assault, or Stalking                being evicted from subsidized housing can differ from
+     Victims: MCL 554.601b provides for early                   program to program. Therefore, anyone having legal
+     termination if the tenant or their children are victims    concerns surrounding a subsidized housing tenancy
+     of domestic violence, sexual assault, or stalking. The     should consult with legal counsel or program staff.
+     requirements of this section are quite detailed, and
+     the assistance of a knowledgeable attorney, sexual
+     assault or domestic violence counselor, or other
+     similar professional is recommended.
+     Members of the Military: Under federal law, if
+     you enter active military service after signing a lease,
+     you have a right to break the lease. 50 U.S.C. § 3955.
+
+ QUESTION 44: What if the tenant needs to
+ break a lease anyway?                                          QUESTION 45: What is subsidized housing?
+     Sometimes, tenants may need to break a lease                 Under many subsidized housing programs, a tenant’s
+     despite not being in a circumstance outlined in              rent is based on a percentage of the tenant’s income.
+     Question 43. As discussed in Question 8,                     This results in a tenant portion and a government
+     Michigan law generally prohibits lease agreements            portion of the total rent.
+     from releasing a landlord from their duty to mitigate
+     damages. Because of this, when a tenant voluntarily          However, there are some other types of programs
+     abandons the rental property and breaches the lease,         that do not directly pay a portion of a tenant’s rent.
+     a landlord has a duty to take reasonable efforts to          For example, the Low-Income Housing Tax Credit
+     mitigate the damages caused by the tenant’s breach.          Program provides tax credits for the acquisition,
+     This generally involves some effort to re-lease the          rehabilitation, or new construction of rental housing
+     rental property.                                             that will be targeted to low-income households.
+
+
+16
+QUESTION 46: What are the different types                  QUESTION 47: Can tenants in subsidized
+of subsidized housing assistance?                          housing still be evicted?
+ In general, housing assistance is categorized as either    Yes, tenants in subsidized housing can be evicted.
+ tenant-based or site-based.                                However, a landlord seeking to evict a tenant from
+                                                            subsidized housing must generally have good or
+ In site-based subsidized housing, the subsidy is
+                                                            just cause for the eviction. What counts as good or
+ attached to the rental property. This means that if
+                                                            just cause for an eviction from subsidized housing
+ the tenant vacates the property, the subsidy does
+                                                            can depend on the specific housing program that
+ not typically move with the tenant. Site-based
+                                                            the tenant or property is a part of. However, some
+ subsidized housing can either be privately or publicly
+                                                            examples of good or just cause include:
+ owned. Public housing units are typically owned and
+ operated by local housing commissions. Examples of            (1) Having an income over the program limit.
+ site-based subsidized housing include Public Housing          (2) Serious or repeated violations of the
+ and Project-Based Section 8.                                       lease terms.
+                                                               (3) Criminal activity by a covered person that
+ In tenant-based subsidized housing, the subsidy is
+                                                                    threatens other residents’ health, safety, or
+ assigned to a person or family. The eligible person
+                                                                    right to peaceful enjoyment.
+ or family may select suitable housing for which the
+ landlord accepts rental assistance. The subsidy is         In addition, when a landlord seeks to evict a
+ portable, meaning that it travels with the person or       tenant from subsidized housing, some programs
+ family. An example of tenant-based subsidized              require that the tenant be given an opportunity
+ housing is the Housing Choice Voucher Program, also        for an administrative hearing. For example, any
+ called Tenant-Based Section 8.                             public housing agency that receives public housing
+                                                            assistance is required to have an administrative
+                                                            grievance procedure in which a tenant can dispute
+                                                            any action or inaction by the agency that adversely
+                                                            impacts the tenant’s rights, duties, welfare, or status.
+                                                            24 C.F.R. §§ 966.51 and 966.53.
+
+
+
+
+                                                                                                                    17
+
