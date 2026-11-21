@@ -7,25 +7,25 @@
   "source_format": "PDF",
   "slides": [
     {
-  "slide_number": 2,
-  "slide_title": "A Fair and Balanced Plan to Ensure Safe Rental Housing",
-  "slide_type": "problem_solution_overview",
-  "problem": [
-    "All rental homes are required by law to be inspected for safety",
-    "But only 10% of homes are in compliance",
-    "The City has written 100,000 tickets in the last five years for violations",
-    "Old requirements were complicated, expensive, and ineffective"
-  ],
-  "solution": {
-    "title": "The One Inspection, One Fee Plan",
-    "goals_statement": "A NEW PLAN will make sure more rental homes are safe and in good condition:",
-    "goals": [
-      "Get more homes inspected by the city for the most common and serious safety issues",
-      "Make it easy for good landlords to comply",
-      "Make sure bad landlords get real penalties",
-      "Help tenants respond when their home has issues and get them fixed"
-    ]
-  }
-}
+      "slide_number": 2,
+      "slide_title": "A Fair and Balanced Plan to Ensure Safe Rental Housing",
+      "slide_type": "problem_solution_overview",
+      "problem": [
+        "All rental homes are required by law to be inspected for safety",
+        "But only 10% of homes are in compliance",
+        "The City has written 100,000 tickets in the last five years for violations",
+        "Old requirements were complicated, expensive, and ineffective"
+      ],
+      "solution": {
+        "title": "The One Inspection, One Fee Plan",
+        "goals_statement": "A NEW PLAN will make sure more rental homes are safe and in good condition:",
+        "goals": [
+          "Get more homes inspected by the city for the most common and serious safety issues",
+          "Make it easy for good landlords to comply",
+          "Make sure bad landlords get real penalties",
+          "Help tenants respond when their home has issues and get them fixed"
+        ]
+      }
+    }
   ]
 }
