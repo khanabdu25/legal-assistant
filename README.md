@@ -2,6 +2,10 @@
 
 CHANGELOG:
 
+NOV 20th, 2026:
+- Started on ingesting "A Practical Guide for Tenants & Landlords." It's a way newer PDF with a very clear font, which is what has resulted in zero problems in the ingestion thus far which I am thankful for. 
+- The logical partition points for this document are the sections outlined in the TOC, with each section further being broken down into question and answer pairs.
+
 NOV 19th, 2026:
 - Upon finishing the processing of the initial 3 primary sources in the corpus, I started on the processing of the judicial sources next. Still making sure to preserve important metadata and chunk stategically in the json to prepare for the database chunking
 
