@@ -1,0 +1,219 @@
+QUESTION 46: What are the different types                  QUESTION 47: Can tenants in subsidized
+of subsidized housing assistance?                          housing still be evicted?
+ In general, housing assistance is categorized as either    Yes, tenants in subsidized housing can be evicted.
+ tenant-based or site-based.                                However, a landlord seeking to evict a tenant from
+                                                            subsidized housing must generally have good or
+ In site-based subsidized housing, the subsidy is
+                                                            just cause for the eviction. What counts as good or
+ attached to the rental property. This means that if
+                                                            just cause for an eviction from subsidized housing
+ the tenant vacates the property, the subsidy does
+                                                            can depend on the specific housing program that
+ not typically move with the tenant. Site-based
+                                                            the tenant or property is a part of. However, some
+ subsidized housing can either be privately or publicly
+                                                            examples of good or just cause include:
+ owned. Public housing units are typically owned and
+ operated by local housing commissions. Examples of            (1) Having an income over the program limit.
+ site-based subsidized housing include Public Housing          (2) Serious or repeated violations of the
+ and Project-Based Section 8.                                       lease terms.
+                                                               (3) Criminal activity by a covered person that
+ In tenant-based subsidized housing, the subsidy is
+                                                                    threatens other residents’ health, safety, or
+ assigned to a person or family. The eligible person
+                                                                    right to peaceful enjoyment.
+ or family may select suitable housing for which the
+ landlord accepts rental assistance. The subsidy is         In addition, when a landlord seeks to evict a
+ portable, meaning that it travels with the person or       tenant from subsidized housing, some programs
+ family. An example of tenant-based subsidized              require that the tenant be given an opportunity
+ housing is the Housing Choice Voucher Program, also        for an administrative hearing. For example, any
+ called Tenant-Based Section 8.                             public housing agency that receives public housing
+                                                            assistance is required to have an administrative
+                                                            grievance procedure in which a tenant can dispute
+                                                            any action or inaction by the agency that adversely
+                                                            impacts the tenant’s rights, duties, welfare, or status.
+                                                            24 C.F.R. §§ 966.51 and 966.53.
+
+
+
+
+                                                                                                                    17
+                                                                  QUESTION 49: Are there certain things that
+     MOBILE HOME PARKS                                            mobile home park owners are prohibited
+                                                                  from doing?
+                                                                   Yes, under the Mobile Home Commission Act,
+ Tenancies in a mobile home park can be unique because
+                                                                   MCL 125.2301 - MCL 125.2350, owners and
+ not only are there situations where the tenant is renting
+                                                                   operators of mobile home parks and seasonal
+ both the mobile home and the lot it sits on, but there
+                                                                   mobile home parks are prohibited from engaging
+ are also circumstances under which the tenant owns the
+                                                                   in, or permitting an employee or agent to engage in,
+ mobile home while renting only the lot.
+                                                                   unfair or deceptive methods, acts, or practices. Under
+                                                                   MCL 125.2328(1), this includes:
+ QUESTION 48: Do the same laws apply
+ to tenants in mobile home parks?                                     (1) Directly or indirectly charging or collecting
+                                                                           an entrance fee;
+     Whether the laws that govern traditional landlord-               (2) Requiring a person to purchase a mobile
+     tenant relationships apply to tenants in mobile home                  home from another person as a condition
+     parks can depend on whether the tenant owns or                        of entrance to, or lease or rental of, a
+     rents the mobile home. For example, some of the                       park space;
+     requirements under the covenants of habitability and             (3) Directly or indirectly charging or collecting
+     fitness in regard to the inside of the mobile home                    a refundable or nonrefundable exit fee;
+     may not apply if the tenant is the one who owns                  (4) Requiring or coercing a person to purchase,
+     the mobile home. See the section on Repair and                        rent, or lease goods or services from
+     Maintenance for more information.                                     another person as a condition of:
+     The Truth in Renting Act discussed earlier in this booklet          a. Entering into a park or lease;
+     applies to mobile home tenancies. See the section on                b. 
+                                                                            Selling a mobile home through the
+     Lease Agreements for more information.                                 park owner or operator, or their agent
+                                                                            or designee, upon leaving a park;
+                                                                         c. Renting space in a park;
+
+
+
+
+18
+    (5) Directly or indirectly charging or collecting              c. 
+                                                                       Maintaining the physical condition
+         money or something else of value for                          or appearance of the mobile home
+         electric, fuel, or water service without the                  park or the mobile homes located in
+         use of that service by the person first being                 the park in order to protect the value
+         accurately and consistently measured. An                      of the park or to maintain its aesthetic
+         exception to this prohibition is made when                    quality or appearance;
+         the service is included in the rental charge
+                                                                 (3) The tenant’s violation of rules made by
+         as an incident of tenancy;
+                                                                      the Michigan Department of Health and
+    (6) Conspiring, combining, agreeing, aiding,
+                                                                      Human Services under the Mobile Home
+         or abetting in the employment of a
+                                                                      Commission Act;
+         method, act, or practice that violates the
+                                                                 (4) The tenant’s intentional physical injury of
+         Mobile Home Commission Act;
+                                                                      personnel or other tenants of the mobile
+    (7) Renting or leasing a mobile home or site
+                                                                      home park, or the intentional physical
+         in a park without offering a written lease;
+                                                                      damage of the property of the park or
+    (8) With some exceptions, prohibiting a
+                                                                      other tenants;
+         person from selling their mobile home on
+                                                                 (5) The tenant’s failure to comply with relevant
+         site for a price determined by that person,
+                                                                      local ordinances, state laws, or rules or
+         if the buyer qualifies for tenancy and
+                                                                      regulations relating to mobile homes;
+         the mobile home meets the conditions
+                                                                 (6) The tenant’s failure to pay rent or other
+         of written park rules or regulations. This
+                                                                      required charges on 3 or more occasions
+         prohibition does not apply to seasonal
+                                                                      during any 12-month period;
+         mobile home parks; or
+                                                                 (7) Conduct by the tenant that creates a
+    (9) With some exceptions, prohibiting a
+                                                                      substantial annoyance to other tenants
+         person from installing or maintaining an
+                                                                      or to the mobile home park, after notice
+         exterior television antenna on a mobile
+                                                                      has been given and the tenant has had an
+         home within the park unless the park
+                                                                      opportunity to fix the annoyance;
+         provides residents, without charge, a
+                                                                 (8) The tenant’s failure to maintain the mobile
+         central television antenna for UHF-VHF
+                                                                      home or the site in a reasonable condition;
+         reception.
+                                                                 (9) Condemnation of the mobile home park;
+                                                                 (10) Changes in the use or nature of the
+QUESTION 50: Can a tenant be evicted                                    mobile home park; or
+from a mobile home park?                                         (11) Public health and safety violations
+ Yes, a tenant may be evicted from a mobile home park,                 caused by the tenant.
+ but the landlord must have “just cause” for the eviction.
+ MCL 600.5775(2) defines “just cause” to mean one
+                                                             QUESTION 51: Can a tenant request to
+ or more of the following:
+                                                             meet with the landlord to try and avoid
+    (1) The tenant’s use of the mobile home site            an eviction action?
+         for an unlawful purpose;
+                                                              Yes, under MCL 600.5777, within 10 days of the
+    (2) The tenant’s failure to comply with the
+                                                              tenant receiving a Demand for Possession, the tenant
+         lease under which the tenant possesses
+                                                              has the right to request an in-person conference with
+         the property, or with a rule or regulation of
+                                                              the owner or operator of the mobile home park or
+         the mobile home park that is reasonably
+                                                              their representative. The request must be made by
+         related to any of the following:
+                                                              certified or registered mail. The conference must be
+       a. The health, safety, or welfare of the              scheduled within 20 days of the tenant’s request.
+            mobile home park, its employees,
+            or tenants;
+       b. The quiet enjoyment of the other
+          tenants of the mobile home park;
+
+
+                                                                                                                     19
+                                                                         OTHER
+                                                                     CONSIDERATIONS
+
+                                                                    JOINT AND SEVERAL LIABILITY
+
+                                                              QUESTION 54: If one tenant is evicted
+                                                              or otherwise leaves the rental property, is
+                                                              the other tenant responsible for the entire
+                                                              rent amount?
+                                                                If more than one person signs the lease as a tenant,
+                                                                the lease may state that the tenants’ obligations are
+                                                                “joint and several.” This means that each person is
+                                                                responsible not only for their individual obligations,
+                                                                but also for the obligations of all other tenants. This
+                                                                includes paying rent and performing all other terms
+                                                                of the lease. Therefore, if one tenant stops paying
+                                                                the rent or otherwise violates the terms of the lease
+                                                                agreement, the landlord may choose to evict all of
+                                                                the tenants. In addition, the landlord may choose to
+                                                                collect the rent or other money for damages incurred
+                                                                from all of the tenants.
+ QUESTION 52: Is the tenant required to
+ continue to make rental payments during
+                                                                  SUBLEASING AND ASSIGNMENTS
+ an eviction action?
+     Yes, during an action to evict a tenant from a mobile    QUESTION 55: What is the difference
+     home park, the tenant is required to continue to make    between a sublease and an assignment?
+     rental payments as they come due. MCL 600.5779.          Is it allowed in Michigan?
+                                                                Subleasing is when an original tenant rents out
+ QUESTION 53: What happens after a
+                                                                some or all of the property to another (called a
+ court enters a judgment in favor of the
+                                                                subtenant). The original tenant retains some of their
+ mobile home park?
+                                                                rights and responsibilities under the lease agreement.
+     MCL 600.5781 largely governs what happens after            Assignment is when an original tenant transfers their
+     a tenancy in a mobile home park has been terminated        entire interest in a lease agreement to a new tenant.
+     through a judgment from the court. The tenant has 90       The original tenant is considered to have no rights or
+     days from the date of the judgment to sell or move the     obligations related to the rental property.
+     mobile home, though this time frame can be extended
+                                                                Under Michigan law, tenants are presumed to have
+     under certain circumstances. During this time, the
+                                                                the right to sublease or assign a lease. However, a
+     tenant is required to continue to make all rental
+                                                                landlord may prohibit a tenant from subleasing or
+     payments as they come due, in addition to any other
+                                                                assigning a lease within the provisions of the lease
+     required charges. Both the landlord and the tenant
+                                                                agreement.
+     have responsibilities for ensuring the maintenance
+     of the mobile home and its site. However, after
+     10 days have passed from the date of judgment, the
+     landlord is allowed to disconnect all park-supplied
+     utility services.
+
+
+20
+
