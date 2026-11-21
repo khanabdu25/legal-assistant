@@ -146,6 +146,39 @@
           "full_text": "Under MCL 554.614, in the event that the landlord sells the rental property, or otherwise terminates their interest in the property, the landlord remains liable for the tenant’s security deposit until one of the following occurs:\n\n(1) The landlord returns the security deposit to the tenant;\n(2) The landlord transfers the security deposit to the new owner and mails a written notice to the tenant informing them of the new owner’s name and address; or\n(3) The new owner deposits the money with a regulated financial institution or deposits a cash or surety bond with the Secretary of State."
         }
       ]
+    },
+    {
+  "section_id": "repair_and_maintenance",
+  "section_title": "Repair and Maintenance",
+  "section_type": "explanatory_section",
+  "overview": "During the course of a lease agreement, it is likely that some repair or maintenance issues will arise. These issues can range from something as simple as a cupboard door coming loose to something more serious like a hot water heater going out. Both landlords and tenants have responsibilities and obligations when it comes to the upkeep of the property.",
+  "questions": [
+    {
+      "question_number": 24,
+      "question": "What are a landlord’s responsibilities in regard to maintaining the rental property?",
+      "full_text": "Michigan law generally requires landlords to keep the rental property in reasonable repair during the term of the lease. It also requires the landlord to make sure that the rental property and all common areas are fit for the intended uses. These are referred to as the covenants of habitability and fitness. “Covenant” is another word for promise. Specifically, MCL 554.139(1) states that in every lease for residential property, the landlord covenants that: (1) The rental property is fit for the use intended by the parties; (2) The landlord will keep the rental property in reasonable repair during the term of the lease; and (3) The landlord will comply with applicable health and safety laws. “Reasonable repair” is not defined in statute. This means that what is considered to be reasonable repair in a particular situation would be a question of fact that, if brought before the court in a legal action, would be decided by a judge or jury."
+    },
+    {
+      "question_number": 25,
+      "question": "Are there circumstances in which the covenants of habitability and fitness do not apply?",
+      "full_text": "Yes, MCL 554.139 provides some circumstances under which the covenants of habitability and fitness do not apply. For one, a landlord and tenant can agree to modify the obligations of the covenants if the current lease term is for at least one year. Additionally, the covenants do not apply if the tenant is the cause of the disrepair or violation of health and safety laws."
+    },
+    {
+      "question_number": 26,
+      "question": "What happens if a landlord does not fulfill their duty under the covenants of habitability and fitness?",
+      "full_text": "A breach of the duty to maintain a rental property is considered to be a breach of the terms of the lease agreement. A tenant may, depending on the circumstances of the failure, have a few options in response to a landlord’s breach of the covenants of habitability and fitness. These options include, but are not limited to: (1) A remedy provided for by contract law, such as a breach of contract lawsuit; (2) Making the repairs themselves and deducting the cost of the repairs from the rent; or (3) Withholding rent. What avenue a tenant may be eligible to take will be dependent upon their specific circumstances."
+    },
+    {
+      "question_number": 27,
+      "question": "Are there local laws or ordinances regarding the repair and maintenance of rental properties?",
+      "full_text": "Yes, in addition to state law requirements, counties and municipalities are able to enact ordinances that require landlords to maintain rental property above minimum habitability standards and additional requirements. Many municipalities have a housing code protecting the health, safety, and welfare of their citizens. Some require that the rental property be inspected on a regular basis. Some may require licensing before a tenant can move in. Check with the local city or county government code enforcement office for additional standards imposed on landlords in maintaining their rental property."
+    },
+    {
+      "question_number": 28,
+      "question": "Are landlords required to give tenants notice about lead-based paint in rental properties?",
+      "full_text": "Yes, landlords are required to give tenants notice about lead-based paint that may be found in the rental property. Though lead-based paint was banned in the United States in 1978, it can still be found in millions of homes throughout the country. Under federal regulation, landlords are required to notify prospective tenants of known lead-based paint and lead-based paint hazards before the tenant signs a lease. This notice requirement applies to most pre-1978 private, public, and federally owned housing, as well as housing receiving federal assistance. In addition, federal and state regulation require notice to be given when renovations are set to take place that will disturb painted surfaces that contain lead. 40 C.F.R. § 745.84 and Mich. Admin. Code r. 325.99409."
     }
+  ]
+}
   ]
 }
