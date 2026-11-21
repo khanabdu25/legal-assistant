@@ -267,6 +267,29 @@
           "full_text": "Sometimes, tenants may need to break a lease despite not being in a circumstance outlined in Question 43. As discussed in Question 8, Michigan law generally prohibits lease agreements from releasing a landlord from their duty to mitigate damages. Because of this, when a tenant voluntarily abandons the rental property and breaches the lease, a landlord has a duty to take reasonable efforts to mitigate the damages caused by the tenant’s breach. This generally involves some effort to re-lease the rental property. However, because it is a “reasonable” effort, the landlord may not be able to recover their full damages despite their reasonable effort, and the tenant may be held liable for any remaining damages."
         }
       ]
+    },
+    {
+  "section_id": "subsidized_and_public_housing",
+  "section_title": "Subsidized and Public Housing",
+  "section_type": "explanatory_section",
+  "overview": "The federal and state government operate programs that provide subsidized housing assistance to eligible low-income families, the elderly, people who are homeless, and people with disabilities. Some of the most common types of subsidized housing programs include Public Housing, Section 8, and the Low-Income Housing Tax Credit. Many subsidized housing programs are funded and regulated at the federal level by the United States Department of Housing and Urban Development, so relevant provisions of the law can be found in both state and federal statute and regulation. The legal requirements for qualifying for, living in, and being evicted from subsidized housing can differ from program to program. Therefore, anyone having legal concerns surrounding a subsidized housing tenancy should consult with legal counsel or program staff.",
+  "questions": [
+    {
+      "question_number": 45,
+      "question": "What is subsidized housing?",
+      "full_text": "Under many subsidized housing programs, a tenant’s rent is based on a percentage of the tenant’s income. This results in a tenant portion and a government portion of the total rent. However, there are some other types of programs that do not directly pay a portion of a tenant’s rent. For example, the Low-Income Housing Tax Credit Program provides tax credits for the acquisition, rehabilitation, or new construction of rental housing that will be targeted to low-income households."
+    },
+    {
+      "question_number": 46,
+      "question": "What are the different types of subsidized housing assistance?",
+      "full_text": "In general, housing assistance is categorized as either tenant-based or site-based. In site-based subsidized housing, the subsidy is attached to the rental property. This means that if the tenant vacates the property, the subsidy does not typically move with the tenant. Site-based subsidized housing can either be privately or publicly owned. Public housing units are typically owned and operated by local housing commissions. Examples of site-based subsidized housing include Public Housing and Project-Based Section 8. In tenant-based subsidized housing, the subsidy is assigned to a person or family. The eligible person or family may select suitable housing for which the landlord accepts rental assistance. The subsidy is portable, meaning that it travels with the person or family. An example of tenant-based subsidized housing is the Housing Choice Voucher Program, also called Tenant-Based Section 8."
+    },
+    {
+      "question_number": 47,
+      "question": "Can tenants in subsidized housing still be evicted?",
+      "full_text": "Yes, tenants in subsidized housing can be evicted. However, a landlord seeking to evict a tenant from subsidized housing must generally have good or just cause for the eviction. What counts as good or just cause for an eviction from subsidized housing can depend on the specific housing program that the tenant or property is a part of. However, some examples of good or just cause include: (1) Having an income over the program limit. (2) Serious or repeated violations of the lease terms. (3) Criminal activity by a covered person that threatens other residents’ health, safety, or right to peaceful enjoyment. In addition, when a landlord seeks to evict a tenant from subsidized housing, some programs require that the tenant be given an opportunity for an administrative hearing. For example, any public housing agency that receives public housing assistance is required to have an administrative grievance procedure in which a tenant can dispute any action or inaction by the agency that adversely impacts the tenant’s rights, duties, welfare, or status. 24 C.F.R. §§ 966.51 and 966.53."
     }
+  ]
+}
   ]
 }
