@@ -333,6 +333,40 @@
         "resource_title": "BSEED Rental Ordinance Landlord Rental Requirements and step by step instructions",
         "resource_url": "www.detroitmi.gov/rental"
       }
+    },
+    {
+  "slide_number": 7,
+  "slide_title": "Other Key Provisions in New System",
+  "slide_type": "bullet_points",
+  "full_text": "Inspections by other federal, state, or local agencies can satisfy City requirement\n  - If property passed inspection for HUD / Sec. 8, MSHDA, HRD, must only submit to BSEED\n\nStandardizes length of COC:\n  - First COC is 3 years\n  - Second is 5 years (if renewed before expiration)\n\nIf a child in a rental is lead poisoned, City will require a lead inspection / risk assessment at owners’ expense",
+  "main_points": [
+    {
+      "point_number": 1,
+      "text": "Inspections by other federal, state, or local agencies can satisfy City requirement",
+      "subpoints": [
+        {
+          "text": "If property passed inspection for HUD / Sec. 8, MSHDA, HRD, must only submit to BSEED"
+        }
+      ]
+    },
+    {
+      "point_number": 2,
+      "text": "Standardizes length of COC:",
+      "subpoints": [
+        {
+          "text": "First COC is 3 years"
+        },
+        {
+          "text": "Second is 5 years (if renewed before expiration)"
+        }
+      ]
+    },
+    {
+      "point_number": 3,
+      "text": "If a child in a rental is lead poisoned, City will require a lead inspection / risk assessment at owners’ expense",
+      "subpoints": []
     }
+  ]
+}
   ]
 }
