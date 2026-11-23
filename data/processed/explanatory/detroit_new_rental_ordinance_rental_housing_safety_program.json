@@ -450,6 +450,27 @@
           "subpoints": []
         }
       ]
+    },
+    {
+  "slide_number": 10,
+  "slide_title": "What Can You Do to Help?",
+  "slide_type": "call_to_action",
+  "full_text": "Detroiters can help improve the safety of rental housing by:\n\n- If you’re a landlord, get inspected & in compliance!\n\n- If you know a landlord, tell them about the new, easier inspection process!\n\nInformation and questions:\npm@detroitmi.gov",
+  "introduction": "Detroiters can help improve the safety of rental housing by:",
+  "action_items": [
+    {
+      "item_number": 1,
+      "text": "If you’re a landlord, get inspected & in compliance!"
+    },
+    {
+      "item_number": 2,
+      "text": "If you know a landlord, tell them about the new, easier inspection process!"
     }
+  ],
+  "contact_information": {
+    "label": "Information and questions:",
+    "email": "pm@detroitmi.gov"
+  }
+}
   ]
 }
