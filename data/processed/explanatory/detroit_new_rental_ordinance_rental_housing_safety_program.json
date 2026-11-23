@@ -238,6 +238,101 @@
           ]
         }
       ]
-    }
+    },
+    {
+  "slide_number": 6,
+  "slide_title": "Scheduling Your Rental Inspection",
+  "slide_type": "process_flowchart_with_instructions",
+  "full_text": "Rental Ordinance Process\n\nRegister property as a rental on the BSEED Website\n\nIs the property 1-2 Units?\n\nYes: Schedule an inspection via the Code Enforcement Module when you register your property.\n\nNo: Schedule and pass a property inspection with BSEED.\n\nCoC issued and property in compliance after you've passed your inspection.\n\nSteps to Obtain a Rental Certificate of Compliance\n\nStep 1. Register property as a rental.\nRegister each property via the Code Enforcement Module in www.detroitmi.gov/rental. Be sure to upload all required forms while registering the property.\n\nStep 2. Pass a property condition inspection.\n1-2 Unit properties: Schedule with any of the approved inspection companies listed at detroitmi.gov/rental.\n3+ Unit properties: Schedule an inspection with BSEED by calling 313-628-2451.\n\nStep 3. BSEED will issue a Certificate of Compliance.\n\nBSEED Rental Ordinance Landlord Rental Requirements and step by step instructions @: detroitmi.gov/rental",
+  "flowchart": {
+    "direction": "left_to_right",
+    "nodes": [
+      {
+        "node_id": "register_property",
+        "text": "Register property as a rental on the BSEED Website",
+        "node_type": "process"
+      },
+      {
+        "node_id": "unit_count_decision",
+        "text": "Is the property 1-2 Units?",
+        "node_type": "decision"
+      },
+      {
+        "node_id": "schedule_1_2_units",
+        "text": "Schedule an inspection via the Code Enforcement Module when you register your property",
+        "node_type": "process"
+      },
+      {
+        "node_id": "schedule_3_plus_units",
+        "text": "Schedule and pass a property inspection with BSEED",
+        "node_type": "process"
+      },
+      {
+        "node_id": "certificate_issued",
+        "text": "CoC issued and property in compliance after you've passed your inspection",
+        "node_type": "outcome"
+      }
+    ],
+    "connections": [
+      {
+        "from": "register_property",
+        "to": "unit_count_decision"
+      },
+      {
+        "from": "unit_count_decision",
+        "to": "schedule_1_2_units",
+        "condition": "Yes"
+      },
+      {
+        "from": "unit_count_decision",
+        "to": "schedule_3_plus_units",
+        "condition": "No"
+      },
+      {
+        "from": "schedule_1_2_units",
+        "to": "certificate_issued"
+      },
+      {
+        "from": "schedule_3_plus_units",
+        "to": "certificate_issued"
+      }
+    ]
+  },
+  "instructions": {
+    "title": "Steps to Obtain a Rental Certificate of Compliance",
+    "steps": [
+      {
+        "step_number": 1,
+        "title": "Register property as a rental",
+        "instructions": [
+          "Register each property via the Code Enforcement Module in www.detroitmi.gov/rental.",
+          "Be sure to upload all required forms while registering the property."
+        ]
+      },
+      {
+        "step_number": 2,
+        "title": "Pass a property condition inspection",
+        "property_type_requirements": [
+          {
+            "property_type": "1-2 Unit properties",
+            "instruction": "Schedule with any of the approved inspection companies listed at detroitmi.gov/rental."
+          },
+          {
+            "property_type": "3+ Unit properties",
+            "instruction": "Schedule an inspection with BSEED by calling 313-628-2451."
+          }
+        ]
+      },
+      {
+        "step_number": 3,
+        "title": "BSEED will issue a Certificate of Compliance"
+      }
+    ]
+  },
+  "additional_information": {
+    "resource_title": "BSEED Rental Ordinance Landlord Rental Requirements and step by step instructions",
+    "resource_url": "www.detroitmi.gov/rental"
+  }
+}
   ]
 }
