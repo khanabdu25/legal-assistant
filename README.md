@@ -2,6 +2,9 @@
 
 CHANGELOG:
 
+NOV 22nd, 2026:
+- Completed a substantial milestone: initial corpus now contains nine processed sources across three different types of legal information: primary, judicial, and explanatory
+
 NOV 21st, 2026:
 - It just occured to me that although I am in the processing stage and chunking into all these neat little subsections for a very structured ingestion, I am not really relating them together such that those relationships can be followed for the more specific questions that need exact references from the source material.
 
