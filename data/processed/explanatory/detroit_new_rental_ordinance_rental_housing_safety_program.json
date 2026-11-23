@@ -369,45 +369,45 @@
       ]
     },
     {
-  "slide_number": 8,
-  "slide_title": "Real Penalties For Landlords Who Choose Not to Comply",
-  "slide_type": "bullet_points",
-  "full_text": "Right now, only 20% of rental tickets are paid, meaning little penalty for non-compliance.\n\nUnder the new plan, the City will:\n\n- Increase violation tickets by $150 each\n  - But if property comes into compliance, DAH hearing officers can reduce ticket amount by up to 50%\n  - Tickets can be written to management companies too\n\n- Convert unpaid tickets into a lien on the property\n  - Lien enforced through property tax bill\n  - Landlords will still have many opportunities to work with the City to address tickets first\n\n- Require more frequent inspections for properties with repeat violations",
-  "context": {
-    "current_situation": "Right now, only 20% of rental tickets are paid, meaning little penalty for non-compliance.",
-    "proposed_actions_intro": "Under the new plan, the City will:"
-  },
-  "main_points": [
-    {
-      "point_number": 1,
-      "text": "Increase violation tickets by $150 each",
-      "subpoints": [
+      "slide_number": 8,
+      "slide_title": "Real Penalties For Landlords Who Choose Not to Comply",
+      "slide_type": "bullet_points",
+      "full_text": "Right now, only 20% of rental tickets are paid, meaning little penalty for non-compliance.\n\nUnder the new plan, the City will:\n\n- Increase violation tickets by $150 each\n  - But if property comes into compliance, DAH hearing officers can reduce ticket amount by up to 50%\n  - Tickets can be written to management companies too\n\n- Convert unpaid tickets into a lien on the property\n  - Lien enforced through property tax bill\n  - Landlords will still have many opportunities to work with the City to address tickets first\n\n- Require more frequent inspections for properties with repeat violations",
+      "context": {
+        "current_situation": "Right now, only 20% of rental tickets are paid, meaning little penalty for non-compliance.",
+        "proposed_actions_intro": "Under the new plan, the City will:"
+      },
+      "main_points": [
         {
-          "text": "But if property comes into compliance, DAH hearing officers can reduce ticket amount by up to 50%"
+          "point_number": 1,
+          "text": "Increase violation tickets by $150 each",
+          "subpoints": [
+            {
+              "text": "But if property comes into compliance, DAH hearing officers can reduce ticket amount by up to 50%"
+            },
+            {
+              "text": "Tickets can be written to management companies too"
+            }
+          ]
         },
         {
-          "text": "Tickets can be written to management companies too"
-        }
-      ]
-    },
-    {
-      "point_number": 2,
-      "text": "Convert unpaid tickets into a lien on the property",
-      "subpoints": [
-        {
-          "text": "Lien enforced through property tax bill"
+          "point_number": 2,
+          "text": "Convert unpaid tickets into a lien on the property",
+          "subpoints": [
+            {
+              "text": "Lien enforced through property tax bill"
+            },
+            {
+              "text": "Landlords will still have many opportunities to work with the City to address tickets first"
+            }
+          ]
         },
         {
-          "text": "Landlords will still have many opportunities to work with the City to address tickets first"
+          "point_number": 3,
+          "text": "Require more frequent inspections for properties with repeat violations",
+          "subpoints": []
         }
       ]
-    },
-    {
-      "point_number": 3,
-      "text": "Require more frequent inspections for properties with repeat violations",
-      "subpoints": []
     }
-  ]
-}
   ]
 }
