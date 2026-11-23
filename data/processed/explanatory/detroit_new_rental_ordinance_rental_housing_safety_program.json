@@ -27,6 +27,139 @@
           "Help tenants respond when their home has issues and get them fixed"
         ]
       }
+    },
+    {
+      "slide_number": 3,
+      "slide_title": "Get More Homes Inspected by Making Process Easy and Effective",
+      "slide_type": "process_comparison",
+      "full_text": "New Process:\n- Faster & simpler\n- Much less expensive\n- Clear expectations\n- Covers all major safety issues\n\nOld Rental Compliance Process:\n1. Two separate inspections lasting 4–8 hours\n2. Over $1,000 in fees\n3. Complex & overlapping list of 37 inspection components\n\nNew Rental Compliance Process:\n1. One inspection done in 1–2 hours, covers most common & serious safety issues\n2. $195 for 1-unit inspection and $225 for duplexes*\n3. Clear & standardized 15 points inspection checklist\n\n* $20 Processing fee applies",
+      "new_process_benefits": [
+        "Faster & simpler",
+        "Much less expensive",
+        "Clear expectations",
+        "Covers all major safety issues"
+      ],
+      "comparison": {
+        "old_rental_compliance_process": [
+          "Two separate inspections lasting 4–8 hours",
+          "Over $1,000 in fees",
+          "Complex & overlapping list of 37 inspection components"
+        ],
+        "new_rental_compliance_process": [
+          {
+            "text": "One inspection done in 1–2 hours, covers most common & serious safety issues"
+          },
+          {
+            "text": "$195 for 1-unit inspection and $225 for duplexes*",
+            "footnote_references": [
+              "footnote_1"
+            ]
+          },
+          {
+            "text": "Clear & standardized 15 points inspection checklist"
+          }
+        ]
+      },
+      "footnotes": [
+        {
+          "footnote_id": "footnote_1",
+          "marker": "*",
+          "text": "$20 Processing fee applies",
+          "applies_to": [
+            "comparison.new_rental_compliance_process[1]"
+          ]
+        }
+      ]
+    },
+    {
+      "slide_number": 4,
+      "slide_title": "15 Point Inspection Checklist",
+      "slide_type": "inspection_checklist",
+      "full_text": "15 Point Inspection Checklist\nExterior and Interior\n\nGoals:\n- Consistent application of standards in all inspections\n- Clear, well-defined standards, provided in advance\n- Safety-focused on most common & serious issues\n\n1. Walls and floors, including on stairs, porches, or attached decks, are free of major structural defects (e.g., holes, rotten materials, leaning, or collapsing)\n2. Handrails installed for all stairs with four or more risers and guardrails installed on porches.\n\nExterior:\n3. Roof, exterior walls, and gutter /downspout system do not allow entry of rain or snow.\n\nInterior:\n4. Gas and electric utilities are on and properly functioning.\n5. Heating system is operable and can provide a minimum of 68 degrees.\n6. Electrical system is in proper working order, with no exposed wires and cover plates on all switches/plugs.\n7. Smoke and carbon monoxide detectors are installed and working.\n8. Water supply is operable, provides hot and cold water, and hot water has minimum temperature of 110F and max of 140F.\n9. Plumbing fixtures (i.e., sinks, toilet, tub/shower and water heater) are working properly, drain, and do not leak.\n10. All rooms have proper egress, including attics or basement used for habitation.\n11. All windows that are designed to open are in working condition and have locks.\n12. All entry doors into individual dwelling units have a working lock.\n13. Buildings and structures are free from infestation by rodents or insects.\n14. Floor, walls, and ceilings are in sanitary condition, with no evidence of fungus-like substance or sewage.\n15. No deteriorated paint or bare soil",
+      "goals": [
+        "Consistent application of standards in all inspections",
+        "Clear, well-defined standards, provided in advance",
+        "Safety-focused on most common & serious issues"
+      ],
+      "checklist": {
+        "categories": [
+          {
+            "category": "Exterior and Interior",
+            "items": [
+              {
+                "item_number": 1,
+                "text": "Walls and floors, including on stairs, porches, or attached decks, are free of major structural defects (e.g., holes, rotten materials, leaning, or collapsing)"
+              },
+              {
+                "item_number": 2,
+                "text": "Handrails installed for all stairs with four or more risers and guardrails installed on porches."
+              }
+            ]
+          },
+          {
+            "category": "Exterior",
+            "items": [
+              {
+                "item_number": 3,
+                "text": "Roof, exterior walls, and gutter /downspout system do not allow entry of rain or snow."
+              }
+            ]
+          },
+          {
+            "category": "Interior",
+            "items": [
+              {
+                "item_number": 4,
+                "text": "Gas and electric utilities are on and properly functioning."
+              },
+              {
+                "item_number": 5,
+                "text": "Heating system is operable and can provide a minimum of 68 degrees."
+              },
+              {
+                "item_number": 6,
+                "text": "Electrical system is in proper working order, with no exposed wires and cover plates on all switches/plugs."
+              },
+              {
+                "item_number": 7,
+                "text": "Smoke and carbon monoxide detectors are installed and working."
+              },
+              {
+                "item_number": 8,
+                "text": "Water supply is operable, provides hot and cold water, and hot water has minimum temperature of 110F and max of 140F."
+              },
+              {
+                "item_number": 9,
+                "text": "Plumbing fixtures (i.e., sinks, toilet, tub/shower and water heater) are working properly, drain, and do not leak."
+              },
+              {
+                "item_number": 10,
+                "text": "All rooms have proper egress, including attics or basement used for habitation."
+              },
+              {
+                "item_number": 11,
+                "text": "All windows that are designed to open are in working condition and have locks."
+              },
+              {
+                "item_number": 12,
+                "text": "All entry doors into individual dwelling units have a working lock."
+              },
+              {
+                "item_number": 13,
+                "text": "Buildings and structures are free from infestation by rodents or insects."
+              },
+              {
+                "item_number": 14,
+                "text": "Floor, walls, and ceilings are in sanitary condition, with no evidence of fungus-like substance or sewage."
+              },
+              {
+                "item_number": 15,
+                "text": "No deteriorated paint or bare soil"
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
