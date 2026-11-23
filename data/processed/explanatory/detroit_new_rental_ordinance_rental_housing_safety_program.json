@@ -160,6 +160,80 @@
           }
         ]
       }
+    },
+    {
+  "slide_number": 5,
+  "slide_title": "NEW Inspection Process: Single-Family Home",
+  "slide_type": "process_flowchart",
+  "full_text": "Owner signs up with BSEED & pays fee ($195)\n\nOwner assigned to inspection firm\n\nHome inspection 1–2 hours\n\nIf passed, certificate issued\n\nIf failed, owner responsible for repairs*\n\nRe-inspection (no extra cost for 1st reinspection)\n\n*If failed due to damaged paint or bare soil, owner should consult with a lead-safe certified professional",
+  "flowchart": {
+    "direction": "left_to_right",
+    "nodes": [
+      {
+        "node_id": "owner_registration",
+        "text": "Owner signs up with BSEED & pays fee ($195)",
+        "node_type": "process"
+      },
+      {
+        "node_id": "inspection_assignment",
+        "text": "Owner assigned to inspection firm",
+        "node_type": "process"
+      },
+      {
+        "node_id": "home_inspection",
+        "text": "Home inspection 1–2 hours",
+        "node_type": "process"
+      },
+      {
+        "node_id": "passed",
+        "text": "If passed, certificate issued",
+        "node_type": "outcome"
+      },
+      {
+        "node_id": "failed",
+        "text": "If failed, owner responsible for repairs*",
+        "node_type": "outcome",
+        "footnote_references": ["footnote_1"]
+      },
+      {
+        "node_id": "reinspection",
+        "text": "Re-inspection (no extra cost for 1st reinspection)",
+        "node_type": "process"
+      }
+    ],
+    "connections": [
+      {
+        "from": "owner_registration",
+        "to": "inspection_assignment"
+      },
+      {
+        "from": "inspection_assignment",
+        "to": "home_inspection"
+      },
+      {
+        "from": "home_inspection",
+        "to": "passed",
+        "condition": "If passed"
+      },
+      {
+        "from": "home_inspection",
+        "to": "failed",
+        "condition": "If failed"
+      },
+      {
+        "from": "failed",
+        "to": "reinspection"
+      }
+    ]
+  },
+  "footnotes": [
+    {
+      "footnote_id": "footnote_1",
+      "marker": "*",
+      "text": "If failed due to damaged paint or bare soil, owner should consult with a lead-safe certified professional",
+      "applies_to": ["flowchart.nodes.failed"]
     }
+  ]
+}
   ]
 }
