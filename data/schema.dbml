@@ -1,0 +1,26 @@
+
+// Use DBML to define your database structure
+// Initial schema: retrieval units
+
+Table retrieval_units {
+  unit_id varchar [primary key, note: 'Stable, unique identifier for this retrieval unit']
+
+  document_id varchar [not null, note: 'Identifier of the original source document']
+
+  parent_unit_id varchar [note: 'Optional reference to another retrieval unit, such as a parent statutory section']
+
+  unit_type varchar [not null, note: 'Examples: statutory_section, definition, opinion_section, qa_pair, explanatory_subsection, slide']
+
+  title varchar [note: 'Optional title, heading, question, or defined term']
+
+  full_text text [not null, note: 'Normalized text used for semantic search and embedding generation']
+
+  structured_content jsonb [note: 'Structured representation of the unit, preserving source-specific content']
+
+  metadata jsonb [note: 'Additional source-specific information such as statutory citations, section numbers, footnote references, and slide numbers']
+
+  created_at timestamp
+  updated_at timestamp
+}
+
+Ref: retrieval_units.parent_unit_id > retrieval_units.unit_id
