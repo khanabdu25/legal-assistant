@@ -1,0 +1,160 @@
+
+{
+  "parent_unit": {
+    "unit_id": "detroit_2024_ordinance_8_15_81",
+    "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+    "parent_unit_id": null,
+    "unit_type": "statutory_section",
+    "title": "Registration of rental property",
+    "full_text": "(a) The owners or agents of rental property shall register all such dwellings with the Buildings, Safety Engineering, and Environmental Department and obtain a Certificate of Registration of Rental Property as provided for in this section. Application for the Certificate of Registration of Rental Property shall be made on forms provided by the Department and shall contain:\n\n(1) The location and use of the rental property;\n\n(2) The name, address, email address, telephone number, and, if an individual, the driver's license number or state identification number of the rental property applicant, and, if a corporation or other legal entity, the name, address, email address, and telephone number of the property manager and the resident agent;\n\n(3) Information listed in Subsection (a)(2) of this section for each partner, corporate officer, or any other person having any interest in the rental property;\n\n(4) The names, addresses, email addresses, and telephone numbers of any persons or firms, other than the owner or owners, who are responsible for property maintenance, or a person who is a caretaker of the rental property pursuant to Section 8-15-84 of this Code, and a 24-hour emergency number to contact a responsible person or caretaker of the rental property; and\n\n(5) Whether the rental property is listed on the lead safe housing registry established under Section 5474b of the Michigan Lead Abatement Act, Part 54A of the Michigan Health Code, being MCL 333.5474b.\n\n(b) It shall be unlawful for any person to provide false information on an application for a Certificate of Registration of Rental Property required by this section.\n\n(c) Certificates of Registration of Rental Property, once received, shall be valid until there is a change in ownership, or a change of use, of the rental property.\n\n(d) The Buildings, Safety Engineering, and Environmental Department shall maintain a registry of owners and rental property governed by this section. The Department may combine this registry with the registry required by Section 8-15-82(g) of this Code.\n\n(e) The owner of a property registered pursuant to this section, or its agent are required to notify the Department of any changes to the owner's or agent's address, email address, or telephone number within 30 days of such change. The Department shall update the registry or registries described in Subsection (d) of this section with such changes.\n\n(f) Where rental property required to be registered under this section is sold or otherwise transferred to a new owner, the Certificate of Registration of Rental Property issued the previous owner shall expire on the date of the sale or transfer and, within 90 days after the sale or transfer of the rental property, the new owner shall apply for a Certificate of Registration in the manner prescribed in this section.\n\n(g) The Department may adopt and charge owners a reasonable annual fee to maintain the registry and to cover the costs of administering the provisions of this division.",
+    "structured_content": {
+      "section_number": "8-15-81",
+      "section_title": "Registration of rental property",
+      "statutory_section": "Sec. 8-15-81",
+      "history": null
+    },
+    "metadata": {
+      "source_type": "primary_law",
+      "authority_level": "binding",
+      "source_format": "ordinance",
+      "unit_role": "parent",
+      "derived_child_unit_ids": [
+        "detroit_2024_8_15_81_subsection_a",
+        "detroit_2024_8_15_81_subsection_b",
+        "detroit_2024_8_15_81_subsection_c",
+        "detroit_2024_8_15_81_subsection_d",
+        "detroit_2024_8_15_81_subsection_e",
+        "detroit_2024_8_15_81_subsection_f",
+        "detroit_2024_8_15_81_subsection_g"
+      ]
+    }
+  },
+  "child_units": [
+    {
+      "unit_id": "detroit_2024_8_15_81_subsection_a",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_81",
+      "unit_type": "statutory_subsection",
+      "title": "Registration application requirements",
+      "full_text": "(a) The owners or agents of rental property shall register all such dwellings with the Buildings, Safety Engineering, and Environmental Department and obtain a Certificate of Registration of Rental Property as provided for in this section. Application for the Certificate of Registration of Rental Property shall be made on forms provided by the Department and shall contain:\n\n(1) The location and use of the rental property;\n\n(2) The name, address, email address, telephone number, and, if an individual, the driver's license number or state identification number of the rental property applicant, and, if a corporation or other legal entity, the name, address, email address, and telephone number of the property manager and the resident agent;\n\n(3) Information listed in Subsection (a)(2) of this section for each partner, corporate officer, or any other person having any interest in the rental property;\n\n(4) The names, addresses, email addresses, and telephone numbers of any persons or firms, other than the owner or owners, who are responsible for property maintenance, or a person who is a caretaker of the rental property pursuant to Section 8-15-84 of this Code, and a 24-hour emergency number to contact a responsible person or caretaker of the rental property; and\n\n(5) Whether the rental property is listed on the lead safe housing registry established under Section 5474b of the Michigan Lead Abatement Act, Part 54A of the Michigan Health Code, being MCL 333.5474b.",
+      "structured_content": {
+        "subsection": "a",
+        "section_number": "8-15-81",
+        "subject": "Registration application requirements"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_subsection"
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_81_subsection_b",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_81",
+      "unit_type": "statutory_subsection",
+      "title": "False information on registration applications",
+      "full_text": "(b) It shall be unlawful for any person to provide false information on an application for a Certificate of Registration of Rental Property required by this section.",
+      "structured_content": {
+        "subsection": "b",
+        "section_number": "8-15-81",
+        "subject": "False information on registration applications"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_subsection"
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_81_subsection_c",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_81",
+      "unit_type": "statutory_subsection",
+      "title": "Validity of registration certificates",
+      "full_text": "(c) Certificates of Registration of Rental Property, once received, shall be valid until there is a change in ownership, or a change of use, of the rental property.",
+      "structured_content": {
+        "subsection": "c",
+        "section_number": "8-15-81",
+        "subject": "Validity of registration certificates"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_subsection"
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_81_subsection_d",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_81",
+      "unit_type": "statutory_subsection",
+      "title": "Department registry",
+      "full_text": "(d) The Buildings, Safety Engineering, and Environmental Department shall maintain a registry of owners and rental property governed by this section. The Department may combine this registry with the registry required by Section 8-15-82(g) of this Code.",
+      "structured_content": {
+        "subsection": "d",
+        "section_number": "8-15-81",
+        "subject": "Department registry"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_subsection"
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_81_subsection_e",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_81",
+      "unit_type": "statutory_subsection",
+      "title": "Notification of contact-information changes",
+      "full_text": "(e) The owner of a property registered pursuant to this section, or its agent are required to notify the Department of any changes to the owner's or agent's address, email address, or telephone number within 30 days of such change. The Department shall update the registry or registries described in Subsection (d) of this section with such changes.",
+      "structured_content": {
+        "subsection": "e",
+        "section_number": "8-15-81",
+        "subject": "Notification of contact-information changes"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_subsection"
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_81_subsection_f",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_81",
+      "unit_type": "statutory_subsection",
+      "title": "Registration following sale or transfer",
+      "full_text": "(f) Where rental property required to be registered under this section is sold or otherwise transferred to a new owner, the Certificate of Registration of Rental Property issued the previous owner shall expire on the date of the sale or transfer and, within 90 days after the sale or transfer of the rental property, the new owner shall apply for a Certificate of Registration in the manner prescribed in this section.",
+      "structured_content": {
+        "subsection": "f",
+        "section_number": "8-15-81",
+        "subject": "Registration following sale or transfer"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_subsection"
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_81_subsection_g",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_81",
+      "unit_type": "statutory_subsection",
+      "title": "Annual registry fee",
+      "full_text": "(g) The Department may adopt and charge owners a reasonable annual fee to maintain the registry and to cover the costs of administering the provisions of this division.",
+      "structured_content": {
+        "subsection": "g",
+        "section_number": "8-15-81",
+        "subject": "Annual registry fee"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_subsection"
+      }
+    }
+  ]
+}
