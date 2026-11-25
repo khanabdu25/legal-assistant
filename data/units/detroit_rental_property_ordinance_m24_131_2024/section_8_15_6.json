@@ -1,0 +1,389 @@
+{
+  "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+  "section_number": "8-15-6",
+  "units": [
+    {
+      "unit_id": "detroit_2024_ordinance_8_15_6",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": null,
+      "unit_type": "definitions_section",
+      "title": "Definitions: G—K.",
+      "full_text": "For purposes of this article, the following words and phrases shall have the meanings respectively ascribed to them by this section:\n\nGarbage means, as defined by Section 11503 of the Michigan Natural Resources and Environmental Act, being MCL 324.11503, rejected food wastes including waste accumulation of animal, fruit, or vegetable matter used or intended for food or that attends the preparation, use, cooking, dealing in, or storing of meat, fish, fowl, fruit, or vegetable matter.\n\nGeotechnical report means a report used to define and evaluate the existing geotechnical condition of the property including the stability and suitability for its current or proposed use, conducted by a licensed professional engineer or licensed professional geologist with relevant experience and expertise.\n\nGood repair means to be properly installed, safe, stable, and maintained sufficiently free of defects or deterioration so as to be functional for current use.\n\nGraffiti means any drawing, lettering, illustration, inscription, design, or other marking that is etched, painted, sprayed, drawn, or otherwise caused to be displayed on the exterior of any building, premises or structure, but does not mean an art mural or sign as defined in Section 4-1-1 of this Code, building identification under Section 8-15-202 of this Code, any sign permitted by the Chapter 50 of this Code, Zoning, or any decoration that is part of the architectural design of the building entrance.\n\nGuard means a building component, or a system of building components, located at or near the open sides of elevated walking surfaces that minimize the possibility of a fall from the walking surface to a lower level.\n\nHabitable space means space in a structure for living, eating, cooking or sleeping, but does not mean bathrooms, closets, halls, storage or utility spaces, toilet rooms, or similar areas.\n\nHazard reduction means measures designed to reduce or eliminate human exposure to lead-based paint hazards through methods, including interim controls or abatement or a combination of the two, or work to remedy any deteriorated paint violation, dust-lead violation, or bare soil violation.\n\nHazardous condition means a condition which may result in the death, injury, or illness of a person or in severe damage to a building, premises, or structure.\n\nHazardous substance means one or more of the following:\n\n(1) As likewise defined in the Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA), being 42 U.S.C. § 9601 et seq.; and\n\n(2) As likewise defined in Section 2-6-1 of this Code, any chemical or other material defined as a hazardous substance under Part 201 of the Michigan Natural Resources and Environmental Protection Act, being MCL 324.20101 et seq., and any rules promulgated thereunder.\n\nHigh-risk geographic areas means geographic areas such as ZIP codes, Census Tracts, or other geographic units of measurement identified by the Detroit Health Department as exhibiting disproportionately high rates of elevated blood lead levels among children or disproportionate risk of lead poisoning to children.\n\nHomeless means an individual who, or family which, lacks a fixed, regular and adequate nighttime residence, or whose primary nighttime residence is:\n\n(1) A supervised publicly or privately operated shelter designed to provide temporary living accommodations; or\n\n(2) A public or private place not designed for, or ordinarily used as, a regular sleeping accommodation for human beings.\n\nHotel means any building containing guest rooms, which are intended or designed to be used, rented, or hired out by transient persons or by a transient family.\n\nHousehold units means the individual residences of the residents of the City.\n\nHousing provider means any entity that owns, master leases, manages, or rents rental housing in the City, including any agent such as a property management company.\n\nImminent danger means a condition which could cause serious or life-threatening injury, or death, to persons at any time due to the maintenance, or lack of maintenance, of a building, premises, or structure.\n\nImpact surface means an interior or exterior surface that is subject to damage by repeated sudden force, such as certain parts of door frames.\n\nImpacted resident means any resident in the affected area whose water supply may be compromised.\n\nInfestation means the presence of insects, rats, vermin or other pests within, or contiguous to, a building, premises, or structure.\n\nInterim controls means a set of measures designed to temporarily reduce human exposure or likely exposure to lead-based paint hazards, including, but not limited to, specialized cleaning, repairs, maintenance, painting, temporary containment, ongoing monitoring of lead-based paint hazards or potential hazards, and the establishment and operation of management and resident education programs.",
+      "structured_content": {
+        "section_number": "8-15-6",
+        "section_title": "Definitions: G—K.",
+        "statutory_section": "Detroit City Code § 8-15-6",
+        "history": null
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "parent",
+        "derived_child_unit_ids": [
+          "detroit_2024_8_15_6_def_garbage",
+          "detroit_2024_8_15_6_def_geotechnical_report",
+          "detroit_2024_8_15_6_def_good_repair",
+          "detroit_2024_8_15_6_def_graffiti",
+          "detroit_2024_8_15_6_def_guard",
+          "detroit_2024_8_15_6_def_habitable_space",
+          "detroit_2024_8_15_6_def_hazard_reduction",
+          "detroit_2024_8_15_6_def_hazardous_condition",
+          "detroit_2024_8_15_6_def_hazardous_substance",
+          "detroit_2024_8_15_6_def_high_risk_geographic_areas",
+          "detroit_2024_8_15_6_def_homeless",
+          "detroit_2024_8_15_6_def_hotel",
+          "detroit_2024_8_15_6_def_household_units",
+          "detroit_2024_8_15_6_def_housing_provider",
+          "detroit_2024_8_15_6_def_imminent_danger",
+          "detroit_2024_8_15_6_def_impact_surface",
+          "detroit_2024_8_15_6_def_impacted_resident",
+          "detroit_2024_8_15_6_def_infestation",
+          "detroit_2024_8_15_6_def_interim_controls"
+        ]
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_6_def_garbage",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_6",
+      "unit_type": "definition",
+      "title": "Garbage",
+      "full_text": "Garbage means, as defined by Section 11503 of the Michigan Natural Resources and Environmental Act, being MCL 324.11503, rejected food wastes including waste accumulation of animal, fruit, or vegetable matter used or intended for food or that attends the preparation, use, cooking, dealing in, or storing of meat, fish, fowl, fruit, or vegetable matter.",
+      "structured_content": {
+        "term": "Garbage"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 1
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_6_def_geotechnical_report",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_6",
+      "unit_type": "definition",
+      "title": "Geotechnical report",
+      "full_text": "Geotechnical report means a report used to define and evaluate the existing geotechnical condition of the property including the stability and suitability for its current or proposed use, conducted by a licensed professional engineer or licensed professional geologist with relevant experience and expertise.",
+      "structured_content": {
+        "term": "Geotechnical report"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 2
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_6_def_good_repair",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_6",
+      "unit_type": "definition",
+      "title": "Good repair",
+      "full_text": "Good repair means to be properly installed, safe, stable, and maintained sufficiently free of defects or deterioration so as to be functional for current use.",
+      "structured_content": {
+        "term": "Good repair"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 3
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_6_def_graffiti",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_6",
+      "unit_type": "definition",
+      "title": "Graffiti",
+      "full_text": "Graffiti means any drawing, lettering, illustration, inscription, design, or other marking that is etched, painted, sprayed, drawn, or otherwise caused to be displayed on the exterior of any building, premises or structure, but does not mean an art mural or sign as defined in Section 4-1-1 of this Code, building identification under Section 8-15-202 of this Code, any sign permitted by the Chapter 50 of this Code, Zoning, or any decoration that is part of the architectural design of the building entrance.",
+      "structured_content": {
+        "term": "Graffiti"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 4
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_6_def_guard",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_6",
+      "unit_type": "definition",
+      "title": "Guard",
+      "full_text": "Guard means a building component, or a system of building components, located at or near the open sides of elevated walking surfaces that minimize the possibility of a fall from the walking surface to a lower level.",
+      "structured_content": {
+        "term": "Guard"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 5
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_6_def_habitable_space",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_6",
+      "unit_type": "definition",
+      "title": "Habitable space",
+      "full_text": "Habitable space means space in a structure for living, eating, cooking or sleeping, but does not mean bathrooms, closets, halls, storage or utility spaces, toilet rooms, or similar areas.",
+      "structured_content": {
+        "term": "Habitable space"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 6
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_6_def_hazard_reduction",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_6",
+      "unit_type": "definition",
+      "title": "Hazard reduction",
+      "full_text": "Hazard reduction means measures designed to reduce or eliminate human exposure to lead-based paint hazards through methods, including interim controls or abatement or a combination of the two, or work to remedy any deteriorated paint violation, dust-lead violation, or bare soil violation.",
+      "structured_content": {
+        "term": "Hazard reduction"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 7
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_6_def_hazardous_condition",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_6",
+      "unit_type": "definition",
+      "title": "Hazardous condition",
+      "full_text": "Hazardous condition means a condition which may result in the death, injury, or illness of a person or in severe damage to a building, premises, or structure.",
+      "structured_content": {
+        "term": "Hazardous condition"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 8
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_6_def_hazardous_substance",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_6",
+      "unit_type": "definition",
+      "title": "Hazardous substance",
+      "full_text": "Hazardous substance means one or more of the following:\n\n(1) As likewise defined in the Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA), being 42 U.S.C. § 9601 et seq.; and\n\n(2) As likewise defined in Section 2-6-1 of this Code, any chemical or other material defined as a hazardous substance under Part 201 of the Michigan Natural Resources and Environmental Protection Act, being MCL 324.20101 et seq., and any rules promulgated thereunder.",
+      "structured_content": {
+        "term": "Hazardous substance"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 9
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_6_def_high_risk_geographic_areas",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_6",
+      "unit_type": "definition",
+      "title": "High-risk geographic areas",
+      "full_text": "High-risk geographic areas means geographic areas such as ZIP codes, Census Tracts, or other geographic units of measurement identified by the Detroit Health Department as exhibiting disproportionately high rates of elevated blood lead levels among children or disproportionate risk of lead poisoning to children.",
+      "structured_content": {
+        "term": "High-risk geographic areas"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 10
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_6_def_homeless",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_6",
+      "unit_type": "definition",
+      "title": "Homeless",
+      "full_text": "Homeless means an individual who, or family which, lacks a fixed, regular and adequate nighttime residence, or whose primary nighttime residence is:\n\n(1) A supervised publicly or privately operated shelter designed to provide temporary living accommodations; or\n\n(2) A public or private place not designed for, or ordinarily used as, a regular sleeping accommodation for human beings.",
+      "structured_content": {
+        "term": "Homeless"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 11
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_6_def_hotel",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_6",
+      "unit_type": "definition",
+      "title": "Hotel",
+      "full_text": "Hotel means any building containing guest rooms, which are intended or designed to be used, rented, or hired out by transient persons or by a transient family.",
+      "structured_content": {
+        "term": "Hotel"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 12
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_6_def_household_units",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_6",
+      "unit_type": "definition",
+      "title": "Household units",
+      "full_text": "Household units means the individual residences of the residents of the City.",
+      "structured_content": {
+        "term": "Household units"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 13
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_6_def_housing_provider",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_6",
+      "unit_type": "definition",
+      "title": "Housing provider",
+      "full_text": "Housing provider means any entity that owns, master leases, manages, or rents rental housing in the City, including any agent such as a property management company.",
+      "structured_content": {
+        "term": "Housing provider"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 14
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_6_def_imminent_danger",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_6",
+      "unit_type": "definition",
+      "title": "Imminent danger",
+      "full_text": "Imminent danger means a condition which could cause serious or life-threatening injury, or death, to persons at any time due to the maintenance, or lack of maintenance, of a building, premises, or structure.",
+      "structured_content": {
+        "term": "Imminent danger"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 15
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_6_def_impact_surface",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_6",
+      "unit_type": "definition",
+      "title": "Impact surface",
+      "full_text": "Impact surface means an interior or exterior surface that is subject to damage by repeated sudden force, such as certain parts of door frames.",
+      "structured_content": {
+        "term": "Impact surface"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 16
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_6_def_impacted_resident",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_6",
+      "unit_type": "definition",
+      "title": "Impacted resident",
+      "full_text": "Impacted resident means any resident in the affected area whose water supply may be compromised.",
+      "structured_content": {
+        "term": "Impacted resident"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 17
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_6_def_infestation",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_6",
+      "unit_type": "definition",
+      "title": "Infestation",
+      "full_text": "Infestation means the presence of insects, rats, vermin or other pests within, or contiguous to, a building, premises, or structure.",
+      "structured_content": {
+        "term": "Infestation"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 18
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_6_def_interim_controls",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_6",
+      "unit_type": "definition",
+      "title": "Interim controls",
+      "full_text": "Interim controls means a set of measures designed to temporarily reduce human exposure or likely exposure to lead-based paint hazards, including, but not limited to, specialized cleaning, repairs, maintenance, painting, temporary containment, ongoing monitoring of lead-based paint hazards or potential hazards, and the establishment and operation of management and resident education programs.",
+      "structured_content": {
+        "term": "Interim controls"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 19
+      }
+    }
+  ]
+}
