@@ -1,0 +1,446 @@
+{
+  "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+  "section_number": "8-15-5",
+  "units": [
+    {
+      "unit_id": "detroit_2024_ordinance_8_15_5",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": null,
+      "unit_type": "definitions_section",
+      "title": "Definitions: D—F.",
+      "full_text": "For purposes of this article, the following words and phrases shall have the meanings respectively ascribed to them by this section:\n\nDebris means the remains of an item broken down or destroyed.\n\nDesignated transitional housing means housing which is defined by the United States Department of Housing and Urban Development, in 24 CFR 577.5 as \"transitional housing\" or in 24 CFR 583.5 as \"supportive housing.\"\n\nDeteriorated paint means paint or other surface coating that is cracking, flaking, chipping, peeling, or otherwise damaged or separating from the substrate of a building component, unless the deteriorated paint surfaces total no more than:\n\n(1) Twenty square feet on exterior surfaces;\n\n(2) Two square feet in any one interior room or space; or\n\n(3) Ten percent of the total surface area on an interior or exterior type of component with a small surface area.\n\nDeteriorated paint violation means the presence of deteriorated paint, including a surface painted with lead-based paint that a young child can mouth or chew and includes evidence of teeth marks, in any residential rental property on which the original construction was completed prior to January 1, 1978.\n\nDomestic solid waste means the solid waste resulting from the usual routine of housekeeping, but does not include commercial solid waste.\n\nDust-lead violation means surface dust that contains a concentration of lead at or in excess of the following levels in any residential rental property on which the original construction was completed prior to January 1, 1978:\n\n(1) For floors: 10 μg/ft^2\n\n(2) For interior windowsills: 100 μg/ft^2.\n\nDust wipe samples means samples collected and tested by a laboratory recognized by the U.S. Environmental Protection Act pursuant to section 405(b) of the Toxic Substances Control Act to identify a dust-lead violation. Dust wipe samples shall be collected from each of no more than four rooms. The selection of rooms to be tested, where applicable, shall include at least one bedroom and the living room. At least one wipe sample shall be taken from a windowsill and one from a floor in each room. Where there are less than four rooms, all rooms shall be sampled.\n\nDwelling or dwelling unit means a single unit providing complete, independent living facilities occupied, or intended to be occupied, in whole or in part, by one or more persons, including permanent space and provisions for living, cooking, eating, sanitation, and sleeping.\n\nEmergency means any condition in a building, premises, or structure that reasonably constitutes a threat to the public interest, safety, or welfare.\n\nEmergency shelter means a facility which provides congregate-style temporary lodging either with or without meals and ancillary services on the premises to primarily the homeless for more than four weeks in any calendar year but does not provide such lodging to any individual:\n\n(1) Who is required because of age, mental disability or other reason to reside either in a public or in a private institution; or\n\n(2) Who is imprisoned or otherwise detained pursuant to either federal or state law, and excludes an adult foster care facility, designated transitional housing, home for the aged, a nursing home, a temporary emergency shelter, and a warming center.\n\nEncapsulant means an ASTM compliant coating that forms a barrier between lead-based paint and the environment using a liquid-applied coating, with or without reinforcement materials, or an adhesively bonded covering material.\n\nEncapsulation means the application of an encapsulant.\n\nEnclosure means the use of rigid, durable construction materials that are mechanically fastened to the substrate in order to act as a barrier between lead based paint and the environment.\n\nEnvironmental contamination means the release of a contaminant, or the potential release of a discarded contaminant, in a quantity which is, or may become, injurious to the environment or to the public health, safety, or welfare.\n\nEnvironmental investigation means any health, safety or environmental site assessment, investigation, study, review, audit, or compliance review conducted at any time concerning any Real Property or the business operations or activities of any Company or Affiliate of any Company, including, without limitation:\n\n(1) Air, soil, groundwater or surface water sampling and monitoring;\n\n(2) Repair, cleanup, remediation, or detoxification;\n\n(3) Preparation and implementation of any closure, remedial, spill, emergency or other plans; and\n\n(4) Any health, safety or environmental compliance audit or review.\n\nEPA RRP Certification means the Lead Safe Certification for Renovation, Repair, and Painting certification as provided by the United States Environmental Protection Agency.\n\nEvaluation means a risk assessment, a lead-hazard screen, a lead-based paint inspection, paint testing, or a combination of these to determine the presence of lead-based paint hazards or lead-based paint.\n\nExterior property means the open space on the premises and on adjoining premises or property under the control of owners or operators of such premises and property.\n\nExtermination means the control and elimination of insects, rats or other pests by eliminating their harborage places, or by removing or making inaccessible materials that serve as their food, or by fumigating, poisoning, spraying, trapping or any other approved pest elimination method, or by a combination thereof.\n\nFacility means any area, place, parcel or parcels of property, or portion of a parcel of property where a contaminant in excess of the concentrations that satisfy the cleanup criteria for unrestricted residential use has been released, deposited, stored, disposed of, or otherwise has come to be located.\n\nFinal decision and order means a final decision by an administrative hearings officer that a blight violation does or does not exist and constitutes a judgment for purposes of judicial review which may be enforced in the same manner as a judgment entered by a court of competent jurisdiction.\n\nFriction surface means an interior or exterior surface that is subject to abrasion or friction, including, but not limited to, certain window, floor, and stair surfaces.",
+      "structured_content": {
+        "section_number": "8-15-5",
+        "section_title": "Definitions: D—F.",
+        "statutory_section": "Detroit City Code § 8-15-5",
+        "history": null
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "parent",
+        "derived_child_unit_ids": [
+          "detroit_2024_8_15_5_def_debris",
+          "detroit_2024_8_15_5_def_designated_transitional_housing",
+          "detroit_2024_8_15_5_def_deteriorated_paint",
+          "detroit_2024_8_15_5_def_deteriorated_paint_violation",
+          "detroit_2024_8_15_5_def_domestic_solid_waste",
+          "detroit_2024_8_15_5_def_dust_lead_violation",
+          "detroit_2024_8_15_5_def_dust_wipe_samples",
+          "detroit_2024_8_15_5_def_dwelling_or_dwelling_unit",
+          "detroit_2024_8_15_5_def_emergency",
+          "detroit_2024_8_15_5_def_emergency_shelter",
+          "detroit_2024_8_15_5_def_encapsulant",
+          "detroit_2024_8_15_5_def_encapsulation",
+          "detroit_2024_8_15_5_def_enclosure",
+          "detroit_2024_8_15_5_def_environmental_contamination",
+          "detroit_2024_8_15_5_def_environmental_investigation",
+          "detroit_2024_8_15_5_def_epa_rrp_certification",
+          "detroit_2024_8_15_5_def_evaluation",
+          "detroit_2024_8_15_5_def_exterior_property",
+          "detroit_2024_8_15_5_def_extermination",
+          "detroit_2024_8_15_5_def_facility",
+          "detroit_2024_8_15_5_def_final_decision_and_order",
+          "detroit_2024_8_15_5_def_friction_surface"
+        ]
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_5_def_debris",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_5",
+      "unit_type": "definition",
+      "title": "Debris",
+      "full_text": "Debris means the remains of an item broken down or destroyed.",
+      "structured_content": {
+        "term": "Debris"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 1
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_5_def_designated_transitional_housing",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_5",
+      "unit_type": "definition",
+      "title": "Designated transitional housing",
+      "full_text": "Designated transitional housing means housing which is defined by the United States Department of Housing and Urban Development, in 24 CFR 577.5 as \"transitional housing\" or in 24 CFR 583.5 as \"supportive housing.\"",
+      "structured_content": {
+        "term": "Designated transitional housing"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 2
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_5_def_deteriorated_paint",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_5",
+      "unit_type": "definition",
+      "title": "Deteriorated paint",
+      "full_text": "Deteriorated paint means paint or other surface coating that is cracking, flaking, chipping, peeling, or otherwise damaged or separating from the substrate of a building component, unless the deteriorated paint surfaces total no more than:\n\n(1) Twenty square feet on exterior surfaces;\n\n(2) Two square feet in any one interior room or space; or\n\n(3) Ten percent of the total surface area on an interior or exterior type of component with a small surface area.",
+      "structured_content": {
+        "term": "Deteriorated paint"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 3
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_5_def_deteriorated_paint_violation",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_5",
+      "unit_type": "definition",
+      "title": "Deteriorated paint violation",
+      "full_text": "Deteriorated paint violation means the presence of deteriorated paint, including a surface painted with lead-based paint that a young child can mouth or chew and includes evidence of teeth marks, in any residential rental property on which the original construction was completed prior to January 1, 1978.",
+      "structured_content": {
+        "term": "Deteriorated paint violation"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 4
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_5_def_domestic_solid_waste",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_5",
+      "unit_type": "definition",
+      "title": "Domestic solid waste",
+      "full_text": "Domestic solid waste means the solid waste resulting from the usual routine of housekeeping, but does not include commercial solid waste.",
+      "structured_content": {
+        "term": "Domestic solid waste"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 5
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_5_def_dust_lead_violation",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_5",
+      "unit_type": "definition",
+      "title": "Dust-lead violation",
+      "full_text": "Dust-lead violation means surface dust that contains a concentration of lead at or in excess of the following levels in any residential rental property on which the original construction was completed prior to January 1, 1978:\n\n(1) For floors: 10 μg/ft^2\n\n(2) For interior windowsills: 100 μg/ft^2.",
+      "structured_content": {
+        "term": "Dust-lead violation"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 6
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_5_def_dust_wipe_samples",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_5",
+      "unit_type": "definition",
+      "title": "Dust wipe samples",
+      "full_text": "Dust wipe samples means samples collected and tested by a laboratory recognized by the U.S. Environmental Protection Act pursuant to section 405(b) of the Toxic Substances Control Act to identify a dust-lead violation. Dust wipe samples shall be collected from each of no more than four rooms. The selection of rooms to be tested, where applicable, shall include at least one bedroom and the living room. At least one wipe sample shall be taken from a windowsill and one from a floor in each room. Where there are less than four rooms, all rooms shall be sampled.",
+      "structured_content": {
+        "term": "Dust wipe samples"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 7
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_5_def_dwelling_or_dwelling_unit",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_5",
+      "unit_type": "definition",
+      "title": "Dwelling or dwelling unit",
+      "full_text": "Dwelling or dwelling unit means a single unit providing complete, independent living facilities occupied, or intended to be occupied, in whole or in part, by one or more persons, including permanent space and provisions for living, cooking, eating, sanitation, and sleeping.",
+      "structured_content": {
+        "term": "Dwelling or dwelling unit"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 8
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_5_def_emergency",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_5",
+      "unit_type": "definition",
+      "title": "Emergency",
+      "full_text": "Emergency means any condition in a building, premises, or structure that reasonably constitutes a threat to the public interest, safety, or welfare.",
+      "structured_content": {
+        "term": "Emergency"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 9
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_5_def_emergency_shelter",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_5",
+      "unit_type": "definition",
+      "title": "Emergency shelter",
+      "full_text": "Emergency shelter means a facility which provides congregate-style temporary lodging either with or without meals and ancillary services on the premises to primarily the homeless for more than four weeks in any calendar year but does not provide such lodging to any individual:\n\n(1) Who is required because of age, mental disability or other reason to reside either in a public or in a private institution; or\n\n(2) Who is imprisoned or otherwise detained pursuant to either federal or state law, and excludes an adult foster care facility, designated transitional housing, home for the aged, a nursing home, a temporary emergency shelter, and a warming center.",
+      "structured_content": {
+        "term": "Emergency shelter"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 10
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_5_def_encapsulant",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_5",
+      "unit_type": "definition",
+      "title": "Encapsulant",
+      "full_text": "Encapsulant means an ASTM compliant coating that forms a barrier between lead-based paint and the environment using a liquid-applied coating, with or without reinforcement materials, or an adhesively bonded covering material.",
+      "structured_content": {
+        "term": "Encapsulant"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 11
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_5_def_encapsulation",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_5",
+      "unit_type": "definition",
+      "title": "Encapsulation",
+      "full_text": "Encapsulation means the application of an encapsulant.",
+      "structured_content": {
+        "term": "Encapsulation"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 12
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_5_def_enclosure",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_5",
+      "unit_type": "definition",
+      "title": "Enclosure",
+      "full_text": "Enclosure means the use of rigid, durable construction materials that are mechanically fastened to the substrate in order to act as a barrier between lead based paint and the environment.",
+      "structured_content": {
+        "term": "Enclosure"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 13
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_5_def_environmental_contamination",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_5",
+      "unit_type": "definition",
+      "title": "Environmental contamination",
+      "full_text": "Environmental contamination means the release of a contaminant, or the potential release of a discarded contaminant, in a quantity which is, or may become, injurious to the environment or to the public health, safety, or welfare.",
+      "structured_content": {
+        "term": "Environmental contamination"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 14
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_5_def_environmental_investigation",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_5",
+      "unit_type": "definition",
+      "title": "Environmental investigation",
+      "full_text": "Environmental investigation means any health, safety or environmental site assessment, investigation, study, review, audit, or compliance review conducted at any time concerning any Real Property or the business operations or activities of any Company or Affiliate of any Company, including, without limitation:\n\n(1) Air, soil, groundwater or surface water sampling and monitoring;\n\n(2) Repair, cleanup, remediation, or detoxification;\n\n(3) Preparation and implementation of any closure, remedial, spill, emergency or other plans; and\n\n(4) Any health, safety or environmental compliance audit or review.",
+      "structured_content": {
+        "term": "Environmental investigation"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 15
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_5_def_epa_rrp_certification",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_5",
+      "unit_type": "definition",
+      "title": "EPA RRP Certification",
+      "full_text": "EPA RRP Certification means the Lead Safe Certification for Renovation, Repair, and Painting certification as provided by the United States Environmental Protection Agency.",
+      "structured_content": {
+        "term": "EPA RRP Certification"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 16
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_5_def_evaluation",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_5",
+      "unit_type": "definition",
+      "title": "Evaluation",
+      "full_text": "Evaluation means a risk assessment, a lead-hazard screen, a lead-based paint inspection, paint testing, or a combination of these to determine the presence of lead-based paint hazards or lead-based paint.",
+      "structured_content": {
+        "term": "Evaluation"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 17
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_5_def_exterior_property",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_5",
+      "unit_type": "definition",
+      "title": "Exterior property",
+      "full_text": "Exterior property means the open space on the premises and on adjoining premises or property under the control of owners or operators of such premises and property.",
+      "structured_content": {
+        "term": "Exterior property"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 18
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_5_def_extermination",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_5",
+      "unit_type": "definition",
+      "title": "Extermination",
+      "full_text": "Extermination means the control and elimination of insects, rats or other pests by eliminating their harborage places, or by removing or making inaccessible materials that serve as their food, or by fumigating, poisoning, spraying, trapping or any other approved pest elimination method, or by a combination thereof.",
+      "structured_content": {
+        "term": "Extermination"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 19
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_5_def_facility",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_5",
+      "unit_type": "definition",
+      "title": "Facility",
+      "full_text": "Facility means any area, place, parcel or parcels of property, or portion of a parcel of property where a contaminant in excess of the concentrations that satisfy the cleanup criteria for unrestricted residential use has been released, deposited, stored, disposed of, or otherwise has come to be located.",
+      "structured_content": {
+        "term": "Facility"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 20
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_5_def_final_decision_and_order",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_5",
+      "unit_type": "definition",
+      "title": "Final decision and order",
+      "full_text": "Final decision and order means a final decision by an administrative hearings officer that a blight violation does or does not exist and constitutes a judgment for purposes of judicial review which may be enforced in the same manner as a judgment entered by a court of competent jurisdiction.",
+      "structured_content": {
+        "term": "Final decision and order"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 21
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_5_def_friction_surface",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_5",
+      "unit_type": "definition",
+      "title": "Friction surface",
+      "full_text": "Friction surface means an interior or exterior surface that is subject to abrasion or friction, including, but not limited to, certain window, floor, and stair surfaces.",
+      "structured_content": {
+        "term": "Friction surface"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 22
+      }
+    }
+  ]
+}
