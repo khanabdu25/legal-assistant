@@ -1,0 +1,433 @@
+{
+  "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+  "section_number": "8-15-8",
+  "units": [
+    {
+      "unit_id": "detroit_2024_ordinance_8_15_8",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": null,
+      "unit_type": "definitions_section",
+      "title": "Definitions: P—R",
+      "full_text": "For purposes of this article, the following words and phrases shall have the meanings respectively ascribed to them by this section:\n\nPermanent means an expected design life of at least 20 years.\n\nPerson means an individual, partnership, firm, company, corporation, association, sole proprietorship, limited liability company, joint venture, estate, trust, or any other legal entity.\n\nPortable containers means receptacles which are not more than 30 gallons in capacity and are manually emptied.\n\nPost-remedy clearance report means a report from a certified clearance technician, for interim controls only, or a certified lead inspector or certified risk assessor that:\n\n(1) Identifies any deteriorated paint violation, dust-lead violation, or bare soil violation or lead-based paint hazards in the rental property; and\n\n(2) Certifies that the deteriorated paint violation(s), dust-lead violation(s), or bare soil violation(s) or lead-based paint hazards have been abated or reduced by interim controls pursuant to standards under the Michigan Lead Abatement Act, being MCL 333.5451 et seq.\n\nPremises means a lot, plot or parcel of land, including any buildings or structures thereon.\n\nProperty means real property, including attachments and fixtures.\n\nPublic Health Director means the Director and Health Officer of the Detroit Health Department.\n\nRat control means the distribution of rat poison or the setting of rat traps or fumigation or such other methods of rat eradication as may be approved by the Public Health Director.\n\nRat harborage means any condition under which rats may find shelter or protection.\n\nRatproof or ratproofing means a form of construction which will prevent the ingress or egress of rats to or from a given space or buildings, or will prevent rats from gaining access to food, water or harborage and consists of closing and keeping closed by the use of material impervious to rat gnawing of every opening in foundations, basements, cellars, exterior and interior walls, ground or first floors, roofs, sidewalk gratings, sidewalk openings and other places that may be reached and entered by rats by climbing, burrowing or other methods.\n\nReduction or reduce means measures designed to reduce or eliminate human exposure to lead-based paint hazards through methods, including, but not limited to, interim controls and abatement.\n\nRelease means any spilling, leaking, pumping, pouring, emitting, emptying, discharging, injecting, escaping, leaching, dumping, or disposing of a contaminant into the environment.\n\nRental property means a non-owner occupied dwelling unit or dwelling units that:\n\n(1) Is or are let or occupied by persons, including a family member of the owner, pursuant to an oral or written rental contract, or lease, or other oral or written agreement or understanding for occupation, with monetary compensation; or\n\n(2) Will be offered for occupancy under an oral or written rental contract or lease, or other oral or written agreement or understanding for occupation, with or without monetary compensation to any person; or\n\n(3) Is or are contained within a building with two or more dwelling units that are not occupied by the owner; or\n\n(4) Is advertised to the public or registered with the City as rental property.\n\nRepeat offense means a second, or any subsequent, blight violation determination regarding a blight violation notice that is made within one year for the same blight violation, except for a determination by an administrative hearings officer that a person is not responsible for a blight violation for the first or subsequent violation.\n\nResidential structure means the household units of the residents of the City.\n\nResponse activity means, as likewise defined in Section 20101(1) of NREPA, being MCL 324.20101(1) evaluation, interim response activity, remedial action demolition, providing an alternative water supply, or the taking of other actions necessary to protect the public health, safety or welfare, or the environment or the natural resources, and includes health assessments or health effect studies carried out under the supervision or with the approval of the Department of Community Health and enforcement actions related to any response activity.\n\nRetaliatory action means any action that materially alters the terms of the tenancy of the premises such as an increase in rent, termination of a lease or tenancy, or interference with the tenants' occupancy or use of the premises. Any action that materially alters the terms of the tenancy that takes place within 90 days of a tenant taking an action or attempting to take an action protected by Subsection 8-15-87(a)(2) of this Code is presumed to be a retaliatory action for the purposes of Section 8-15-11, unless the owner can establish by a preponderance of the evidence that the action was not taken to retaliate against the tenant.\n\nRisk assessment means both of the following:\n\n(1) An on-site investigation conducted by a certified risk assessor to determine the existence, nature, severity, and location of a lead-based paint hazard; and\n\n(2) The provision of a report by the person conducting the risk assessment explaining the results of the investigation and options for reducing the lead-based paint hazard.\n\nRooming house means a building arranged or occupied for lodging, with or without meals, for compensation and not occupied as a one- or two-family dwelling.\n\nRooming unit means any room, or group of rooms, that form a single habitable unit occupied, or intended to be occupied, for sleeping or living, but not for cooking purposes.\n\nRubbish means, as defined by Section 11505 of the Michigan Natural Resources and Environmental Act, being MCL 324.11505, non-putrescible solid waste, excluding ashes, consisting of both combustible and noncombustible waste, including paper, cardboard, metal containers, yard clippings, wood, glass, bedding, crockery, demolished building materials, or litter of any kind that may be a detriment to the public health and safety.",
+      "structured_content": {
+        "section_number": "8-15-8",
+        "section_title": "Definitions: P—R",
+        "statutory_section": "Sec. 8-15-8",
+        "history": null
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "parent",
+        "derived_child_unit_ids": [
+          "detroit_2024_8_15_8_def_permanent",
+          "detroit_2024_8_15_8_def_person",
+          "detroit_2024_8_15_8_def_portable_containers",
+          "detroit_2024_8_15_8_def_post_remedy_clearance_report",
+          "detroit_2024_8_15_8_def_premises",
+          "detroit_2024_8_15_8_def_property",
+          "detroit_2024_8_15_8_def_public_health_director",
+          "detroit_2024_8_15_8_def_rat_control",
+          "detroit_2024_8_15_8_def_rat_harborage",
+          "detroit_2024_8_15_8_def_ratproof_or_ratproofing",
+          "detroit_2024_8_15_8_def_reduction_or_reduce",
+          "detroit_2024_8_15_8_def_release",
+          "detroit_2024_8_15_8_def_rental_property",
+          "detroit_2024_8_15_8_def_repeat_offense",
+          "detroit_2024_8_15_8_def_residential_structure",
+          "detroit_2024_8_15_8_def_response_activity",
+          "detroit_2024_8_15_8_def_retaliatory_action",
+          "detroit_2024_8_15_8_def_risk_assessment",
+          "detroit_2024_8_15_8_def_rooming_house",
+          "detroit_2024_8_15_8_def_rooming_unit",
+          "detroit_2024_8_15_8_def_rubbish"
+        ]
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_8_def_permanent",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_8",
+      "unit_type": "definition",
+      "title": "Permanent",
+      "full_text": "Permanent means an expected design life of at least 20 years.",
+      "structured_content": {
+        "term": "Permanent"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 1
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_8_def_person",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_8",
+      "unit_type": "definition",
+      "title": "Person",
+      "full_text": "Person means an individual, partnership, firm, company, corporation, association, sole proprietorship, limited liability company, joint venture, estate, trust, or any other legal entity.",
+      "structured_content": {
+        "term": "Person"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 2
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_8_def_portable_containers",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_8",
+      "unit_type": "definition",
+      "title": "Portable containers",
+      "full_text": "Portable containers means receptacles which are not more than 30 gallons in capacity and are manually emptied.",
+      "structured_content": {
+        "term": "Portable containers"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 3
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_8_def_post_remedy_clearance_report",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_8",
+      "unit_type": "definition",
+      "title": "Post-remedy clearance report",
+      "full_text": "Post-remedy clearance report means a report from a certified clearance technician, for interim controls only, or a certified lead inspector or certified risk assessor that:\n\n(1) Identifies any deteriorated paint violation, dust-lead violation, or bare soil violation or lead-based paint hazards in the rental property; and\n\n(2) Certifies that the deteriorated paint violation(s), dust-lead violation(s), or bare soil violation(s) or lead-based paint hazards have been abated or reduced by interim controls pursuant to standards under the Michigan Lead Abatement Act, being MCL 333.5451 et seq.",
+      "structured_content": {
+        "term": "Post-remedy clearance report"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 4
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_8_def_premises",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_8",
+      "unit_type": "definition",
+      "title": "Premises",
+      "full_text": "Premises means a lot, plot or parcel of land, including any buildings or structures thereon.",
+      "structured_content": {
+        "term": "Premises"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 5
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_8_def_property",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_8",
+      "unit_type": "definition",
+      "title": "Property",
+      "full_text": "Property means real property, including attachments and fixtures.",
+      "structured_content": {
+        "term": "Property"
+      },
+      "metadata": {
+        "term": "Property"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 6
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_8_def_public_health_director",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_8",
+      "unit_type": "definition",
+      "title": "Public Health Director",
+      "full_text": "Public Health Director means the Director and Health Officer of the Detroit Health Department.",
+      "structured_content": {
+        "term": "Public Health Director"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 7
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_8_def_rat_control",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_8",
+      "unit_type": "definition",
+      "title": "Rat control",
+      "full_text": "Rat control means the distribution of rat poison or the setting of rat traps or fumigation or such other methods of rat eradication as may be approved by the Public Health Director.",
+      "structured_content": {
+        "term": "Rat control"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 8
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_8_def_rat_harborage",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_8",
+      "unit_type": "definition",
+      "title": "Rat harborage",
+      "full_text": "Rat harborage means any condition under which rats may find shelter or protection.",
+      "structured_content": {
+        "term": "Rat harborage"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 9
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_8_def_ratproof_or_ratproofing",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_8",
+      "unit_type": "definition",
+      "title": "Ratproof or ratproofing",
+      "full_text": "Ratproof or ratproofing means a form of construction which will prevent the ingress or egress of rats to or from a given space or buildings, or will prevent rats from gaining access to food, water or harborage and consists of closing and keeping closed by the use of material impervious to rat gnawing of every opening in foundations, basements, cellars, exterior and interior walls, ground or first floors, roofs, sidewalk gratings, sidewalk openings and other places that may be reached and entered by rats by climbing, burrowing or other methods.",
+      "structured_content": {
+        "term": "Ratproof or ratproofing"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 10
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_8_def_reduction_or_reduce",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_8",
+      "unit_type": "definition",
+      "title": "Reduction or reduce",
+      "full_text": "Reduction or reduce means measures designed to reduce or eliminate human exposure to lead-based paint hazards through methods, including, but not limited to, interim controls and abatement.",
+      "structured_content": {
+        "term": "Reduction or reduce"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 11
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_8_def_release",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_8",
+      "unit_type": "definition",
+      "title": "Release",
+      "full_text": "Release means any spilling, leaking, pumping, pouring, emitting, emptying, discharging, injecting, escaping, leaching, dumping, or disposing of a contaminant into the environment.",
+      "structured_content": {
+        "term": "Release"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 12
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_8_def_rental_property",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_8",
+      "unit_type": "definition",
+      "title": "Rental property",
+      "full_text": "Rental property means a non-owner occupied dwelling unit or dwelling units that:\n\n(1) Is or are let or occupied by persons, including a family member of the owner, pursuant to an oral or written rental contract, or lease, or other oral or written agreement or understanding for occupation, with monetary compensation; or\n\n(2) Will be offered for occupancy under an oral or written rental contract or lease, or other oral or written agreement or understanding for occupation, with or without monetary compensation to any person; or\n\n(3) Is or are contained within a building with two or more dwelling units that are not occupied by the owner; or\n\n(4) Is advertised to the public or registered with the City as rental property.",
+      "structured_content": {
+        "term": "Rental property"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 13
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_8_def_repeat_offense",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_8",
+      "unit_type": "definition",
+      "title": "Repeat offense",
+      "full_text": "Repeat offense means a second, or any subsequent, blight violation determination regarding a blight violation notice that is made within one year for the same blight violation, except for a determination by an administrative hearings officer that a person is not responsible for a blight violation for the first or subsequent violation.",
+      "structured_content": {
+        "term": "Repeat offense"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 14
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_8_def_residential_structure",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_8",
+      "unit_type": "definition",
+      "title": "Residential structure",
+      "full_text": "Residential structure means the household units of the residents of the City.",
+      "structured_content": {
+        "term": "Residential structure"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 15
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_8_def_response_activity",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_8",
+      "unit_type": "definition",
+      "title": "Response activity",
+      "full_text": "Response activity means, as likewise defined in Section 20101(1) of NREPA, being MCL 324.20101(1) evaluation, interim response activity, remedial action demolition, providing an alternative water supply, or the taking of other actions necessary to protect the public health, safety or welfare, or the environment or the natural resources, and includes health assessments or health effect studies carried out under the supervision or with the approval of the Department of Community Health and enforcement actions related to any response activity.",
+      "structured_content": {
+        "term": "Response activity"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 16
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_8_def_retaliatory_action",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_8",
+      "unit_type": "definition",
+      "title": "Retaliatory action",
+      "full_text": "Retaliatory action means any action that materially alters the terms of the tenancy of the premises such as an increase in rent, termination of a lease or tenancy, or interference with the tenants' occupancy or use of the premises. Any action that materially alters the terms of the tenancy that takes place within 90 days of a tenant taking an action or attempting to take an action protected by Subsection 8-15-87(a)(2) of this Code is presumed to be a retaliatory action for the purposes of Section 8-15-11, unless the owner can establish by a preponderance of the evidence that the action was not taken to retaliate against the tenant.",
+      "structured_content": {
+        "term": "Retaliatory action"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 17
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_8_def_risk_assessment",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_8",
+      "unit_type": "definition",
+      "title": "Risk assessment",
+      "full_text": "Risk assessment means both of the following:\n\n(1) An on-site investigation conducted by a certified risk assessor to determine the existence, nature, severity, and location of a lead-based paint hazard; and\n\n(2) The provision of a report by the person conducting the risk assessment explaining the results of the investigation and options for reducing the lead-based paint hazard.",
+      "structured_content": {
+        "term": "Risk assessment"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 18
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_8_def_rooming_house",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_8",
+      "unit_type": "definition",
+      "title": "Rooming house",
+      "full_text": "Rooming house means a building arranged or occupied for lodging, with or without meals, for compensation and not occupied as a one- or two-family dwelling.",
+      "structured_content": {
+        "term": "Rooming house"
+      },
+      "metadata": {
+        "term": "Rooming house"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 19
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_8_def_rooming_unit",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_8",
+      "unit_type": "definition",
+      "title": "Rooming unit",
+      "full_text": "Rooming unit means any room, or group of rooms, that form a single habitable unit occupied, or intended to be occupied, for sleeping or living, but not for cooking purposes.",
+      "structured_content": {
+        "term": "Rooming unit"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 20
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_8_def_rubbish",
+      "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_8",
+      "unit_type": "definition",
+      "title": "Rubbish",
+      "full_text": "Rubbish means, as defined by Section 11505 of the Michigan Natural Resources and Environmental Act, being MCL 324.11505, non-putrescible solid waste, excluding ashes, consisting of both combustible and noncombustible waste, including paper, cardboard, metal containers, yard clippings, wood, glass, bedding, crockery, demolished building materials, or litter of any kind that may be a detriment to the public health and safety.",
+      "structured_content": {
+        "term": "Rubbish"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_definition",
+        "definition_index": 21
+      }
+    }
+  ]
+}
