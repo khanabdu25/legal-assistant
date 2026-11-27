@@ -1,0 +1,244 @@
+
+{
+  "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+  "units": [
+    {
+      "unit_id": "detroit_2024_ordinance_8_15_86",
+      "parent_unit_id": null,
+      "unit_type": "statutory_section",
+      "title": "Tenant escrow.",
+      "full_text": "(a) The City shall establish a tenant escrow program to be administered by the Housing and Revitalization Department or its designee, which may include a third-party organization authorized by the Housing and Revitalization Department.\n\n(b) Tenants may pay their rent into the escrow program identified in Subsection (a) of this section if the rental property where they reside lacks a Certificate of Compliance or has documented property maintenance code violations that pose a safety risk to the tenant.\n\n(c) A tenant's payment of rent into the tenant escrow program that is otherwise made in accordance with the terms of the tenant's lease agreement with the owner, including terms related to timely payment, shall not be a violation of the tenant's obligation to pay rent under the lease agreement.\n\n(d) A tenant shall be responsible for providing notice to the property owner that rent has been paid into an escrow account.\n\n(e) A property owner shall be responsible for obtaining a Certificate of Compliance, including bringing the property into compliance with the property maintenance code and scheduling necessary inspections required by this division.\n\n(f) Distribution of escrow funds:\n\n(1) A tenant account shall be evaluated by the Housing and Revitalization Department or its designee on a periodic basis, not to exceed 120 days;\n\n(2) If the owner has acquired a Certificate of Compliance or otherwise resolved the violations that were the basis for the tenant paying into the escrow account at the time of such periodic review, the Housing and Revitalization Department or its designee shall return to the owner the rent accrued in the tenant's escrow account;\n\n(3) If the owner has not acquired a Certificate of Compliance or otherwise resolved the violations that were the basis for the tenant paying into the escrow account at the time of such periodic review, the Housing and Revitalization Department or its designee will return the rent in the escrow account to the tenant.\n\n(g) In accordance with Section 2-111 of the Charter, the Housing and Revitalization Department promulgate rules for administration of the tenant escrow program.\n\n(h) Nothing in this section shall be interpreted to limit other escrow options available to tenants under the law.",
+      "structured_content": {
+        "section_number": "8-15-86",
+        "section_title": "Tenant escrow.",
+        "statutory_section": "8-15-86",
+        "history": null
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "parent",
+        "derived_child_unit_ids": [
+          "detroit_2024_8_15_86_subsection_a",
+          "detroit_2024_8_15_86_subsection_b",
+          "detroit_2024_8_15_86_subsection_c",
+          "detroit_2024_8_15_86_subsection_d",
+          "detroit_2024_8_15_86_subsection_e",
+          "detroit_2024_8_15_86_subsection_f",
+          "detroit_2024_8_15_86_subsection_f_1",
+          "detroit_2024_8_15_86_subsection_f_2",
+          "detroit_2024_8_15_86_subsection_f_3",
+          "detroit_2024_8_15_86_subsection_g",
+          "detroit_2024_8_15_86_subsection_h"
+        ]
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_86_subsection_a",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_86",
+      "unit_type": "statutory_subsection",
+      "title": "§ 8-15-86(a) — Establishment and administration of tenant escrow program",
+      "full_text": "(a) The City shall establish a tenant escrow program to be administered by the Housing and Revitalization Department or its designee, which may include a third-party organization authorized by the Housing and Revitalization Department.",
+      "structured_content": {
+        "section_number": "8-15-86",
+        "subsection": "(a)",
+        "subject": "Establishment and administration of tenant escrow program"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_subsection"
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_86_subsection_b",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_86",
+      "unit_type": "statutory_subsection",
+      "title": "§ 8-15-86(b) — Tenant eligibility to use escrow program",
+      "full_text": "(b) Tenants may pay their rent into the escrow program identified in Subsection (a) of this section if the rental property where they reside lacks a Certificate of Compliance or has documented property maintenance code violations that pose a safety risk to the tenant.",
+      "structured_content": {
+        "section_number": "8-15-86",
+        "subsection": "(b)",
+        "subject": "Conditions under which tenants may pay rent into the tenant escrow program"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_subsection"
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_86_subsection_c",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_86",
+      "unit_type": "statutory_subsection",
+      "title": "§ 8-15-86(c) — Effect of escrow payments on rent obligation",
+      "full_text": "(c) A tenant's payment of rent into the tenant escrow program that is otherwise made in accordance with the terms of the tenant's lease agreement with the owner, including terms related to timely payment, shall not be a violation of the tenant's obligation to pay rent under the lease agreement.",
+      "structured_content": {
+        "section_number": "8-15-86",
+        "subsection": "(c)",
+        "subject": "Effect of compliant escrow payments on the tenant's lease obligation to pay rent"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_subsection"
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_86_subsection_d",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_86",
+      "unit_type": "statutory_subsection",
+      "title": "§ 8-15-86(d) — Tenant notice responsibility",
+      "full_text": "(d) A tenant shall be responsible for providing notice to the property owner that rent has been paid into an escrow account.",
+      "structured_content": {
+        "section_number": "8-15-86",
+        "subsection": "(d)",
+        "subject": "Tenant responsibility to notify the property owner of escrow payments"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_subsection"
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_86_subsection_e",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_86",
+      "unit_type": "statutory_subsection",
+      "title": "§ 8-15-86(e) — Property owner compliance responsibilities",
+      "full_text": "(e) A property owner shall be responsible for obtaining a Certificate of Compliance, including bringing the property into compliance with the property maintenance code and scheduling necessary inspections required by this division.",
+      "structured_content": {
+        "section_number": "8-15-86",
+        "subsection": "(e)",
+        "subject": "Property owner's responsibility to obtain a Certificate of Compliance and complete required compliance work and inspections"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_subsection"
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_86_subsection_f",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_86",
+      "unit_type": "statutory_subsection",
+      "title": "§ 8-15-86(f) — Distribution of escrow funds",
+      "full_text": "(f) Distribution of escrow funds:\n\n(1) A tenant account shall be evaluated by the Housing and Revitalization Department or its designee on a periodic basis, not to exceed 120 days;\n\n(2) If the owner has acquired a Certificate of Compliance or otherwise resolved the violations that were the basis for the tenant paying into the escrow account at the time of such periodic review, the Housing and Revitalization Department or its designee shall return to the owner the rent accrued in the tenant's escrow account;\n\n(3) If the owner has not acquired a Certificate of Compliance or otherwise resolved the violations that were the basis for the tenant paying into the escrow account at the time of such periodic review, the Housing and Revitalization Department or its designee will return the rent in the escrow account to the tenant.",
+      "structured_content": {
+        "section_number": "8-15-86",
+        "subsection": "(f)",
+        "subject": "Distribution of escrow funds, including periodic review and conditional return of funds"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_subsection",
+        "derived_child_unit_ids": [
+          "detroit_2024_8_15_86_subsection_f_1",
+          "detroit_2024_8_15_86_subsection_f_2",
+          "detroit_2024_8_15_86_subsection_f_3"
+        ]
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_86_subsection_f_1",
+      "parent_unit_id": "detroit_2024_8_15_86_subsection_f",
+      "unit_type": "statutory_subsection_part",
+      "title": "§ 8-15-86(f)(1) — Periodic evaluation of tenant escrow account",
+      "full_text": "(1) A tenant account shall be evaluated by the Housing and Revitalization Department or its designee on a periodic basis, not to exceed 120 days;",
+      "structured_content": {
+        "section_number": "8-15-86",
+        "subsection": "(f)",
+        "subsection_part": "(1)",
+        "subject": "Periodic evaluation of tenant escrow accounts, with a maximum interval of 120 days"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_subsection_part"
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_86_subsection_f_2",
+      "parent_unit_id": "detroit_2024_8_15_86_subsection_f",
+      "unit_type": "statutory_subsection_part",
+      "title": "§ 8-15-86(f)(2) — Return of escrow funds to owner after compliance",
+      "full_text": "(2) If the owner has acquired a Certificate of Compliance or otherwise resolved the violations that were the basis for the tenant paying into the escrow account at the time of such periodic review, the Housing and Revitalization Department or its designee shall return to the owner the rent accrued in the tenant's escrow account;",
+      "structured_content": {
+        "section_number": "8-15-86",
+        "subsection": "(f)",
+        "subsection_part": "(2)",
+        "subject": "Return of accrued escrow funds to the owner when the Certificate of Compliance is acquired or the underlying violations are resolved"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_subsection_part"
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_86_subsection_f_3",
+      "parent_unit_id": "detroit_2024_8_15_86_subsection_f",
+      "unit_type": "statutory_subsection_part",
+      "title": "§ 8-15-86(f)(3) — Return of escrow funds to tenant when violations remain unresolved",
+      "full_text": "(3) If the owner has not acquired a Certificate of Compliance or otherwise resolved the violations that were the basis for the tenant paying into the escrow account at the time of such periodic review, the Housing and Revitalization Department or its designee will return the rent in the escrow account to the tenant.",
+      "structured_content": {
+        "section_number": "8-15-86",
+        "subsection": "(f)",
+        "subsection_part": "(3)",
+        "subject": "Return of escrow funds to the tenant when the owner has not acquired a Certificate of Compliance or resolved the underlying violations"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_subsection_part"
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_86_subsection_g",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_86",
+      "unit_type": "statutory_subsection",
+      "title": "§ 8-15-86(g) — Promulgation of tenant escrow program rules",
+      "full_text": "(g) In accordance with Section 2-111 of the Charter, the Housing and Revitalization Department promulgate rules for administration of the tenant escrow program.",
+      "structured_content": {
+        "section_number": "8-15-86",
+        "subsection": "(g)",
+        "subject": "Promulgation of rules for administration of the tenant escrow program"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_subsection"
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_86_subsection_h",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_86",
+      "unit_type": "statutory_subsection",
+      "title": "§ 8-15-86(h) — Preservation of other tenant escrow options",
+      "full_text": "(h) Nothing in this section shall be interpreted to limit other escrow options available to tenants under the law.",
+      "structured_content": {
+        "section_number": "8-15-86",
+        "subsection": "(h)",
+        "subject": "Preservation of other escrow options available to tenants under the law"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_subsection"
+      }
+    }
+  ]
+}
