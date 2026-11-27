@@ -27,7 +27,7 @@ Scope and current coverage
 
 The initial version is based on the ordinance material normalized so
 far: - Definitions sections: §§ 8-15-3 through 8-15-9. - Registration of
-rental property: § 8-15-81.
+rental property: §§ 8-15-81 and 8-15-82.
 
 Other provisions of the 2024 amendment may introduce additional
 patterns. Add them as those provisions are processed. Do not assume this
@@ -35,128 +35,136 @@ list exhausts the ordinance’s failure modes.
 
 A. DEFINITION RETRIEVAL
 
-1.  Definition is not retrieved because the question uses a synonym or
-    paraphrase rather than the ordinance’s defined term. [STRUCTURAL
-    RISK] Test: Ask about a concept using ordinary language, then check
-    whether the corresponding defined term and its complete definition
-    are retrieved. Failure looks like: a related provision is returned,
-    but the definition that establishes the ordinance’s precise meaning
-    is absent.
+Definition is not retrieved because the question uses a synonym or
+paraphrase rather than the ordinance’s defined term. [STRUCTURAL
+RISK] Test: Ask about a concept using ordinary language, then check
+whether the corresponding defined term and its complete definition
+are retrieved. Failure looks like: a related provision is returned,
+but the definition that establishes the ordinance’s precise meaning
+is absent.
 
-2.  Only part of a definition is retrieved. [STRUCTURAL RISK] Test: Ask
-    about definitions containing multiple numbered conditions,
-    subparagraphs, thresholds, or qualifying phrases. Failure looks
-    like: the answer includes the opening sentence but omits one or more
-    conditions, exceptions, measurements, or subparagraphs.
+Only part of a definition is retrieved. [STRUCTURAL RISK] Test: Ask
+about definitions containing multiple numbered conditions,
+subparagraphs, thresholds, or qualifying phrases. Failure looks
+like: the answer includes the opening sentence but omits one or more
+conditions, exceptions, measurements, or subparagraphs.
 
-3.  A definition is confused with a similarly named or related
-    definition. [STRUCTURAL RISK] Test: Ask separate questions about
-    closely related terms (for example, lead-based paint, lead-based
-    paint hazard, lead inspection, lead clearance, dust-lead violation,
-    and risk assessment). Failure looks like: the answer combines
-    requirements from different definitions or attributes one term’s
-    criteria to another.
+A definition is confused with a similarly named or related
+definition. [STRUCTURAL RISK] Test: Ask separate questions about
+closely related terms (for example, lead-based paint, lead-based
+paint hazard, lead inspection, lead clearance, dust-lead violation,
+and risk assessment). Failure looks like: the answer combines
+requirements from different definitions or attributes one term’s
+criteria to another.
 
-4.  A definition is retrieved without enough context to identify its
-    exact defined term or section. [STRUCTURAL RISK] Test: Retrieve
-    individual definition child units and verify that the returned unit
-    retains its term, parent section, and source citation. Failure looks
-    like: the text is returned but its defined-term label or statutory
-    location is missing or ambiguous.
+A definition is retrieved without enough context to identify its
+exact defined term or section. [STRUCTURAL RISK] Test: Retrieve
+individual definition child units and verify that the returned unit
+retains its term, parent section, and source citation. Failure looks
+like: the text is returned but its defined-term label or statutory
+location is missing or ambiguous.
 
-5.  The model treats a definition as a general legal definition rather
-    than the ordinance’s own definition. [STRUCTURAL RISK] Test: Ask
-    questions where ordinary usage may differ from the ordinance’s
-    defined meaning. Failure looks like: the answer substitutes common
-    meaning, another law’s definition, or outside knowledge for the
-    ordinance’s actual wording.
+The model treats a definition as a general legal definition rather
+than the ordinance’s own definition. [STRUCTURAL RISK] Test: Ask
+questions where ordinary usage may differ from the ordinance’s
+defined meaning. Failure looks like: the answer substitutes common
+meaning, another law’s definition, or outside knowledge for the
+ordinance’s actual wording.
 
 B. NUMBERED CONDITIONS, THRESHOLDS, AND QUALIFIERS
 
-6.  One or more numbered or lettered elements are omitted. [STRUCTURAL
-    RISK] Test: Ask for all elements of definitions or provisions
-    containing numbered lists, such as multi-part definitions and §
-    8-15-81(a)’s application requirements. Failure looks like: the
-    answer gives only some list items while presenting the list as
-    complete.
+One or more numbered or lettered elements are omitted. [STRUCTURAL
+RISK] Test: Ask for all elements of definitions or provisions
+containing numbered lists, such as multi-part definitions and §
+8-15-81(a)’s application requirements. Failure looks like: the
+answer gives only some list items while presenting the list as
+complete.
 
-7.  A numeric threshold, unit, comparison, or qualifying condition is
-    lost or altered. [STRUCTURAL RISK] Test: Ask for exact values and
-    conditions in definitions, including percentages, resident counts,
-    measurements, time periods, and other numeric criteria. Failure
-    looks like: a number is rounded, changed, detached from its unit, or
-    reported without the condition that makes it applicable.
+A numeric threshold, unit, comparison, or qualifying condition is
+lost or altered. [STRUCTURAL RISK] Test: Ask for exact values and
+conditions in definitions, including percentages, resident counts,
+measurements, time periods, and other numeric criteria. Failure
+looks like: a number is rounded, changed, detached from its unit, or
+reported without the condition that makes it applicable.
 
-8.  A qualifier changes the meaning but is dropped from the answer.
-    [STRUCTURAL RISK] Test: Ask about provisions containing phrases such
-    as “at least,” “only if,” “unless,” “as defined,” or other limiting
-    language. Failure looks like: the answer states a broad rule where
-    the source states a narrower or conditional one.
+A qualifier changes the meaning but is dropped from the answer.
+[STRUCTURAL RISK] Test: Ask about provisions containing phrases such
+as “at least,” “only if,” “unless,” “as defined,” or other limiting
+language. Failure looks like: the answer states a broad rule where
+the source states a narrower or conditional one.
 
-9.  Separate subparagraphs are collapsed into one generalized rule.
-    [STRUCTURAL RISK] Test: Ask for the individual criteria in
-    definitions with numbered subparagraphs and nested lettered items.
-    Failure looks like: the answer summarizes the general topic but does
-    not preserve which criterion belongs to which subparagraph.
+Separate subparagraphs are collapsed into one generalized rule.
+[STRUCTURAL RISK] Test: Ask for the individual criteria in
+definitions with numbered subparagraphs and nested lettered items.
+Failure looks like: the answer summarizes the general topic but does
+not preserve which criterion belongs to which subparagraph.
+
+Conditional procedures or exceptions are retrieved without their
+controlling conditions. [STRUCTURAL RISK] Test: Ask questions where
+the applicable procedure depends on a condition, classification,
+location, or exception, and verify that the answer preserves both
+the rule and the condition determining when it applies. Failure
+looks like: one branch is presented as universal, or an exception
+or prerequisite is omitted.
 
 C. STATUTORY SECTION AND SUBSECTION RETRIEVAL
 
-10. A question about one subsection retrieves only the parent section or
-    a neighboring subsection. [STRUCTURAL RISK] Test: Ask narrowly about
-    each subsection of § 8-15-81(a)–(g). Failure looks like: the section
-    heading or general section text is returned, but the specific
-    subsection containing the answer is absent.
+A question about one subsection retrieves only the parent section or
+a neighboring subsection. [STRUCTURAL RISK] Test: Ask narrowly about
+each subsection of § 8-15-81(a)–(g). Failure looks like: the section
+heading or general section text is returned, but the specific
+subsection containing the answer is absent.
 
-11. The parent section is not included when child-subsection context is
-    necessary. [STRUCTURAL RISK] Test: Retrieve a subsection and check
-    whether the system retains its section number, section title, and
-    parent-child relationship. Failure looks like: the text is retrieved
-    without enough context to identify that it belongs to § 8-15-81 or
-    what subject the section covers.
+The parent section is not included when child-subsection context is
+necessary. [STRUCTURAL RISK] Test: Retrieve a subsection and check
+whether the system retains its section number, section title, and
+parent-child relationship. Failure looks like: the text is retrieved
+without enough context to identify that it belongs to § 8-15-81 or
+what subject the section covers.
 
-12. A child subsection is retrieved without its internal list or
-    complete operative text. [STRUCTURAL RISK] Test: Ask for all
-    application requirements under § 8-15-81(a), and for the complete
-    obligations under each of (b)–(g). Failure looks like: only the
-    first sentence or a fragment of the subsection is available to the
-    answer generator.
+A child subsection is retrieved without its internal list or
+complete operative text. [STRUCTURAL RISK] Test: Ask for all
+application requirements under § 8-15-81(a), and for the complete
+obligations under each of (b)–(g). Failure looks like: only the
+first sentence or a fragment of the subsection is available to the
+answer generator.
 
-13. The model merges distinct subsection obligations. [STRUCTURAL RISK]
-    Test: Ask separately about false information, registration validity,
-    registry maintenance, contact-information updates, ownership
-    transfers, and annual fees under § 8-15-81. Failure looks like: an
-    obligation is attributed to the wrong subsection or the conditions
-    for one obligation are applied to another.
+The model merges distinct subsection obligations. [STRUCTURAL RISK]
+Test: Ask separately about false information, registration validity,
+registry maintenance, contact-information updates, ownership
+transfers, and annual fees under § 8-15-81. Failure looks like: an
+obligation is attributed to the wrong subsection or the conditions
+for one obligation are applied to another.
 
 D. CROSS-REFERENCES AND RELATED PROVISIONS
 
-14. A provision expressly referenced by the retrieved text is not
-    retrieved. [STRUCTURAL RISK] Test: Ask about an application
-    requirement in § 8-15-81(a)(4), which refers to § 8-15-84, and
-    inspect whether the referenced provision is needed and available.
-    Failure looks like: the answer quotes the referring subsection but
-    omits the referenced provision needed to explain the requirement
-    completely.
+A provision expressly referenced by the retrieved text is not
+retrieved. [STRUCTURAL RISK] Test: Ask about an application
+requirement in § 8-15-81(a)(4), which refers to § 8-15-84, and
+inspect whether the referenced provision is needed and available.
+Failure looks like: the answer quotes the referring subsection but
+omits the referenced provision needed to explain the requirement
+completely.
 
-15. A cross-reference is mistaken for the substantive rule itself.
-    [STRUCTURAL RISK] Test: Ask what a subsection requires when it
-    points the reader to another section. Failure looks like: the answer
-    repeats the section number but does not retrieve or explain the
-    referenced provision.
+A cross-reference is mistaken for the substantive rule itself.
+[STRUCTURAL RISK] Test: Ask what a subsection requires when it
+points the reader to another section. Failure looks like: the answer
+repeats the section number but does not retrieve or explain the
+referenced provision.
 
-16. A related provision is retrieved merely because it is semantically
-    similar, even though it is not the provision expressly referenced.
-    [STRUCTURAL RISK] Test: Compare the exact statutory cross-reference
-    with other related provisions returned by semantic search. Failure
-    looks like: the answer relies on a neighboring or topical provision
-    instead of following the actual reference.
+A related provision is retrieved merely because it is semantically
+similar, even though it is not the provision expressly referenced.
+[STRUCTURAL RISK] Test: Compare the exact statutory cross-reference
+with other related provisions returned by semantic search. Failure
+looks like: the answer relies on a neighboring or topical provision
+instead of following the actual reference.
 
-17. Cross-reference context is lost when definition child units are
-    retrieved independently. [STRUCTURAL RISK] Test: Ask about a defined
-    term whose definition points to, incorporates, or depends on another
-    section, regulation, or external legal instrument. Failure looks
-    like: the definition is quoted without the incorporated material
-    needed to understand its scope.
+Cross-reference context is lost when definition child units are
+retrieved independently. [STRUCTURAL RISK] Test: Ask about a defined
+term whose definition points to, incorporates, or depends on another
+section, regulation, or external legal instrument. Failure looks
+like: the definition is quoted without the incorporated material
+needed to understand its scope.
 
 Note: Explicit cross-reference edges are a candidate improvement, not an
 assumption that every reference must always be followed. Testing should
@@ -164,94 +172,94 @@ establish when following a reference is necessary for a complete answer.
 
 E. EXACT QUOTATION AND SOURCE FIDELITY
 
-18. The answer paraphrases when the question asks for the exact source
-    text. [STRUCTURAL RISK] Test: Ask for the exact wording of a
-    definition or subsection. Failure looks like: the response conveys
-    the general meaning but changes wording, punctuation, qualifiers, or
-    sentence structure.
+The answer paraphrases when the question asks for the exact source
+text. [STRUCTURAL RISK] Test: Ask for the exact wording of a
+definition or subsection. Failure looks like: the response conveys
+the general meaning but changes wording, punctuation, qualifiers, or
+sentence structure.
 
-19. The answer silently corrects unusual wording, grammar, punctuation,
-    or apparent source errors. [STRUCTURAL RISK] Test: Ask for exact
-    quotations of passages that were flagged during normalization as
-    unusual or potentially anomalous. Failure looks like: the answer
-    produces a polished or corrected version instead of the wording
-    present in the source.
+The answer silently corrects unusual wording, grammar, punctuation,
+or apparent source errors. [STRUCTURAL RISK] Test: Ask for exact
+quotations of passages that were flagged during normalization as
+unusual or potentially anomalous. Failure looks like: the answer
+produces a polished or corrected version instead of the wording
+present in the source.
 
-20. Text from separate definitions or provisions is combined into a
-    quotation that does not exist in the source. [STRUCTURAL RISK] Test:
-    Ask for a quotation supporting a multi-part answer and compare it
-    character-by-character with the source units. Failure looks like:
-    the answer presents stitched-together text as though it were one
-    continuous statutory quotation.
+Text from separate definitions or provisions is combined into a
+quotation that does not exist in the source. [STRUCTURAL RISK] Test:
+Ask for a quotation supporting a multi-part answer and compare it
+character-by-character with the source units. Failure looks like:
+the answer presents stitched-together text as though it were one
+continuous statutory quotation.
 
-21. The answer omits a sentence or clause while presenting a quotation
-    as complete. [STRUCTURAL RISK] Test: Ask for the complete definition
-    or complete subsection, especially where it contains multiple
-    sentences or nested elements. Failure looks like: the quotation
-    starts and ends plausibly but skips substantive text in the middle
-    or at the end.
+The answer omits a sentence or clause while presenting a quotation
+as complete. [STRUCTURAL RISK] Test: Ask for the complete definition
+or complete subsection, especially where it contains multiple
+sentences or nested elements. Failure looks like: the quotation
+starts and ends plausibly but skips substantive text in the middle
+or at the end.
 
-22. The answer fails to distinguish source wording from explanation.
-    [STRUCTURAL RISK] Test: Ask both what the ordinance says and what
-    that means in plain language. Failure looks like: explanatory
-    paraphrase is placed inside quotation marks or is attributed to the
-    ordinance.
+The answer fails to distinguish source wording from explanation.
+[STRUCTURAL RISK] Test: Ask both what the ordinance says and what
+that means in plain language. Failure looks like: explanatory
+paraphrase is placed inside quotation marks or is attributed to the
+ordinance.
 
 F. SOURCE LOCATION, CITATION, AND HIERARCHY
 
-23. The answer cites the wrong section, subsection, or defined term.
-    [STRUCTURAL RISK] Test: For each retrieved answer, verify the source
-    location against the canonical JSON and original ordinance. Failure
-    looks like: the quoted text is relevant but the citation points to a
-    neighboring provision or the wrong definition.
+The answer cites the wrong section, subsection, or defined term.
+[STRUCTURAL RISK] Test: For each retrieved answer, verify the source
+location against the canonical JSON and original ordinance. Failure
+looks like: the quoted text is relevant but the citation points to a
+neighboring provision or the wrong definition.
 
-24. The answer gives a parent-section citation when a more precise
-    subsection citation is available. [STRUCTURAL RISK] Test: Ask
-    questions answered by a particular subsection of § 8-15-81. Failure
-    looks like: the answer cites § 8-15-81 generally without identifying
-    the relevant subsection.
+The answer gives a parent-section citation when a more precise
+subsection citation is available. [STRUCTURAL RISK] Test: Ask
+questions answered by a particular subsection of § 8-15-81. Failure
+looks like: the answer cites § 8-15-81 generally without identifying
+the relevant subsection.
 
-25. Definition hierarchy is lost. [STRUCTURAL RISK] Test: Retrieve
-    definitions from each definitions section and verify that the term
-    remains associated with its correct parent section and definition
-    index. Failure looks like: a definition is assigned to the wrong
-    section, duplicate terms become indistinguishable, or
-    ordering/context is lost.
+Definition hierarchy is lost. [STRUCTURAL RISK] Test: Retrieve
+definitions from each definitions section and verify that the term
+remains associated with its correct parent section and definition
+index. Failure looks like: a definition is assigned to the wrong
+section, duplicate terms become indistinguishable, or
+ordering/context is lost.
 
 G. NORMALIZATION AND DATA-INTEGRITY RISKS
 
-26. A source-text anomaly is silently normalized away. [STRUCTURAL RISK]
-    Test: Compare canonical full_text against the verified source for
-    passages flagged during extraction. Failure looks like: an unusual
-    phrase, apparent typo, repeated phrase, malformed citation, or other
-    source feature disappears without an explicit user-approved
-    correction.
+A source-text anomaly is silently normalized away. [STRUCTURAL RISK]
+Test: Compare canonical full_text against the verified source for
+passages flagged during extraction. Failure looks like: an unusual
+phrase, apparent typo, repeated phrase, malformed citation, or other
+source feature disappears without an explicit user-approved
+correction.
 
-27. A child unit is missing, duplicated, or associated with the wrong
-    parent. [STRUCTURAL RISK] Test: Validate child-unit counts, IDs,
-    parent IDs, definition indices, and parent derived_child_unit_ids
-    arrays. Failure looks like: a definition cannot be retrieved because
-    its unit was never created, or it appears under the wrong
-    definitions section.
+A child unit is missing, duplicated, or associated with the wrong
+parent. [STRUCTURAL RISK] Test: Validate child-unit counts, IDs,
+parent IDs, definition indices, and parent derived_child_unit_ids
+arrays. Failure looks like: a definition cannot be retrieved because
+its unit was never created, or it appears under the wrong
+definitions section.
 
-28. Structured content and full_text disagree. [STRUCTURAL RISK] Test:
-    Compare every structured definition/subsection with its
-    corresponding full_text. Failure looks like: a structured field
-    contains a shortened or altered version, or the full text contains
-    content not represented in the structured fields.
+Structured content and full_text disagree. [STRUCTURAL RISK] Test:
+Compare every structured definition/subsection with its
+corresponding full_text. Failure looks like: a structured field
+contains a shortened or altered version, or the full text contains
+content not represented in the structured fields.
 
-29. A JSON or metadata error causes content to be dropped or misread.
-    [STRUCTURAL RISK] Test: Parse every JSON file; check for duplicate
-    keys, invalid syntax, missing required fields, and inconsistent
-    metadata. Failure looks like: a parser rejects the file, silently
-    overwrites a duplicate key, or ingestion omits a unit or field.
+A JSON or metadata error causes content to be dropped or misread.
+[STRUCTURAL RISK] Test: Parse every JSON file; check for duplicate
+keys, invalid syntax, missing required fields, and inconsistent
+metadata. Failure looks like: a parser rejects the file, silently
+overwrites a duplicate key, or ingestion omits a unit or field.
 
-30. A source correction is applied inconsistently across parent and
-    child units. [STRUCTURAL RISK] Test: For every user-approved
-    correction, compare the parent text, child text, structured
-    representation, and any derived retrieval text. Failure looks like:
-    one representation contains the approved correction while another
-    retains the superseded text.
+A source correction is applied inconsistently across parent and
+child units. [STRUCTURAL RISK] Test: For every user-approved
+correction, compare the parent text, child text, structured
+representation, and any derived retrieval text. Failure looks like:
+one representation contains the approved correction while another
+retains the superseded text.
 
 H. HOW TO USE THESE PATTERNS DURING TESTING
 
@@ -280,5 +288,8 @@ it, investigate generation and grounding.
 Change log
 
 Initial version: created during ordinance normalization. Coverage at
-creation: §§ 8-15-3 through 8-15-9 and § 8-15-81. No testing failures
-have yet been recorded in this initial version.
+creation: §§ 8-15-3 through 8-15-9 and § 8-15-81.
+
+Update: § 8-15-82 added. One additional structural risk was identified
+(pattern 31) concerning conditional procedures and exceptions. No
+observed testing failures have been recorded.
