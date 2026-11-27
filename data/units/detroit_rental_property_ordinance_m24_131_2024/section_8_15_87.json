@@ -1,0 +1,149 @@
+
+{
+  "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+  "units": [
+    {
+      "unit_id": "detroit_2024_ordinance_8_15_87",
+      "parent_unit_id": null,
+      "unit_type": "statutory_section",
+      "title": "Termination of tenancy to avoid compliance with subdivision or retaliatory action prohibited.",
+      "full_text": "(a) An owner of rental property, or any person acting on the owner's behalf, shall not:\n\n(1) Terminate, or cause to be terminated, the tenancy of any person for the purpose of avoiding compliance with Subdivision A or B of this division; or\n\n(2) Take any retaliatory action toward a tenant who reports any suspected lead-based paint hazards, violations, or suspected violations of this article to the owner or City, which includes reporting any one or more of the following:\n\na. An owner's failure to obtain a Certificate of Compliance or Certificate of Registration of Rental Property.\n\nb. An owner's failure to comply with lead safety requirements for rental properties in violation of Section 8-15-82(d).\n\nc. An owner's failure to maintain a rental property in compliance with this article.\n\nd. The discovery that a tenant residing within the property has an elevated blood lead level.\n\n(3) Take any retaliatory action toward a tenant who lawfully uses the escrow program established under Section 8-15-86 of this Code.\n\n(b) Action by the rental property owner to achieve compliance with this subdivision shall not be deemed a basis for the modification or termination of a tenancy for the property.\n\n(c) Nothing in this section shall alter the rights and privileges of tenants or property owners under state law, including the Michigan Rules of Evidence, the Michigan Court Rules, and MCL 600.5701 et seq..",
+      "structured_content": {
+        "section_number": "8-15-87",
+        "section_title": "Termination of tenancy to avoid compliance with subdivision or retaliatory action prohibited.",
+        "statutory_section": "8-15-87",
+        "history": null
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "parent",
+        "derived_child_unit_ids": [
+          "detroit_2024_8_15_87_subsection_a",
+          "detroit_2024_8_15_87_subsection_a_1",
+          "detroit_2024_8_15_87_subsection_a_2",
+          "detroit_2024_8_15_87_subsection_a_3",
+          "detroit_2024_8_15_87_subsection_b",
+          "detroit_2024_8_15_87_subsection_c"
+        ]
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_87_subsection_a",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_87",
+      "unit_type": "statutory_subsection",
+      "title": "§ 8-15-87(a) — Prohibited owner actions",
+      "full_text": "(a) An owner of rental property, or any person acting on the owner's behalf, shall not:\n\n(1) Terminate, or cause to be terminated, the tenancy of any person for the purpose of avoiding compliance with Subdivision A or B of this division; or\n\n(2) Take any retaliatory action toward a tenant who reports any suspected lead-based paint hazards, violations, or suspected violations of this article to the owner or City, which includes reporting any one or more of the following:\n\na. An owner's failure to obtain a Certificate of Compliance or Certificate of Registration of Rental Property.\n\nb. An owner's failure to comply with lead safety requirements for rental properties in violation of Section 8-15-82(d).\n\nc. An owner's failure to maintain a rental property in compliance with this article.\n\nd. The discovery that a tenant residing within the property has an elevated blood lead level.\n\n(3) Take any retaliatory action toward a tenant who lawfully uses the escrow program established under Section 8-15-86 of this Code.",
+      "structured_content": {
+        "section_number": "8-15-87",
+        "subsection": "(a)",
+        "subject": "Prohibitions against terminating tenancies to avoid compliance and taking retaliatory action against tenants"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_subsection",
+        "derived_child_unit_ids": [
+          "detroit_2024_8_15_87_subsection_a_1",
+          "detroit_2024_8_15_87_subsection_a_2",
+          "detroit_2024_8_15_87_subsection_a_3"
+        ]
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_87_subsection_a_1",
+      "parent_unit_id": "detroit_2024_8_15_87_subsection_a",
+      "unit_type": "statutory_subsection_part",
+      "title": "§ 8-15-87(a)(1) — Termination to avoid compliance",
+      "full_text": "(1) Terminate, or cause to be terminated, the tenancy of any person for the purpose of avoiding compliance with Subdivision A or B of this division; or",
+      "structured_content": {
+        "section_number": "8-15-87",
+        "subsection": "(a)",
+        "subsection_part": "(1)",
+        "subject": "Prohibition against terminating or causing termination of a tenancy to avoid compliance with Subdivision A or B"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_subsection_part"
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_87_subsection_a_2",
+      "parent_unit_id": "detroit_2024_8_15_87_subsection_a",
+      "unit_type": "statutory_subsection_part",
+      "title": "§ 8-15-87(a)(2) — Retaliation against tenants reporting hazards or violations",
+      "full_text": "(2) Take any retaliatory action toward a tenant who reports any suspected lead-based paint hazards, violations, or suspected violations of this article to the owner or City, which includes reporting any one or more of the following:\n\na. An owner's failure to obtain a Certificate of Compliance or Certificate of Registration of Rental Property.\n\nb. An owner's failure to comply with lead safety requirements for rental properties in violation of Section 8-15-82(d).\n\nc. An owner's failure to maintain a rental property in compliance with this article.\n\nd. The discovery that a tenant residing within the property has an elevated blood lead level.",
+      "structured_content": {
+        "section_number": "8-15-87",
+        "subsection": "(a)",
+        "subsection_part": "(2)",
+        "subject": "Prohibition against retaliatory action toward tenants reporting suspected lead-based paint hazards or violations, including the four specified examples"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_subsection_part"
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_87_subsection_a_3",
+      "parent_unit_id": "detroit_2024_8_15_87_subsection_a",
+      "unit_type": "statutory_subsection_part",
+      "title": "§ 8-15-87(a)(3) — Retaliation against tenants using escrow",
+      "full_text": "(3) Take any retaliatory action toward a tenant who lawfully uses the escrow program established under Section 8-15-86 of this Code.",
+      "structured_content": {
+        "section_number": "8-15-87",
+        "subsection": "(a)",
+        "subsection_part": "(3)",
+        "subject": "Prohibition against retaliatory action toward tenants who lawfully use the tenant escrow program"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_subsection_part"
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_87_subsection_b",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_87",
+      "unit_type": "statutory_subsection",
+      "title": "§ 8-15-87(b) — Owner compliance actions and tenancy",
+      "full_text": "(b) Action by the rental property owner to achieve compliance with this subdivision shall not be deemed a basis for the modification or termination of a tenancy for the property.",
+      "structured_content": {
+        "section_number": "8-15-87",
+        "subsection": "(b)",
+        "subject": "Owner actions to achieve compliance not constituting a basis for modification or termination of tenancy"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_subsection"
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_87_subsection_c",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_87",
+      "unit_type": "statutory_subsection",
+      "title": "§ 8-15-87(c) — Preservation of state-law rights and privileges",
+      "full_text": "(c) Nothing in this section shall alter the rights and privileges of tenants or property owners under state law, including the Michigan Rules of Evidence, the Michigan Court Rules, and MCL 600.5701 et seq..",
+      "structured_content": {
+        "section_number": "8-15-87",
+        "subsection": "(c)",
+        "subject": "Preservation of tenant and property owner rights and privileges under state law"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_subsection"
+      }
+    }
+  ]
+}
