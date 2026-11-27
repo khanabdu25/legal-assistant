@@ -1,0 +1,65 @@
+
+{
+  "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+  "units": [
+    {
+      "unit_id": "detroit_2024_ordinance_8_15_84",
+      "parent_unit_id": null,
+      "unit_type": "statutory_section",
+      "title": "Caretaker; responsible person; warning devices.",
+      "full_text": "(a) Where the owner of the rental property does not reside in the building, the owner shall designate a responsible person who resides in each building with a common entrance and eight or more dwelling units, seven or more sleeping rooms, or any combination thereof. The unit occupied by the responsible person shall be identified and the information posted in a visible place at the common entrance of the building, except for rental property that has a business office with posted regular office hours on site. Where there is no centralized business office and a number of buildings exist which are owned by the same rental property owner, the responsible person may be located in a remote location, provided, that the location of the responsible person is identified and posted in a conspicuous location at the common entrance of each building.\n\n(b) In addition, all Group R-1 multiple rental properties that neither are of fire-proof construction nor are protected with an approved sprinkler system or an approved, self-supervised and properly maintained automatic fire alarm system, that has sleeping accommodations for over 50 persons above the first floor, shall have one employee, and more if necessary, on duty at all times able to notify the tenants and the Fire Department in case of a fire or other emergency. There shall be at least one employee on duty at all times for this purpose for each 100 persons and for each next fraction of 100 persons in the building.",
+      "structured_content": {
+        "section_number": "8-15-84",
+        "section_title": "Caretaker; responsible person; warning devices.",
+        "statutory_section": "8-15-84",
+        "history": null
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "parent",
+        "derived_child_unit_ids": [
+          "detroit_2024_8_15_84_subsection_a",
+          "detroit_2024_8_15_84_subsection_b"
+        ]
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_84_subsection_a",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_84",
+      "unit_type": "statutory_subsection",
+      "title": "§ 8-15-84(a) — Responsible person designation and posting",
+      "full_text": "(a) Where the owner of the rental property does not reside in the building, the owner shall designate a responsible person who resides in each building with a common entrance and eight or more dwelling units, seven or more sleeping rooms, or any combination thereof. The unit occupied by the responsible person shall be identified and the information posted in a visible place at the common entrance of the building, except for rental property that has a business office with posted regular office hours on site. Where there is no centralized business office and a number of buildings exist which are owned by the same rental property owner, the responsible person may be located in a remote location, provided, that the location of the responsible person is identified and posted in a conspicuous location at the common entrance of each building.",
+      "structured_content": {
+        "section_number": "8-15-84",
+        "subsection": "(a)",
+        "subject": "Responsible person designation, identification, and posting requirements"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_subsection"
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_84_subsection_b",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_84",
+      "unit_type": "statutory_subsection",
+      "title": "§ 8-15-84(b) — Employee staffing for certain Group R-1 properties",
+      "full_text": "(b) In addition, all Group R-1 multiple rental properties that neither are of fire-proof construction nor are protected with an approved sprinkler system or an approved, self-supervised and properly maintained automatic fire alarm system, that has sleeping accommodations for over 50 persons above the first floor, shall have one employee, and more if necessary, on duty at all times able to notify the tenants and the Fire Department in case of a fire or other emergency. There shall be at least one employee on duty at all times for this purpose for each 100 persons and for each next fraction of 100 persons in the building.",
+      "structured_content": {
+        "section_number": "8-15-84",
+        "subsection": "(b)",
+        "subject": "Employee staffing and emergency notification requirements for specified Group R-1 multiple rental properties"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_subsection"
+      }
+    }
+  ]
+}
