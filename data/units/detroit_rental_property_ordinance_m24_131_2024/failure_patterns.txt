@@ -29,6 +29,9 @@ The initial version is based on the ordinance material normalized so
 far: - Definitions sections: §§ 8-15-3 through 8-15-9. - Registration of
 rental property: §§ 8-15-81 and 8-15-82.
 
+Additional provisions normalized since the initial version: §§ 8-15-84
+through 8-15-91, and § 8-15-98.
+
 Other provisions of the 2024 amendment may introduce additional
 patterns. Add them as those provisions are processed. Do not assume this
 list exhausts the ordinance’s failure modes.
@@ -166,6 +169,20 @@ section, regulation, or external legal instrument. Failure looks
 like: the definition is quoted without the incorporated material
 needed to understand its scope.
 
+Distinct but overlapping escrow mechanisms are conflated, or a
+required notice is mistaken for a complete statement of the governing
+rules. [STRUCTURAL RISK] Test: Ask separately about the City tenant
+escrow program under § 8-15-86, escrow accounts established under
+Michigan Housing Law and MCL 125.530(4) under § 8-15-89, and the
+required advertising notice in § 8-15-90(a). Verify that the answer
+distinguishes the programs' respective conditions, administration,
+and distribution of funds, and treats the § 8-15-90(a) quotation as
+required notice language rather than a complete eligibility or
+procedural rule. Failure looks like: requirements or outcomes from
+one escrow mechanism are attributed to the other, or the advertising
+notice is presented as an exhaustive statement of tenant eligibility
+or escrow procedure.
+
 Note: Explicit cross-reference edges are a candidate improvement, not an
 assumption that every reference must always be followed. Testing should
 establish when following a reference is necessary for a complete answer.
@@ -293,3 +310,9 @@ creation: §§ 8-15-3 through 8-15-9 and § 8-15-81.
 Update: § 8-15-82 added. One additional structural risk was identified
 (pattern 31) concerning conditional procedures and exceptions. No
 observed testing failures have been recorded.
+
+Update: §§ 8-15-84 through 8-15-91 and § 8-15-98 added to normalized
+coverage. One additional structural risk was identified (pattern 32)
+concerning the distinction between overlapping escrow mechanisms and the
+required advertising notice. No observed testing failures have been
+recorded.
