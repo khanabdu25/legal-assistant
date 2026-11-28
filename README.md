@@ -2,6 +2,9 @@
 
 CHANGELOG:
 
+NOV 28th, 2026:
+- Designed the first Postgres entity which is retrieval unit. It is shape of how individual retrieval units are to be stored. This normalization process is important for structured data retrieval. As Im generating units I'm thinking critically about what data needs to stay together for sufficient context and what data can be separated to improve retrieval efficiency.
+
 NOV 22nd, 2026:
 - Completed a substantial milestone: initial corpus now contains nine processed sources across three different types of legal information: primary, judicial, and explanatory
 
