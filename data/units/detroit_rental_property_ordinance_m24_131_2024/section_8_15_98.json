@@ -1,0 +1,40 @@
+{
+  "units": [
+    {
+      "unit_id": "detroit_2024_ordinance_8_15_98",
+      "parent_unit_id": null,
+      "unit_type": "statutory_section",
+      "unit_title": "Required distribution of information.",
+      "full_text": "An owner of rental property, or any person acting on the owner's behalf, shall provide the federal lead disclosure pamphlet to every tenant at the commencement of their lease, and shall keep a record of such distribution for inspection upon request by the Building, Safety Engineering, and Environmental Department.",
+      "structured_content": {
+        "section_number": "8-15-98",
+        "section_title": "Required distribution of information.",
+        "statutory_section": "8-15-98",
+        "history": null
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "parent",
+        "derived_child_unit_ids": [
+          "detroit_2024_8_15_98_full_provision"
+        ]
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_98_full_provision",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_98",
+      "unit_type": "statutory_provision",
+      "unit_title": "§ 8-15-98 — Full provision",
+      "full_text": "An owner of rental property, or any person acting on the owner's behalf, shall provide the federal lead disclosure pamphlet to every tenant at the commencement of their lease, and shall keep a record of such distribution for inspection upon request by the Building, Safety Engineering, and Environmental Department.",
+      "structured_content": {},
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_provision"
+      }
+    }
+  ]
+}
