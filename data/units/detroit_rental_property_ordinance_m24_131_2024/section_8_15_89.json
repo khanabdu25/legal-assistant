@@ -1,0 +1,59 @@
+{
+  "units": [
+    {
+      "unit_id": "detroit_2024_ordinance_8_15_89",
+      "parent_unit_id": null,
+      "unit_type": "statutory_section",
+      "unit_title": "Utilization of escrow accounts established under Michigan Housing Law.",
+      "full_text": "(a) In accordance with MCL 125.530, a rental property shall not be occupied until the owner has obtained a certificate of compliance. During such time that a property lacks a certificate of compliance, rents due may be paid into an escrow account established under MCL 125.530(4), and if such rents are paid into an escrow account established under 125.530(4), actions for rent and possession for the premises may not be maintained.\n\n(b) In accordance with state law, rents paid into an escrow program established under MCL 125.530(4) shall be paid thereafter to defray the cost of correcting the violation(s) to the property owner or any other party authorized to make repairs. Where the tenant chooses to terminate tenancy prior to the property owner or their agent undertaking the repair, any unexpended part of the sums paid in to the escrow account attributable to the unexpired portion of the rental period, shall be returned to the tenant.",
+      "structured_content": {
+        "section_number": "8-15-89",
+        "section_title": "Utilization of escrow accounts established under Michigan Housing Law.",
+        "statutory_section": "8-15-89",
+        "history": null
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "parent",
+        "derived_child_unit_ids": [
+          "detroit_2024_8_15_89_subsection_a",
+          "detroit_2024_8_15_89_subsection_b"
+        ]
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_89_subsection_a",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_89",
+      "unit_type": "statutory_subsection",
+      "unit_title": "§ 8-15-89(a)",
+      "full_text": "(a) In accordance with MCL 125.530, a rental property shall not be occupied until the owner has obtained a certificate of compliance. During such time that a property lacks a certificate of compliance, rents due may be paid into an escrow account established under MCL 125.530(4), and if such rents are paid into an escrow account established under 125.530(4), actions for rent and possession for the premises may not be maintained.",
+      "structured_content": {
+        "subsection": "(a)"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_subsection"
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_89_subsection_b",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_89",
+      "unit_type": "statutory_subsection",
+      "unit_title": "§ 8-15-89(b)",
+      "full_text": "(b) In accordance with state law, rents paid into an escrow program established under MCL 125.530(4) shall be paid thereafter to defray the cost of correcting the violation(s) to the property owner or any other party authorized to make repairs. Where the tenant chooses to terminate tenancy prior to the property owner or their agent undertaking the repair, any unexpended part of the sums paid in to the escrow account attributable to the unexpired portion of the rental period, shall be returned to the tenant.",
+      "structured_content": {
+        "subsection": "(b)"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_subsection"
+      }
+    }
+  ]
+}
