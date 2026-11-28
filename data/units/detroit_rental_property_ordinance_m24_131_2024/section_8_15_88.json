@@ -1,0 +1,128 @@
+
+{
+  "document_id": "detroit_rental_property_ordinance_m24_131_2024",
+  "units": [
+    {
+      "unit_id": "detroit_2024_ordinance_8_15_88",
+      "parent_unit_id": null,
+      "unit_type": "statutory_section",
+      "title": "Consideration of Certificate of Compliance in eviction judgment.",
+      "full_text": "(a) Nothing in this subsection shall modify the procedures prescribed in MCR 4.201. As required by MCR 4.201, when filing summary proceedings to recover possession of premises, a property owner must affirm that the property is in compliance with local health and safety laws, which include this division, except when:\n\n(1) The disrepair or violation has been caused by the tenant's willful or irresponsible conduct or lack of conduct\n\n(2) The parties to the lease or license have modified those obligations, as provided for by statute; or\n\n(3) The property owner explains any defects in compliance, for example the City of Detroit's failure to inspect despite a request to do so.\n\n(b) Under MCL 600.5720(f), a property owner's failure to obtain a certificate of compliance, in accordance with the requirement of MCL 554.139(1) to comply with the applicable health and safety laws of the local unit of government, shall be considered a breach of lease. A court of competent jurisdiction shall determine if such breach excuses the payment of rent if possession is claimed for nonpayment of rent.\n\n(c) In accordance MCL 600.5720(a), a tenant may use any legal method, including but not limited to one or more of the following methods to document an attempt to secure or enforce his or her rights under MCL 554.139(1) that a rental property comply with applicable health and safety laws of the local unit of government:\n\n(1) Documenting and reporting a property's lack of a Certificate of Compliance and notifying the property owner or agent of such non-compliance; or\n\n(2) Documenting and reporting to the Buildings, Safety Engineering, and Environmental Department alleged Property Maintenance Code violations in the rental property.",
+      "structured_content": {
+        "section_number": "8-15-88",
+        "section_title": "Consideration of Certificate of Compliance in eviction judgment.",
+        "statutory_section": "8-15-88",
+        "history": null
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "parent",
+        "derived_child_unit_ids": [
+          "detroit_2024_8_15_88_subsection_a",
+          "detroit_2024_8_15_88_subsection_b",
+          "detroit_2024_8_15_88_subsection_c",
+          "detroit_2024_8_15_88_subsection_c_1",
+          "detroit_2024_8_15_88_subsection_c_2"
+        ]
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_88_subsection_a",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_88",
+      "unit_type": "statutory_subsection",
+      "title": "§ 8-15-88(a) — Compliance affirmation in summary proceedings",
+      "full_text": "(a) Nothing in this subsection shall modify the procedures prescribed in MCR 4.201. As required by MCR 4.201, when filing summary proceedings to recover possession of premises, a property owner must affirm that the property is in compliance with local health and safety laws, which include this division, except when:\n\n(1) The disrepair or violation has been caused by the tenant's willful or irresponsible conduct or lack of conduct\n\n(2) The parties to the lease or license have modified those obligations, as provided for by statute; or\n\n(3) The property owner explains any defects in compliance, for example the City of Detroit's failure to inspect despite a request to do so.",
+      "structured_content": {
+        "section_number": "8-15-88",
+        "subsection": "(a)",
+        "subject": "Compliance affirmation requirement in summary proceedings and its three exceptions"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_subsection"
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_88_subsection_b",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_88",
+      "unit_type": "statutory_subsection",
+      "title": "§ 8-15-88(b) — Failure to obtain Certificate of Compliance as breach of lease",
+      "full_text": "(b) Under MCL 600.5720(f), a property owner's failure to obtain a certificate of compliance, in accordance with the requirement of MCL 554.139(1) to comply with the applicable health and safety laws of the local unit of government, shall be considered a breach of lease. A court of competent jurisdiction shall determine if such breach excuses the payment of rent if possession is claimed for nonpayment of rent.",
+      "structured_content": {
+        "section_number": "8-15-88",
+        "subsection": "(b)",
+        "subject": "Failure to obtain Certificate of Compliance as breach of lease and judicial determination concerning excuse of rent payment"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_subsection"
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_88_subsection_c",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_88",
+      "unit_type": "statutory_subsection",
+      "title": "§ 8-15-88(c) — Tenant methods of documenting attempts to enforce rights",
+      "full_text": "(c) In accordance MCL 600.5720(a), a tenant may use any legal method, including but not limited to one or more of the following methods to document an attempt to secure or enforce his or her rights under MCL 554.139(1) that a rental property comply with applicable health and safety laws of the local unit of government:\n\n(1) Documenting and reporting a property's lack of a Certificate of Compliance and notifying the property owner or agent of such non-compliance; or\n\n(2) Documenting and reporting to the Buildings, Safety Engineering, and Environmental Department alleged Property Maintenance Code violations in the rental property.",
+      "structured_content": {
+        "section_number": "8-15-88",
+        "subsection": "(c)",
+        "subject": "Tenant's ability to use legal methods to document attempts to secure or enforce rights under MCL 554.139(1)"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_subsection",
+        "derived_child_unit_ids": [
+          "detroit_2024_8_15_88_subsection_c_1",
+          "detroit_2024_8_15_88_subsection_c_2"
+        ]
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_88_subsection_c_1",
+      "parent_unit_id": "detroit_2024_8_15_88_subsection_c",
+      "unit_type": "statutory_subsection_part",
+      "title": "§ 8-15-88(c)(1) — Reporting lack of Certificate of Compliance",
+      "full_text": "(1) Documenting and reporting a property's lack of a Certificate of Compliance and notifying the property owner or agent of such non-compliance; or",
+      "structured_content": {
+        "section_number": "8-15-88",
+        "subsection": "(c)",
+        "subsection_part": "(1)",
+        "subject": "Documenting and reporting lack of Certificate of Compliance and notifying the property owner or agent"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_subsection_part"
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_88_subsection_c_2",
+      "parent_unit_id": "detroit_2024_8_15_88_subsection_c",
+      "unit_type": "statutory_subsection_part",
+      "title": "§ 8-15-88(c)(2) — Reporting alleged Property Maintenance Code violations",
+      "full_text": "(2) Documenting and reporting to the Buildings, Safety Engineering, and Environmental Department alleged Property Maintenance Code violations in the rental property.",
+      "structured_content": {
+        "section_number": "8-15-88",
+        "subsection": "(c)",
+        "subsection_part": "(2)",
+        "subject": "Documenting and reporting alleged Property Maintenance Code violations to the Buildings, Safety Engineering, and Environmental Department"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_subsection_part"
+      }
+    }
+  ]
+}
