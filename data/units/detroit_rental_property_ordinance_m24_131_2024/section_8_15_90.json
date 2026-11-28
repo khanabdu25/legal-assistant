@@ -1,0 +1,60 @@
+{
+  "units": [
+    {
+      "unit_id": "detroit_2024_ordinance_8_15_90",
+      "parent_unit_id": null,
+      "unit_type": "statutory_section",
+      "unit_title": "Notice and posting requirements for housing providers.",
+      "full_text": "(a) A housing provider must include the following information in all solicitations or advertisements for the rental or lease of residential property:\n\n\"Rental property owners are required to register with the City and complete a property inspection to ensure that rental housing meets safety and health requirements. Tenants in non-compliant properties can pay their rent into escrow. For additional information, please contact the City of Detroit Buildings, Safety Engineering, and Environmental Department.\"\n\n(b) The Buildings, Safety Engineering, and Environmental Department shall publish and make available to housing providers, in all languages spoken by more than five percent of the City's population, a notice suitable for posting that informs tenants and prospective tenants of the requirements of this article.",
+      "structured_content": {
+        "section_number": "8-15-90",
+        "section_title": "Notice and posting requirements for housing providers.",
+        "statutory_section": "8-15-90",
+        "history": null
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "parent",
+        "derived_child_unit_ids": [
+          "detroit_2024_8_15_90_subsection_a",
+          "detroit_2024_8_15_90_subsection_b"
+        ]
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_90_subsection_a",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_90",
+      "unit_type": "statutory_subsection",
+      "unit_title": "§ 8-15-90(a)",
+      "full_text": "(a) A housing provider must include the following information in all solicitations or advertisements for the rental or lease of residential property:\n\n\"Rental property owners are required to register with the City and complete a property inspection to ensure that rental housing meets safety and health requirements. Tenants in non-compliant properties can pay their rent into escrow. For additional information, please contact the City of Detroit Buildings, Safety Engineering, and Environmental Department.\"",
+      "structured_content": {
+        "subsection": "(a)",
+        "required_notice": "Rental property owners are required to register with the City and complete a property inspection to ensure that rental housing meets safety and health requirements. Tenants in non-compliant properties can pay their rent into escrow. For additional information, please contact the City of Detroit Buildings, Safety Engineering, and Environmental Department."
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_subsection"
+      }
+    },
+    {
+      "unit_id": "detroit_2024_8_15_90_subsection_b",
+      "parent_unit_id": "detroit_2024_ordinance_8_15_90",
+      "unit_type": "statutory_subsection",
+      "unit_title": "§ 8-15-90(b)",
+      "full_text": "(b) The Buildings, Safety Engineering, and Environmental Department shall publish and make available to housing providers, in all languages spoken by more than five percent of the City's population, a notice suitable for posting that informs tenants and prospective tenants of the requirements of this article.",
+      "structured_content": {
+        "subsection": "(b)"
+      },
+      "metadata": {
+        "source_type": "primary_law",
+        "authority_level": "binding",
+        "source_format": "ordinance",
+        "unit_role": "child_subsection"
+      }
+    }
+  ]
+}
